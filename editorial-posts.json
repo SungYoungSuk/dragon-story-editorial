@@ -1,3 +1,14 @@
 {
-  "posts": []
+  "posts": [
+    {
+      "published_at": "2026-06-20T17:00:39+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/%EC%9C%84%EB%A1%9C%EB%B3%B4%ED%8B%B1%EC%8A%A4-950%EC%96%B5-%ED%88%AC%EC%9E%90-%EC%97%94%EB%B9%84%EB%94%94%EC%95%84-%EC%9D%B8%EC%A0%95%ED%95%9C-K-%ED%9C%B4%EB%A8%B8%EB%85%B8%EC%9D%B4%EB%93%9C-%EC%84%A0%EB%91%90-%EB%8F%84%EC%95%BD",
+      "title": "위로보틱스 950억 투자, 엔비디아 인정한 K-휴머노이드 선두 도약",
+      "summary": "위로보틱스가 950억 시리즈B 투자로 K-휴머노이드 및 피지컬 AI 시장의 독보적 선두에 섰습니다. 윔의 상업적 성공과 알렉스 개발, 엔비디아, AWS 등 글로벌 협력으로 로봇 시장의 미래를 개척합니다.",
+      "description": "위로보틱스가 950억 시리즈B 투자로 K-휴머노이드 및 피지컬 AI 시장의 독보적 선두에 섰습니다. 윔의 상업적 성공과 알렉스 개발, 엔비디아, AWS 등 글로벌 협력으로 로봇 시장의 미래를 개척합니다.",
+      "lang": "ko"
+    }
+  ]
 }
