@@ -79,6 +79,16 @@
       "summary": "OpenAI's Codex , a powerful AI coding agent, is now integrated into the ChatGPT mobile app , enabling software developers to perform and manage coding tasks, monitor progress, and control desktop…",
       "description": "OpenAI's Codex , a powerful AI coding agent, is now integrated into the ChatGPT mobile app , enabling software developers to perform and manage coding tasks, monitor progress, and control desktop environments anywhere, anytime from their smartphones, fundamentally transforming the mobile development workflow.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-06-24T21:13:41+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Anthropics-Agent-View-for-Claude-Code-Master-Multi-AI-Agents-Transform-Developer-Productivity",
+      "title": "Anthropic's Agent View for Claude Code: Master Multi-AI Agents & Transform Developer Productivity",
+      "summary": "Anthropic's new 'Agent View' for Claude Code significantly boosts developer productivity by centralizing the management of multiple AI agent tasks and conversations on a single, intuitive screen…",
+      "description": "Anthropic's new 'Agent View' for Claude Code significantly boosts developer productivity by centralizing the management of multiple AI agent tasks and conversations on a single, intuitive screen, enabling developers to orchestrate complex projects with ease and intervene only when crucial judgment is required.",
+      "lang": "en"
     }
   ]
 }
