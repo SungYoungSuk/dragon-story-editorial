@@ -199,6 +199,16 @@
       "summary": "Microsoft has significantly expanded its AI capabilities by unveiling seven new proprietary AI models , including sophisticated reasoning, coding, image generation, and voice synthesis, with models…",
       "description": "Microsoft has significantly expanded its AI capabilities by unveiling seven new proprietary AI models , including sophisticated reasoning, coding, image generation, and voice synthesis, with models like MAI-Transcribe-1.5 achieving world-class accuracy and up to 5 times faster processing . The company's AI business is experiencing extraordinary growth, with its annual revenue run rate now exceeding $37 billion , representing a staggering 123% year-over-year increase , driven by robust adoption of Azure Cloud services and Microsoft Copilot . Microsoft is committed to a long-term vision of 'Humanist Superintelligence' , aiming for AI to enhance human decision-making under human control, supported by a new 'Superintelligence Lab' , strategic partnerships such as with Mayo Clinic for medical AI, and advanced technologies like Frontier Tuning for secure, custom enterprise AI.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-07-02T23:06:22+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Microsoft-Scout-Unveiled-Autonomous-AI-Agent-Revolutionizes-Enterprise-Productivity-with-Self-Managing-OS-365-Integration",
+      "title": "Microsoft Scout Unveiled: Autonomous AI Agent Revolutionizes Enterprise Productivity with Self-Managing OS & 365 Integration",
+      "summary": "Microsoft Scout is an always-on, autonomous AI agent designed to independently manage and execute user tasks , operating as a proactive personal assistant within enterprise environments without…",
+      "description": "Microsoft Scout is an always-on, autonomous AI agent designed to independently manage and execute user tasks , operating as a proactive personal assistant within enterprise environments without constant user commands.",
+      "lang": "en"
     }
   ]
 }
