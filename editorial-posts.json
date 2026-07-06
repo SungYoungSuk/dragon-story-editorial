@@ -289,6 +289,16 @@
       "summary": "Mayo Clinic and Microsoft are collaborating to develop next-generation, specialized medical AI models , combining Mayo's vast clinical data and expertise with Microsoft's AI and cloud technology…",
       "description": "Mayo Clinic and Microsoft are collaborating to develop next-generation, specialized medical AI models , combining Mayo's vast clinical data and expertise with Microsoft's AI and cloud technology. These AI models are uniquely designed for medical use, aiming for faster disease diagnosis, personalized treatment plans, and enhanced support for complex medical decisions , prioritizing patient safety and clinical reliability. Mayo Clinic will own the developed AI models, with Microsoft facilitating their global dissemination via Azure Foundry API to expand the medical AI ecosystem and drive a new era of domain-specific AI in healthcare.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-07-06T13:51:31+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/NVIDIA-Microsoft-Launch-RTX-Spark-AI-Agent-PCs-with-1-PFLOPS-Local-Power-Ultimate-Privacy-and-128GB-Memory-for-Creators-Gamers",
+      "title": "NVIDIA & Microsoft Launch RTX Spark: AI Agent PCs with 1 PFLOPS Local Power, Ultimate Privacy, and 128GB Memory for Creators & Gamers",
+      "summary": "NVIDIA and Microsoft are launching the RTX Spark platform, ushering in an era of 'AI Agent PCs' that perform tasks directly on the user's device, ensuring unprecedented privacy, security, and local…",
+      "description": "NVIDIA and Microsoft are launching the RTX Spark platform, ushering in an era of 'AI Agent PCs' that perform tasks directly on the user's device, ensuring unprecedented privacy, security, and local AI processing power . The platform boasts exceptional performance with up to 1 PFLOPS of AI capability , 128GB integrated memory , and local support for 120 billion parameter LLMs , catering to demanding tasks in content creation, generative AI, and high-fidelity gaming. Set for release this autumn, RTX Spark PCs will be available as laptops and desktops from major manufacturers, with Adobe planning to redesign its flagship creative applications to leverage its advanced AI and graphics performance .",
+      "lang": "en"
     }
   ]
 }
