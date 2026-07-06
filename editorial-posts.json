@@ -279,6 +279,16 @@
       "summary": "Project Solara marks a pivotal shift from the traditional app-centric computing model to an AI agent-centric paradigm , where devices are powered by intelligent agents capable of understanding user…",
       "description": "Project Solara marks a pivotal shift from the traditional app-centric computing model to an AI agent-centric paradigm , where devices are powered by intelligent agents capable of understanding user intent and autonomously executing tasks across various services and devices, fundamentally redefining user interaction and expanding Microsoft's market influence.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-07-06T13:36:05+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Mayo-Clinic-Microsoft-Partner-to-Develop-Next-Gen-Specialized-Medical-AI-Transforming-Healthcare-Diagnosis-and-Global-Access",
+      "title": "Mayo Clinic & Microsoft Partner to Develop Next-Gen Specialized Medical AI: Transforming Healthcare, Diagnosis, and Global Access",
+      "summary": "Mayo Clinic and Microsoft are collaborating to develop next-generation, specialized medical AI models , combining Mayo's vast clinical data and expertise with Microsoft's AI and cloud technology…",
+      "description": "Mayo Clinic and Microsoft are collaborating to develop next-generation, specialized medical AI models , combining Mayo's vast clinical data and expertise with Microsoft's AI and cloud technology. These AI models are uniquely designed for medical use, aiming for faster disease diagnosis, personalized treatment plans, and enhanced support for complex medical decisions , prioritizing patient safety and clinical reliability. Mayo Clinic will own the developed AI models, with Microsoft facilitating their global dissemination via Azure Foundry API to expand the medical AI ecosystem and drive a new era of domain-specific AI in healthcare.",
+      "lang": "en"
     }
   ]
 }
