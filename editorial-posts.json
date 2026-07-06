@@ -299,6 +299,16 @@
       "summary": "NVIDIA and Microsoft are launching the RTX Spark platform, ushering in an era of 'AI Agent PCs' that perform tasks directly on the user's device, ensuring unprecedented privacy, security, and local…",
       "description": "NVIDIA and Microsoft are launching the RTX Spark platform, ushering in an era of 'AI Agent PCs' that perform tasks directly on the user's device, ensuring unprecedented privacy, security, and local AI processing power . The platform boasts exceptional performance with up to 1 PFLOPS of AI capability , 128GB integrated memory , and local support for 120 billion parameter LLMs , catering to demanding tasks in content creation, generative AI, and high-fidelity gaming. Set for release this autumn, RTX Spark PCs will be available as laptops and desktops from major manufacturers, with Adobe planning to redesign its flagship creative applications to leverage its advanced AI and graphics performance .",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-07-06T14:27:15+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/MS-%EC%8A%A4%EC%B9%B4%EC%9A%B0%ED%8A%B8-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EC%97%86%EB%8A%94-%EC%9E%90%EC%9C%A8%ED%98%95-AI-%EA%B8%B0%EC%97%85-%EC%97%85%EB%AC%B4-%ED%98%81%EC%8B%A0-%EC%8B%9C%EC%9E%91",
+      "title": "MS 스카우트: '프롬프트 없는' 자율형 AI, 기업 업무 혁신 시작!",
+      "summary": "Microsoft Scout는 프롬프트 없이 스스로 학습하고 업무를 처리하는 자율형 AI 에이전트입니다. M365 통합과 강력한 보안으로 기업 생산성을 극대화할 이 혁신적인 AI의 핵심 기능과 현황을 소개합니다.",
+      "description": "Microsoft Scout는 프롬프트 없이 스스로 학습하고 업무를 처리하는 자율형 AI 에이전트입니다. M365 통합과 강력한 보안으로 기업 생산성을 극대화할 이 혁신적인 AI의 핵심 기능과 현황을 소개합니다.",
+      "lang": "ko"
     }
   ]
 }
