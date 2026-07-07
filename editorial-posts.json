@@ -329,6 +329,16 @@
       "summary": "2026년 원달러 환율이 1530원을 돌파하며 '미친 환율' 쇼크에 한국 경제가 직면했습니다. 코스피 급락, 외환보유액 정체 속 정부 개입의 한계와 외환 위기 가능성을 심층 분석합니다.",
       "description": "2026년 원달러 환율이 1530원을 돌파하며 '미친 환율' 쇼크에 한국 경제가 직면했습니다. 코스피 급락, 외환보유액 정체 속 정부 개입의 한계와 외환 위기 가능성을 심층 분석합니다.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-07-07T16:12:05+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/NVIDIA-Nemotron-3-Ultra-Open-Source-LLM-Empowers-Next-Gen-AI-Agents-with-5x-Faster-Inference-Advanced-Reasoning",
+      "title": "NVIDIA Nemotron 3 Ultra: Open-Source LLM Empowers Next-Gen AI Agents with 5x Faster Inference & Advanced Reasoning",
+      "summary": "NVIDIA Nemotron 3 Ultra is a new open-source, open-weight Mixture-of-Experts (MoE) model designed for AI agents to perform complex, long-duration tasks. It features 550 billion total parameters (55…",
+      "description": "NVIDIA Nemotron 3 Ultra is a new open-source, open-weight Mixture-of-Experts (MoE) model designed for AI agents to perform complex, long-duration tasks. It features 550 billion total parameters (55 billion activated for inference), supports up to 1 million tokens of context, and utilizes a hybrid Mamba-Attention architecture. The model offers up to 5 times faster inference performance and can reduce AI agent operating costs by up to 30% compared to equivalent open-source models. AI agents powered by Nemotron 3 Ultra demonstrate advanced capabilities including planning, reasoning, tool use, code writing and debugging, and research. Released under the Linux Foundation's OpenMDW license, it includes open weights, training data, and recipes, integrating with NVIDIA's tooling for flexible deployment across various environments. Its training employs the Multi-Teacher On-Policy Distillation (MOPD) technique, leveraging over 10 expert teacher models to train a single student, enhancing performance in areas like coding and reasoning. While Nemotron 3 Ultra has been released, some sources indicate that its full weights are expected to become available with the complete release in 1H 2026, alongside related models like Nemotron 3.5 Content Safety.",
+      "lang": "en"
     }
   ]
 }
