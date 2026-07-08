@@ -389,6 +389,16 @@
       "summary": "MiniMax has released M3 , an open-weight AI model integrating a 1-million-token context, native multimodal capabilities, high-performance coding, and AI agent functionalities. M3 demonstrates…",
       "description": "MiniMax has released M3 , an open-weight AI model integrating a 1-million-token context, native multimodal capabilities, high-performance coding, and AI agent functionalities. M3 demonstrates frontier-level performance in specialized tasks such as coding, agentic work, and long-context reasoning. The model is built on MiniMax's self-developed MSA (MiniMax Sparse Attention) architecture and a Mixture-of-Experts (MoE) foundation, offering significant speed improvements. Alongside M3 , MiniMax unveiled MiniMax Code , a dedicated agentic coding engine enabling collaborative, autonomous project execution. MiniMax M3 is expected to set a new standard in the open-source AI and AI agent market, embodying MiniMax's mission of \"Intelligence with Everyone.\"",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-07-08T15:58:49+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/OpenAI-Codex-Evolves-Comprehensive-AI-Platform-for-All-Job-Roles-with-New-Plugins-Collaboration-Enterprise-Adoption",
+      "title": "OpenAI Codex Evolves: Comprehensive AI Platform for All Job Roles with New Plugins, Collaboration & Enterprise Adoption",
+      "summary": "OpenAI has significantly expanded its Codex AI platform to cater to all job roles, moving beyond its developer-centric origins. The update introduces role-specific plugins and integrations with…",
+      "description": "OpenAI has significantly expanded its Codex AI platform to cater to all job roles, moving beyond its developer-centric origins. The update introduces role-specific plugins and integrations with popular business tools, enhancing functionality across diverse professional domains. New collaboration features, including interactive \"Sites\" and AI-powered \"Annotation,\" boost team efficiency and document management. Codex is seeing robust enterprise adoption and plans for an open ecosystem to further expand its reach and capabilities.",
+      "lang": "en"
     }
   ]
 }
