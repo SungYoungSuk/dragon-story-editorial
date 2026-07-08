@@ -379,6 +379,16 @@
       "summary": "마이크로소프트 프로젝트 솔라라, AI 에이전트 중심의 차세대 컴퓨팅 시대를 엽니다. 칩 투 클라우드 아키텍처, Just-in-Time UI, Managed Android 기반 생태계 확장 전략까지, 솔라라의 모든 것을 심층 분석합니다.",
       "description": "마이크로소프트 프로젝트 솔라라, AI 에이전트 중심의 차세대 컴퓨팅 시대를 엽니다. 칩 투 클라우드 아키텍처, Just-in-Time UI, Managed Android 기반 생태계 확장 전략까지, 솔라라의 모든 것을 심층 분석합니다.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-07-08T15:47:35+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/MiniMax-M3-Unleashed-Open-Weight-AI-Model-with-1M-Context-Multimodal-Coding-and-Autonomous-AI-Agents",
+      "title": "MiniMax M3 Unleashed: Open-Weight AI Model with 1M Context, Multimodal, Coding, and Autonomous AI Agents",
+      "summary": "MiniMax has released M3 , an open-weight AI model integrating a 1-million-token context, native multimodal capabilities, high-performance coding, and AI agent functionalities. M3 demonstrates…",
+      "description": "MiniMax has released M3 , an open-weight AI model integrating a 1-million-token context, native multimodal capabilities, high-performance coding, and AI agent functionalities. M3 demonstrates frontier-level performance in specialized tasks such as coding, agentic work, and long-context reasoning. The model is built on MiniMax's self-developed MSA (MiniMax Sparse Attention) architecture and a Mixture-of-Experts (MoE) foundation, offering significant speed improvements. Alongside M3 , MiniMax unveiled MiniMax Code , a dedicated agentic coding engine enabling collaborative, autonomous project execution. MiniMax M3 is expected to set a new standard in the open-source AI and AI agent market, embodying MiniMax's mission of \"Intelligence with Everyone.\"",
+      "lang": "en"
     }
   ]
 }
