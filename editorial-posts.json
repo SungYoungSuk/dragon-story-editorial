@@ -349,6 +349,16 @@
       "summary": "Google DeepMind has unveiled Gemma 4 12B , a new 12 billion parameter multimodal AI model released under the Apache 2.0 license, specifically targeting the acceleration of personal and on-device AI…",
       "description": "Google DeepMind has unveiled Gemma 4 12B , a new 12 billion parameter multimodal AI model released under the Apache 2.0 license, specifically targeting the acceleration of personal and on-device AI markets. This intermediate model features an integrated (Encoder-Free) multimodal structure , allowing the language model to directly process images and audio, and is the first medium-sized Gemma model to natively support voice input. It demonstrates remarkable efficiency, achieving inference performance close to the 26B MoE model while utilizing less than half its total memory footprint. Gemma 4 12B is uniquely designed to run locally on general consumer laptops with just 16GB of memory , making advanced AI agent capabilities accessible without dedicated AI hardware. The model is built for complex workflows, applying Multi-Token Prediction (MTP) technology to enhance response speed and efficiently process multi-stage inference and AI agent tasks. While designed to bring flagship-level agentic capabilities to local devices and support major AI development tools, user feedback on its performance varies , with some reports noting regressions for tool calling in Quantization Aware Training (QAT) models.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-07-08T14:21:58+09:00",
+      "category": "ECONOMY",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/2026-%ED%95%98%EB%B0%98%EA%B8%B0-%EC%A3%BC%ED%83%9D%EC%8B%9C%EC%9E%A5-%EC%A0%84%EC%84%B8%EB%82%9C-%EB%8C%80%EC%B1%85%EC%9D%80-%EC%98%A4%EC%84%B8%ED%9B%88-%EA%B5%AD%ED%86%A0%EB%B6%80-%EA%B3%B5%EB%B0%A9-LH-%EA%B3%B5%EA%B8%89-%EB%A1%9C%EB%93%9C%EB%A7%B5",
+      "title": "2026 하반기 주택시장: 전세난 대책은? 오세훈-국토부 공방, LH 공급 로드맵",
+      "summary": "2026년 하반기 주택 시장, 심각한 전세난과 공급 절벽이 예상됩니다. 오세훈 시장의 '정책 참사론'과 국토부의 '구조 변화론' 대립 속 LH 5만2천호 공급 계획 및 청년미래이음대출, 수도권·지방 집값 전망까지 깊이 분석합니다.",
+      "description": "2026년 하반기 주택 시장, 심각한 전세난과 공급 절벽이 예상됩니다. 오세훈 시장의 '정책 참사론'과 국토부의 '구조 변화론' 대립 속 LH 5만2천호 공급 계획 및 청년미래이음대출, 수도권·지방 집값 전망까지 깊이 분석합니다.",
+      "lang": "ko"
     }
   ]
 }
