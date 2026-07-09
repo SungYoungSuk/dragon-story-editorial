@@ -409,6 +409,16 @@
       "summary": "OpenAI significantly upgraded ChatGPT's memory system to enhance recency, consistency, and relevance across conversations. The new system intelligently learns user preferences and project details in…",
       "description": "OpenAI significantly upgraded ChatGPT's memory system to enhance recency, consistency, and relevance across conversations. The new system intelligently learns user preferences and project details in the background, automatically integrating and organizing information. ChatGPT now provides highly personalized answers by actively leveraging past conversation context and updating outdated information as needed. Users retain full control over ChatGPT's memory, able to view, modify, or delete saved entries through settings or direct conversational prompts. The enhanced memory feature gradually rolled out, becoming available to Free and Go users by June 2025, following earlier access for Plus and Pro subscribers. Memory is persistently stored across all user sessions, focusing on details ChatGPT deems important and relevant for future interactions. This advanced memory architecture is expected to lay the groundwork for a more natural and continuous AI collaboration experience in the future.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-07-09T21:41:31+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Anthropic-Fable-5-Mythos-5-US-Governments-Global-Shutdown-Over-AI-Jailbreak-Restoration-Industry-Security-Reforms",
+      "title": "Anthropic Fable 5 & Mythos 5: US Government's Global Shutdown Over AI 'Jailbreak,' Restoration & Industry Security Reforms",
+      "summary": "The U.S. government mandated the global suspension of Anthropic's Fable 5 and Mythos 5 models due to national security concerns in June 2026. This unprecedented order affected hundreds of millions of…",
+      "description": "The U.S. government mandated the global suspension of Anthropic's Fable 5 and Mythos 5 models due to national security concerns in June 2026. This unprecedented order affected hundreds of millions of users worldwide, with Anthropic immediately blocking access to comply. Anthropic viewed the government's action as an 'overreaction,' asserting that identified 'jailbreak' techniques revealed only minor vulnerabilities, not severe threats. Global access to Fable 5 was restored starting July 1, 2026, with enhanced safeguards, and Anthropic is now proposing industry-wide frameworks for AI security.",
+      "lang": "en"
     }
   ]
 }
