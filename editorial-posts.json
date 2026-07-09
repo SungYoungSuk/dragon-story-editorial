@@ -399,6 +399,16 @@
       "summary": "OpenAI has significantly expanded its Codex AI platform to cater to all job roles, moving beyond its developer-centric origins. The update introduces role-specific plugins and integrations with…",
       "description": "OpenAI has significantly expanded its Codex AI platform to cater to all job roles, moving beyond its developer-centric origins. The update introduces role-specific plugins and integrations with popular business tools, enhancing functionality across diverse professional domains. New collaboration features, including interactive \"Sites\" and AI-powered \"Annotation,\" boost team efficiency and document management. Codex is seeing robust enterprise adoption and plans for an open ecosystem to further expand its reach and capabilities.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-07-09T21:29:42+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/ChatGPTs-Revolutionary-Memory-Upgrade-Deep-Dive-into-Personalized-AI-User-Control-Future-Collaboration",
+      "title": "ChatGPT's Revolutionary Memory Upgrade: Deep Dive into Personalized AI, User Control & Future Collaboration",
+      "summary": "OpenAI significantly upgraded ChatGPT's memory system to enhance recency, consistency, and relevance across conversations. The new system intelligently learns user preferences and project details in…",
+      "description": "OpenAI significantly upgraded ChatGPT's memory system to enhance recency, consistency, and relevance across conversations. The new system intelligently learns user preferences and project details in the background, automatically integrating and organizing information. ChatGPT now provides highly personalized answers by actively leveraging past conversation context and updating outdated information as needed. Users retain full control over ChatGPT's memory, able to view, modify, or delete saved entries through settings or direct conversational prompts. The enhanced memory feature gradually rolled out, becoming available to Free and Go users by June 2025, following earlier access for Plus and Pro subscribers. Memory is persistently stored across all user sessions, focusing on details ChatGPT deems important and relevant for future interactions. This advanced memory architecture is expected to lay the groundwork for a more natural and continuous AI collaboration experience in the future.",
+      "lang": "en"
     }
   ]
 }
