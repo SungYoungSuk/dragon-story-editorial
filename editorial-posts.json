@@ -429,6 +429,16 @@
       "summary": "마이크로소프트-메이요 클리닉이 공개한 차세대 의료 AI 시스템을 분석합니다. 질병 진단, 맞춤 치료 등 임상 성과 중심 평가와 안전성을 강조하며, 국내 의료기관의 Azure API 활용 및 vDOC 교육 기회, 메이요 클리닉의 소유권 전략까지.",
       "description": "마이크로소프트-메이요 클리닉이 공개한 차세대 의료 AI 시스템을 분석합니다. 질병 진단, 맞춤 치료 등 임상 성과 중심 평가와 안전성을 강조하며, 국내 의료기관의 Azure API 활용 및 vDOC 교육 기회, 메이요 클리닉의 소유권 전략까지.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-07-09T22:06:25+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/RTX-Spark-AI-PC-%EC%97%94%EB%B9%84%EB%94%94%EC%95%84-MS-%ED%98%91%EB%A0%A5-1-PFLOPS-AI-%EB%8F%99%EB%A3%8C-PC-%EC%8B%AC%EC%B8%B5-%EB%B6%84%EC%84%9D-2026%EB%85%84",
+      "title": "RTX Spark AI PC: 엔비디아-MS 협력, 1 PFLOPS AI 동료 PC 심층 분석 (2026년)",
+      "summary": "엔비디아와 마이크로소프트의 혁신 RTX Spark AI PC! 1 PFLOPS 성능, 로컬 LLM, 강화된 보안으로 크리에이터, 게이머 워크플로우 혁신. 2026년 출시 및 도입 과제까지.",
+      "description": "엔비디아와 마이크로소프트의 혁신 RTX Spark AI PC! 1 PFLOPS 성능, 로컬 LLM, 강화된 보안으로 크리에이터, 게이머 워크플로우 혁신. 2026년 출시 및 도입 과제까지.",
+      "lang": "ko"
     }
   ]
 }
