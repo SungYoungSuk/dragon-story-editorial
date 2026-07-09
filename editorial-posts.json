@@ -419,6 +419,16 @@
       "summary": "The U.S. government mandated the global suspension of Anthropic's Fable 5 and Mythos 5 models due to national security concerns in June 2026. This unprecedented order affected hundreds of millions of…",
       "description": "The U.S. government mandated the global suspension of Anthropic's Fable 5 and Mythos 5 models due to national security concerns in June 2026. This unprecedented order affected hundreds of millions of users worldwide, with Anthropic immediately blocking access to comply. Anthropic viewed the government's action as an 'overreaction,' asserting that identified 'jailbreak' techniques revealed only minor vulnerabilities, not severe threats. Global access to Fable 5 was restored starting July 1, 2026, with enhanced safeguards, and Anthropic is now proposing industry-wide frameworks for AI security.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-07-09T21:55:30+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/MS-%EB%A9%94%EC%9D%B4%EC%9A%94-%ED%81%B4%EB%A6%AC%EB%8B%89-%EC%9D%98%EB%A3%8C-AI-%ED%98%81%EC%8B%A0-%EC%84%B1%EA%B3%BC-%EC%A4%91%EC%8B%AC-%ED%8F%89%EA%B0%80-%EA%B5%AD%EB%82%B4-%EC%A0%91%EA%B7%BC-%EC%A0%84%EB%9E%B5",
+      "title": "MS-메이요 클리닉 의료 AI 혁신: 성과 중심 평가, 국내 접근 전략",
+      "summary": "마이크로소프트-메이요 클리닉이 공개한 차세대 의료 AI 시스템을 분석합니다. 질병 진단, 맞춤 치료 등 임상 성과 중심 평가와 안전성을 강조하며, 국내 의료기관의 Azure API 활용 및 vDOC 교육 기회, 메이요 클리닉의 소유권 전략까지.",
+      "description": "마이크로소프트-메이요 클리닉이 공개한 차세대 의료 AI 시스템을 분석합니다. 질병 진단, 맞춤 치료 등 임상 성과 중심 평가와 안전성을 강조하며, 국내 의료기관의 Azure API 활용 및 vDOC 교육 기회, 메이요 클리닉의 소유권 전략까지.",
+      "lang": "ko"
     }
   ]
 }
