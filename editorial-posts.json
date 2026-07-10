@@ -489,6 +489,16 @@
       "summary": "Apple unveiled its next generation of Apple Intelligence in June 2026, integrating AI across all major Apple devices. The system is designed with a core focus on privacy , utilizing on-device…",
       "description": "Apple unveiled its next generation of Apple Intelligence in June 2026, integrating AI across all major Apple devices. The system is designed with a core focus on privacy , utilizing on-device intelligence and Private Cloud Compute (PCC). New features include advanced Writing Tools , intelligent Notification Summaries, and personalized Genmoji creation. The Photos app gains powerful AI editing functions like Spatial Reframing, Extend, and Clean Up for natural image manipulation. Next-generation Siri offers more natural conversational abilities, personalized context, and direct app control. The revamped Image Playground supports realistic image generation and modification, with hidden AI watermarks. General users can expect to access new Apple Intelligence features sequentially starting Autumn 2026 .",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-07-10T16:28:22+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Google-NotebookLMs-Massive-Upgrade-Gemini-35-Antigravity-Unlock-Agentic-AI-Research-with-Code-Execution-Web-Browsing-65-Performance-Boost",
+      "title": "Google NotebookLM's Massive Upgrade: Gemini 3.5 & Antigravity Unlock Agentic AI Research with Code Execution, Web Browsing, & 65% Performance Boost",
+      "summary": "Google has unveiled its largest-ever upgrade for NotebookLM, transforming it into an advanced AI research partner. The updated platform is now built on the powerful Gemini 3.5 model and Google's…",
+      "description": "Google has unveiled its largest-ever upgrade for NotebookLM, transforming it into an advanced AI research partner. The updated platform is now built on the powerful Gemini 3.5 model and Google's agentic infrastructure, Antigravity. NotebookLM now boasts advanced agentic capabilities, including direct code execution and deep data analysis within a cloud environment. It can independently browse the web and suggest materials , enabling users to build comprehensive research projects from the ground up. The system automatically generates research outputs in diverse formats , such as PDF reports, Excel files, and presentations. Internal metrics reveal a significant performance boost , with improvements exceeding 65% in document analysis and web exploration. These enhanced features are currently being rolled out to Google AI Ultra and Workspace AI customers globally.",
+      "lang": "en"
     }
   ]
 }
