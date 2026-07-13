@@ -499,6 +499,16 @@
       "summary": "Google has unveiled its largest-ever upgrade for NotebookLM, transforming it into an advanced AI research partner. The updated platform is now built on the powerful Gemini 3.5 model and Google's…",
       "description": "Google has unveiled its largest-ever upgrade for NotebookLM, transforming it into an advanced AI research partner. The updated platform is now built on the powerful Gemini 3.5 model and Google's agentic infrastructure, Antigravity. NotebookLM now boasts advanced agentic capabilities, including direct code execution and deep data analysis within a cloud environment. It can independently browse the web and suggest materials , enabling users to build comprehensive research projects from the ground up. The system automatically generates research outputs in diverse formats , such as PDF reports, Excel files, and presentations. Internal metrics reveal a significant performance boost , with improvements exceeding 65% in document analysis and web exploration. These enhanced features are currently being rolled out to Google AI Ultra and Workspace AI customers globally.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-07-13T21:22:52+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Google-Gemini-35-Live-Translate-AI-Breakthrough-for-Real-Time-Speech-to-Speech-Translation-70-Languages-Google-Meet-SynthID-Watermark",
+      "title": "Google Gemini 3.5 Live Translate: AI Breakthrough for Real-Time Speech-to-Speech Translation, 70+ Languages, Google Meet, & SynthID Watermark",
+      "summary": "Gemini 3.5 Live Translate is a groundbreaking low-latency, audio-to-audio AI model for real-time spoken conversation translation. It seamlessly supports over 70 languages , automatically recognizing…",
+      "description": "Gemini 3.5 Live Translate is a groundbreaking low-latency, audio-to-audio AI model for real-time spoken conversation translation. It seamlessly supports over 70 languages , automatically recognizing them and maintaining the speaker's original tone and speed. Google has made the model available via the Gemini Live API and is rolling out integrations across Google Meet and the Google Translate app. The technology is set to revolutionize practical applications in sectors like multilingual meetings, customer service, and ride-hailing platforms . To ensure trust and transparency, all AI-generated voices produced by the model include an inaudible SynthID watermark .",
+      "lang": "en"
     }
   ]
 }
