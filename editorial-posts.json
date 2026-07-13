@@ -519,6 +519,16 @@
       "summary": "2026년 6월 공개된 엔비디아 Nemotron 3 Ultra는 5500억 파라미터의 프론티어 스마트 오픈 모델입니다. 5배 빠른 추론, 30% 비용 절감으로 AI 에이전트 성능을 혁신하며, 네이버 HyperCLOVAX 고도화에 활용될 초장문 100만 토큰 컨텍스트와 78.7 비환각 점수의 비밀을 파헤칩니다.",
       "description": "2026년 6월 공개된 엔비디아 Nemotron 3 Ultra는 5500억 파라미터의 프론티어 스마트 오픈 모델입니다. 5배 빠른 추론, 30% 비용 절감으로 AI 에이전트 성능을 혁신하며, 네이버 HyperCLOVAX 고도화에 활용될 초장문 100만 토큰 컨텍스트와 78.7 비환각 점수의 비밀을 파헤칩니다.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-07-13T22:23:02+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/Gemma-4-12B-%EB%85%B8%ED%8A%B8%EB%B6%81-%EB%A1%9C%EC%BB%AC-AI-%EC%8B%9C%EB%8C%80-%EA%B0%9C%EB%A7%89-%EB%A9%80%ED%8B%B0%EB%AA%A8%EB%8B%AC-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%8B%AC%EC%B8%B5-%EB%B6%84%EC%84%9D",
+      "title": "Gemma 4 12B: 노트북 로컬 AI 시대 개막! 멀티모달 에이전트 심층 분석",
+      "summary": "Google Gemma 4 12B는 16GB 메모리로 노트북에서 강력한 멀티모달 AI와 AI 에이전트를 로컬 구동합니다. Apache 2.0 라이선스, MTP·MLX 엔진으로 대형 모델 성능을 효율적으로 경험하세요.",
+      "description": "Google Gemma 4 12B는 16GB 메모리로 노트북에서 강력한 멀티모달 AI와 AI 에이전트를 로컬 구동합니다. Apache 2.0 라이선스, MTP·MLX 엔진으로 대형 모델 성능을 효율적으로 경험하세요.",
+      "lang": "ko"
     }
   ]
 }
