@@ -549,6 +549,16 @@
       "summary": "OpenAI foresees AI becoming a core infrastructure , significantly improving quality of life and productivity globally. Their core mission emphasizes ensuring AGI benefits all humanity by augmenting…",
       "description": "OpenAI foresees AI becoming a core infrastructure , significantly improving quality of life and productivity globally. Their core mission emphasizes ensuring AGI benefits all humanity by augmenting, rather than replacing, human capabilities. OpenAI is confident in its ability to build AGI, with a key goal of enabling personal AGI access for everyone . The company stresses the critical need for international cooperation and robust safety standards to manage accelerating AI development. OpenAI advocates for democratized access and governance of AI , resisting concentrated power in its development.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-07-14T23:12:48+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/GLM-52-Open-Source-AI-Coding-Model-Redefines-Benchmarks-Challenges-Commercial-Giants-Masters-Long-Horizon-Tasks-with-MIT-License",
+      "title": "GLM-5.2: Open-Source AI Coding Model Redefines Benchmarks, Challenges Commercial Giants, & Masters Long-Horizon Tasks with MIT License",
+      "summary": "Chinese Z.ai has unveiled GLM-5.2 , a next-generation open-source AI model specializing in long-horizon coding tasks. It establishes new benchmarks for open-source AI coding performance , rivaling…",
+      "description": "Chinese Z.ai has unveiled GLM-5.2 , a next-generation open-source AI model specializing in long-horizon coding tasks. It establishes new benchmarks for open-source AI coding performance , rivaling leading commercial models in several areas. The model features innovative architectural enhancements like IndexShare and improved MTP inference for superior efficiency. GLM-5.2 is fully open-source under the MIT license, making its weights freely available for both research and commercial applications. Industry experts regard GLM-5.2 as a critical advancement for the open-source AI community , enhancing its competitiveness.",
+      "lang": "en"
     }
   ]
 }
