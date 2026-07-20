@@ -619,6 +619,16 @@
       "summary": "Claude Design is Anthropic's AI-powered collaborative visual workspace for creating polished designs and prototypes. Recent major updates significantly enhanced AI design collaboration, ensuring…",
       "description": "Claude Design is Anthropic's AI-powered collaborative visual workspace for creating polished designs and prototypes. Recent major updates significantly enhanced AI design collaboration, ensuring consistency with enterprise design systems. The platform now offers seamless, bidirectional integration between Claude Design and Claude Code , streamlining development workflows. Users gain granular control with an advanced editor, enabling direct modification and conversational refinement of AI-generated assets. Claude Design features extensive external integrations, allowing direct transfer and editable exports to numerous industry-standard platforms. The platform quickly achieved widespread adoption and is positioned to be a major player in the evolving design collaboration software market, challenging incumbents.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-07-20T22:05:48+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/MiniMax-M3-100%EB%A7%8C-%ED%86%A0%ED%81%B0-%EC%98%A4%ED%94%88%EC%9B%A8%EC%9D%B4%ED%8A%B8-AI-%EC%B5%9C%EA%B3%A0-%EC%84%B1%EB%8A%A5-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%ED%98%81%EB%AA%85",
+      "title": "MiniMax M3: 100만 토큰 오픈웨이트 AI, 최고 성능 에이전트 혁명",
+      "summary": "2026년 출시 MiniMax M3는 100만 토큰, 혁신적 MSA 아키텍처의 오픈웨이트 AI 모델입니다. 최고 수준 코딩 및 AI 에이전트 성능을 합리적 비용으로 제공, 개발 생산성을 극대화합니다.",
+      "description": "2026년 출시 MiniMax M3는 100만 토큰, 혁신적 MSA 아키텍처의 오픈웨이트 AI 모델입니다. 최고 수준 코딩 및 AI 에이전트 성능을 합리적 비용으로 제공, 개발 생산성을 극대화합니다.",
+      "lang": "ko"
     }
   ]
 }
