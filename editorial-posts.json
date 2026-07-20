@@ -609,6 +609,16 @@
       "summary": "Midjourney, renowned for AI image generation, has made a major strategic pivot into healthcare with the launch of 'Midjourney Medical'. The company introduced the 'Midjourney Scanner', an 'Ultrasonic…",
       "description": "Midjourney, renowned for AI image generation, has made a major strategic pivot into healthcare with the launch of 'Midjourney Medical'. The company introduced the 'Midjourney Scanner', an 'Ultrasonic CT' system promising a 60-second, radiation-free whole-body scan utilizing advanced AI and ultrasound technology. Midjourney plans to integrate these diagnostic capabilities into a novel \"Midjourney Spa\" concept, with the first location slated for San Francisco in 2027 . The ambitious long-term vision includes deploying 50,000 scanners globally by 2031 , aiming to revolutionize early disease detection despite significant regulatory hurdles.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-07-20T21:51:54+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Claude-Designs-Evolution-Anthropics-AI-Visual-Collaboration-Platform-Transforms-Design-Dev-Workflows",
+      "title": "Claude Design's Evolution: Anthropic's AI Visual Collaboration Platform Transforms Design-Dev Workflows",
+      "summary": "Claude Design is Anthropic's AI-powered collaborative visual workspace for creating polished designs and prototypes. Recent major updates significantly enhanced AI design collaboration, ensuring…",
+      "description": "Claude Design is Anthropic's AI-powered collaborative visual workspace for creating polished designs and prototypes. Recent major updates significantly enhanced AI design collaboration, ensuring consistency with enterprise design systems. The platform now offers seamless, bidirectional integration between Claude Design and Claude Code , streamlining development workflows. Users gain granular control with an advanced editor, enabling direct modification and conversational refinement of AI-generated assets. Claude Design features extensive external integrations, allowing direct transfer and editable exports to numerous industry-standard platforms. The platform quickly achieved widespread adoption and is positioned to be a major player in the evolving design collaboration software market, challenging incumbents.",
+      "lang": "en"
     }
   ]
 }
