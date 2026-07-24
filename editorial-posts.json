@@ -649,6 +649,16 @@
       "summary": "NVIDIA showcased significant advancements in neural rendering , generative AI , and physical AI at SIGGRAPH 2026. The company emphasized creating realistic, real-time virtual worlds and advanced…",
       "description": "NVIDIA showcased significant advancements in neural rendering , generative AI , and physical AI at SIGGRAPH 2026. The company emphasized creating realistic, real-time virtual worlds and advanced simulation methods built by AI. New Model Context Protocol (MCP) integrations are empowering AI agents within leading creative applications like Adobe, Blender, and Unreal Engine. NVIDIA introduced a Synthetic Video Detector NVIDIA NIM microservice to help media professionals identify AI-generated content. The NVIDIA Cosmos platform expanded with Cosmos 3 Edge, an omnimodel for real-time vision analytics and robot action at the edge. The NVIDIA Agent Toolkit and DGX Station now provide a powerful, local platform for developing and deploying AI agents and large foundation models. NVIDIA published 21 technical papers, revealing breakthroughs in areas such as real-time character motion , 3D scene reconstruction , and advanced physics simulation .",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-07-24T20:07:22+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Google-Expands-Gemini-Flash-36-35-Lite-Cyber-Boost-AI-Agent-Speed-Efficiency",
+      "title": "Google Expands Gemini Flash: 3.6, 3.5 Lite & Cyber Boost AI Agent Speed & Efficiency",
+      "summary": "Google expanded its Gemini Flash series on July 21, 2026 , introducing Gemini 3.6 Flash , 3.5 Flash-Lite , and 3.5 Flash Cyber . The new models are engineered to make production AI agents faster…",
+      "description": "Google expanded its Gemini Flash series on July 21, 2026 , introducing Gemini 3.6 Flash , 3.5 Flash-Lite , and 3.5 Flash Cyber . The new models are engineered to make production AI agents faster, more reliable, and more cost-effective for scalable agentic workflows. Gemini 3.6 Flash is a versatile \"workhorse\" model, delivering improved performance in coding, knowledge work, and multimodal tasks with enhanced safety features. Gemini 3.5 Flash-Lite is optimized for extreme speed and cost efficiency, targeting low-latency, high-throughput applications like agentic search and document processing. Gemini 3.5 Flash Cyber is a specialized model fine-tuned for finding and fixing cybersecurity vulnerabilities, intended for governments and trusted partners. Despite these new releases, the flagship Gemini 3.5 Pro model remains in testing, raising questions about its broader availability. Google is also advancing its AI hardware, with the 'Frozen v2' chip designed to bake Gemini architecture directly into silicon for improved efficiency.",
+      "lang": "en"
     }
   ]
 }
