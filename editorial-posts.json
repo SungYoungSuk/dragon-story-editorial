@@ -659,6 +659,16 @@
       "summary": "Google expanded its Gemini Flash series on July 21, 2026 , introducing Gemini 3.6 Flash , 3.5 Flash-Lite , and 3.5 Flash Cyber . The new models are engineered to make production AI agents faster…",
       "description": "Google expanded its Gemini Flash series on July 21, 2026 , introducing Gemini 3.6 Flash , 3.5 Flash-Lite , and 3.5 Flash Cyber . The new models are engineered to make production AI agents faster, more reliable, and more cost-effective for scalable agentic workflows. Gemini 3.6 Flash is a versatile \"workhorse\" model, delivering improved performance in coding, knowledge work, and multimodal tasks with enhanced safety features. Gemini 3.5 Flash-Lite is optimized for extreme speed and cost efficiency, targeting low-latency, high-throughput applications like agentic search and document processing. Gemini 3.5 Flash Cyber is a specialized model fine-tuned for finding and fixing cybersecurity vulnerabilities, intended for governments and trusted partners. Despite these new releases, the flagship Gemini 3.5 Pro model remains in testing, raising questions about its broader availability. Google is also advancing its AI hardware, with the 'Frozen v2' chip designed to bake Gemini architecture directly into silicon for improved efficiency.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-07-24T20:28:17+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/NVIDIA-SIGGRAPH-2026-AI-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%BD%98%ED%85%90%EC%B8%A0-%ED%98%81%EC%8B%A0-%EC%8B%A4%EC%8B%9C%EA%B0%84-4K-%EA%B8%B0%EC%88%A0-%EA%B3%B5%EA%B0%9C",
+      "title": "NVIDIA SIGGRAPH 2026: AI 시스템, 콘텐츠 혁신, 실시간 4K 기술 공개",
+      "summary": "NVIDIA가 SIGGRAPH 2026에서 물리적 AI 시스템 'Cosmos', 7대 파트너사 연동 'MCP', 합성 비디오 탐지 NIM, 실시간 4K 신경 렌더링, Earth-2 모델 등 혁신 기술을 공개했습니다. AI 시대의 미래를 만나보세요.",
+      "description": "NVIDIA가 SIGGRAPH 2026에서 물리적 AI 시스템 'Cosmos', 7대 파트너사 연동 'MCP', 합성 비디오 탐지 NIM, 실시간 4K 신경 렌더링, Earth-2 모델 등 혁신 기술을 공개했습니다. AI 시대의 미래를 만나보세요.",
+      "lang": "ko"
     }
   ]
 }
