@@ -679,6 +679,16 @@
       "summary": "The Genesis Mission is a national, whole-of-government initiative launched to harness Artificial Intelligence for scientific discovery. Led by the White House , the mission coordinates a dedicated…",
       "description": "The Genesis Mission is a national, whole-of-government initiative launched to harness Artificial Intelligence for scientific discovery. Led by the White House , the mission coordinates a dedicated effort to accelerate innovation across various federal agencies. The inaugural Genesis Mission 2026 Summit was hosted by the Department of Energy on July 22, 2026 . The Summit convened leaders from government, industry, academia, and National Labs to discuss AI's role in science. A core objective is to establish an integrated AI platform to leverage extensive federal scientific datasets and computing power. The mission aims to significantly accelerate scientific discovery and double U.S. scientific productivity within a decade. Strategic goals encompass translating breakthroughs into practical benefits, strengthening national security , and securing energy dominance .",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-07-27T15:17:15+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/CodeGate-2026-AI-Agents-Redefine-Cybersecurity-–-From-Hacking-Competitions-to-Critical-Vulnerabilities-Defense",
+      "title": "CodeGate 2026: AI Agents Redefine Cybersecurity – From Hacking Competitions to Critical Vulnerabilities & Defense",
+      "summary": "CodeGate 2026 , Korea's premier international hacking defense competition, concluded today, July 24th. A cutting-edge AI Hacker participated in the finals, demonstrating AI's active role in…",
+      "description": "CodeGate 2026 , Korea's premier international hacking defense competition, concluded today, July 24th. A cutting-edge AI Hacker participated in the finals, demonstrating AI's active role in vulnerability discovery. The associated conference extensively discussed AI and cybersecurity, including new threats and necessary countermeasures. AI agents have transitioned from experimental tools to production infrastructure in most technical organizations. This rapid AI agent adoption dramatically expands the attack surface and introduces critical vulnerabilities like prompt injection. Recent real-world incidents confirm AI's role in sophisticated cyber attacks and significant data exfiltration. The cybersecurity industry is urgently developing new frameworks and strategies to manage these evolving AI agent risks.",
+      "lang": "en"
     }
   ]
 }
