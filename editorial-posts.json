@@ -689,6 +689,16 @@
       "summary": "CodeGate 2026 , Korea's premier international hacking defense competition, concluded today, July 24th. A cutting-edge AI Hacker participated in the finals, demonstrating AI's active role in…",
       "description": "CodeGate 2026 , Korea's premier international hacking defense competition, concluded today, July 24th. A cutting-edge AI Hacker participated in the finals, demonstrating AI's active role in vulnerability discovery. The associated conference extensively discussed AI and cybersecurity, including new threats and necessary countermeasures. AI agents have transitioned from experimental tools to production infrastructure in most technical organizations. This rapid AI agent adoption dramatically expands the attack surface and introduces critical vulnerabilities like prompt injection. Recent real-world incidents confirm AI's role in sophisticated cyber attacks and significant data exfiltration. The cybersecurity industry is urgently developing new frameworks and strategies to manage these evolving AI agent risks.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-07-27T15:46:42+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/%EA%B5%AC%EA%B8%80-%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4-3635-%EB%9D%BC%EC%9D%B4%ED%8A%B8-%EC%A0%84%EA%B2%A9-%EC%B6%9C%EC%8B%9C-%EC%84%B1%EB%8A%A5-%EC%9A%94%EA%B8%88-%ED%99%9C%EC%9A%A9-%EC%B4%9D%EC%A0%95%EB%A6%AC-20260721",
+      "title": "구글 제미나이 3.6/3.5 라이트 전격 출시: 성능, 요금, 활용 총정리 (2026)",
+      "summary": "2026년 7월 출시된 구글 제미나이 3.6 플래시와 3.5 플래시 라이트 모델의 성능 비교, 토큰 요금제, 개발자/기업/일반 사용자별 활용 가이드, 그리고 미래 로드맵(사이버 보안, 제미나이 4)까지, AI 전략을 위한 모든 정보를 총정리합니다.",
+      "description": "2026년 7월 출시된 구글 제미나이 3.6 플래시와 3.5 플래시 라이트 모델의 성능 비교, 토큰 요금제, 개발자/기업/일반 사용자별 활용 가이드, 그리고 미래 로드맵(사이버 보안, 제미나이 4)까지, AI 전략을 위한 모든 정보를 총정리합니다.",
+      "lang": "ko"
     }
   ]
 }
