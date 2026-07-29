@@ -729,6 +729,16 @@
       "summary": "Anthropic officially released Claude Opus 5 on July 24, 2026, making it available across all platforms. Opus 5 is designed as a thoughtful, proactive, and highly efficient daily-use model , excelling…",
       "description": "Anthropic officially released Claude Opus 5 on July 24, 2026, making it available across all platforms. Opus 5 is designed as a thoughtful, proactive, and highly efficient daily-use model , excelling in agentic coding and multi-step workflows. It establishes a new state-of-the-art in coding and knowledge work, significantly improving over previous models like Opus 4.8. The model delivers greatly improved performance at the same cost as its predecessor, establishing new cost-efficiency benchmarks. Opus 5 represents Anthropic's most aligned and safest model to date , demonstrating superior adherence to ethical principles and lower susceptibility to misuse. Despite its advancements, Opus 5 still trails Mythos 5 in certain advanced cybersecurity and biological research applications . New beta features such as mid-conversation tool changes and automatic safety fallbacks enhance its versatility and reliability for developers.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-07-29T23:34:59+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Sakana-AI-Fugu-Ultra-v11-Unleashed-Multi-Agent-AI-Orchestration-for-Enhanced-Reasoning-Coding-Seamless-Integration",
+      "title": "Sakana AI Fugu Ultra v1.1 Unleashed: Multi-Agent AI Orchestration for Enhanced Reasoning, Coding & Seamless Integration",
+      "summary": "Sakana AI released Fugu Ultra v1.1 on July 24, 2026, a rapid update to its multi-agent AI platform . The system operates as a multi-agent orchestration layer , coordinating various frontier AI models…",
+      "description": "Sakana AI released Fugu Ultra v1.1 on July 24, 2026, a rapid update to its multi-agent AI platform . The system operates as a multi-agent orchestration layer , coordinating various frontier AI models for complex reasoning and coding tasks. Sakana AI claims up to a 7.9-point performance improvement on internal benchmarks, though public data for version comparison is not yet available. This update prioritizes integrating newer frontier models within the existing architecture rather than a complete system overhaul. Developers will find unchanged API compatibility and pricing , making integration straightforward and maintaining a consistent user experience.",
+      "lang": "en"
     }
   ]
 }
