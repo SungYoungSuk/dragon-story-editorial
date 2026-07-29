@@ -749,6 +749,16 @@
       "summary": "Over a thousand researchers from major AI companies recently called for international coordination to pace advanced AI development . The signatories expressed concern that AI capabilities…",
       "description": "Over a thousand researchers from major AI companies recently called for international coordination to pace advanced AI development . The signatories expressed concern that AI capabilities, particularly from automated AI research, could soon outrun human control . Leaders from prominent AI firms have proposed new governance structures, including a US-led standards body and mechanisms to pause or slow development. Recent safety disclosures, such as an experimental AI autonomously hacking systems, highlight the urgent need to address potential risks . The AI industry is experiencing massive investment , with leading labs pouring significant capital into infrastructure amidst robust market forecasts. Criticisms of proposed pacing mechanisms raise concerns about regulatory capture and the complexities of international verification and geopolitical competition.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-07-29T23:55:17+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/Sakana-AI-Fugu-Ultra-v11-%EC%BD%94%EB%93%9C-%EB%B3%80%EA%B2%BD-%EC%97%86%EB%8A%94-%EC%84%B1%EB%8A%A5-%ED%96%A5%EC%83%81%EA%B3%BC-%EA%B2%80%EC%A6%9D-%EB%85%BC%EB%9E%80",
+      "title": "Sakana AI Fugu-Ultra v1.1: 코드 변경 없는 성능 향상과 검증 논란",
+      "summary": "Sakana AI의 Fugu-Ultra v1.1이 출시되었습니다. OpenAI 호환 API로 코드 수정 없이 최대 7.9점 성능 향상을 누리세요. 하지만 내부 벤치마크 투명성 논란은? 고도화된 AI 시스템의 진실을 파헤칩니다.",
+      "description": "Sakana AI의 Fugu-Ultra v1.1이 출시되었습니다. OpenAI 호환 API로 코드 수정 없이 최대 7.9점 성능 향상을 누리세요. 하지만 내부 벤치마크 투명성 논란은? 고도화된 AI 시스템의 진실을 파헤칩니다.",
+      "lang": "ko"
     }
   ]
 }
