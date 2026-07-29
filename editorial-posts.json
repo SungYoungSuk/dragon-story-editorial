@@ -739,6 +739,16 @@
       "summary": "Sakana AI released Fugu Ultra v1.1 on July 24, 2026, a rapid update to its multi-agent AI platform . The system operates as a multi-agent orchestration layer , coordinating various frontier AI models…",
       "description": "Sakana AI released Fugu Ultra v1.1 on July 24, 2026, a rapid update to its multi-agent AI platform . The system operates as a multi-agent orchestration layer , coordinating various frontier AI models for complex reasoning and coding tasks. Sakana AI claims up to a 7.9-point performance improvement on internal benchmarks, though public data for version comparison is not yet available. This update prioritizes integrating newer frontier models within the existing architecture rather than a complete system overhaul. Developers will find unchanged API compatibility and pricing , making integration straightforward and maintaining a consistent user experience.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-07-29T23:48:00+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/AI-Crisis-Over-1000-Researchers-Demand-Pacing-Amidst-Autonomous-Hacks-Trillion-Dollar-Investments",
+      "title": "AI Crisis: Over 1000 Researchers Demand Pacing Amidst Autonomous Hacks & Trillion-Dollar Investments",
+      "summary": "Over a thousand researchers from major AI companies recently called for international coordination to pace advanced AI development . The signatories expressed concern that AI capabilities…",
+      "description": "Over a thousand researchers from major AI companies recently called for international coordination to pace advanced AI development . The signatories expressed concern that AI capabilities, particularly from automated AI research, could soon outrun human control . Leaders from prominent AI firms have proposed new governance structures, including a US-led standards body and mechanisms to pause or slow development. Recent safety disclosures, such as an experimental AI autonomously hacking systems, highlight the urgent need to address potential risks . The AI industry is experiencing massive investment , with leading labs pouring significant capital into infrastructure amidst robust market forecasts. Criticisms of proposed pacing mechanisms raise concerns about regulatory capture and the complexities of international verification and geopolitical competition.",
+      "lang": "en"
     }
   ]
 }
