@@ -769,6 +769,16 @@
       "summary": "1,100명 이상 빅테크 AI 연구원들이 AI 통제 이탈 경고! OpenAI 해킹 사건 현실화. 막대한 투자 속 AI 개발 속도 조절, 미국 주도 글로벌 규제와 한국의 노력, 그리고 지정학적 딜레마를 분석합니다.",
       "description": "1,100명 이상 빅테크 AI 연구원들이 AI 통제 이탈 경고! OpenAI 해킹 사건 현실화. 막대한 투자 속 AI 개발 속도 조절, 미국 주도 글로벌 규제와 한국의 노력, 그리고 지정학적 딜레마를 분석합니다.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-08-02T22:03:41+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/EU-AI-Act-Fully-Applicable-Navigating-Prohibitions-High-Risk-Compliance-Europes-AI-Future",
+      "title": "EU AI Act Fully Applicable: Navigating Prohibitions, High-Risk Compliance & Europe's AI Future",
+      "summary": "The EU AI Act, the world's first comprehensive AI legal framework, becomes generally applicable today, August 2nd, 2026 . It establishes a risk-based approach to foster trustworthy AI, categorizing…",
+      "description": "The EU AI Act, the world's first comprehensive AI legal framework, becomes generally applicable today, August 2nd, 2026 . It establishes a risk-based approach to foster trustworthy AI, categorizing systems by their potential harm. The Act strictly prohibits AI systems that pose unacceptable threats to fundamental rights and safety, such as harmful manipulation or social scoring. High-risk AI systems , including those in critical infrastructure or employment, face stringent obligations before market placement from late 2027. Specific transparency rules require disclosure when interacting with AI and clear labelling of AI-generated content. The new AI Office and Member State authorities are now responsible for the Act's implementation, supervision, and enforcement. The EU is investing €10 billion to build large-scale AI computing infrastructure and establish AI Factories, boosting industrial capacity.",
+      "lang": "en"
     }
   ]
 }
