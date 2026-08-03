@@ -799,6 +799,16 @@
       "summary": "Google DeepMind launched Gemini Robotics ER 2 , its most capable embodied reasoning model for robotics. Designed as a high-level brain, it represents a significant upgrade from its predecessor, ER…",
       "description": "Google DeepMind launched Gemini Robotics ER 2 , its most capable embodied reasoning model for robotics. Designed as a high-level brain, it represents a significant upgrade from its predecessor, ER 1.6 . The model enables intelligent whole-body control, real-time spatial reasoning, and multi-step task planning for robots. Robots powered by Gemini Robotics ER 2 can self-correct, adapt to situations, and engage in multi-robot collaboration. It significantly enhances safety features, making it Google's safest robotics model to date with improved human proximity detection. This suite of AI models supports advanced capabilities like video understanding, human-robot chat, and native tool calling. Developers can access Gemini Robotics ER 2 publicly via the Gemini API and Google AI Studio.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-08-03T15:38:25+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/July-2026-AI-Transformation-GPT-5.6-Leads-Best-Fit-Era-Amidst-Frontier-Models-Regulations-Enterprise-Innovations",
+      "title": "July 2026 AI Transformation: GPT-5.6 Leads 'Best Fit' Era Amidst Frontier Models, Regulations & Enterprise Innovations",
+      "summary": "July 2026 marked a strategic shift in AI, prioritizing \"best fit\" models over raw performance, emphasizing practicality, speed, and cost. OpenAI expanded its offerings with the GPT-5.6 lineup…",
+      "description": "July 2026 marked a strategic shift in AI, prioritizing \"best fit\" models over raw performance, emphasizing practicality, speed, and cost. OpenAI expanded its offerings with the GPT-5.6 lineup, providing specialized models tailored for diverse performance, cost, and speed requirements. Major players like xAI and Meta unveiled new frontier models, focusing on agentic capabilities, coding efficiency, and reduced operational costs. Breakthroughs in human-AI interaction included OpenAI's GPT-Live, enabling seamless, simultaneous voice communication and real-time translation. New federal regulatory frameworks introduced pre-release safety reviews, making compliance a critical step for major AI model launches. Enterprise AI solutions for productivity, such as Claude Cowork and ChatGPT Work, became widely available, streamlining daily office tasks and content creation. Advanced AI tools for content creation and media editing, including Superhuman Docs, Meta Muse Image, and Google Video Remix, offered sophisticated generative and editing capabilities.",
+      "lang": "en"
     }
   ]
 }
