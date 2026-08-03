@@ -809,6 +809,16 @@
       "summary": "July 2026 marked a strategic shift in AI, prioritizing \"best fit\" models over raw performance, emphasizing practicality, speed, and cost. OpenAI expanded its offerings with the GPT-5.6 lineup…",
       "description": "July 2026 marked a strategic shift in AI, prioritizing \"best fit\" models over raw performance, emphasizing practicality, speed, and cost. OpenAI expanded its offerings with the GPT-5.6 lineup, providing specialized models tailored for diverse performance, cost, and speed requirements. Major players like xAI and Meta unveiled new frontier models, focusing on agentic capabilities, coding efficiency, and reduced operational costs. Breakthroughs in human-AI interaction included OpenAI's GPT-Live, enabling seamless, simultaneous voice communication and real-time translation. New federal regulatory frameworks introduced pre-release safety reviews, making compliance a critical step for major AI model launches. Enterprise AI solutions for productivity, such as Claude Cowork and ChatGPT Work, became widely available, streamlining daily office tasks and content creation. Advanced AI tools for content creation and media editing, including Superhuman Docs, Meta Muse Image, and Google Video Remix, offered sophisticated generative and editing capabilities.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-08-03T15:51:41+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Suno-AI-Copyright-Ruling-Collides-with-EU-AI-Acts-Full-Enforcement-New-Era-for-Generative-AI-GPAI-Transparency-Risk-Regu",
+      "title": "Suno AI Copyright Ruling Collides with EU AI Act's Full Enforcement: New Era for Generative AI, GPAI Transparency & Risk Regulation",
+      "summary": "A German court ruled on July 31, 2026 , that AI music platform Suno infringed copyrights by training its models on unlicensed music. The EU AI Act, the world's first comprehensive legal framework for…",
+      "description": "A German court ruled on July 31, 2026 , that AI music platform Suno infringed copyrights by training its models on unlicensed music. The EU AI Act, the world's first comprehensive legal framework for AI, became generally applicable on August 2, 2026 , establishing broad regulations. The Act introduces specific rules for General-Purpose AI (GPAI) models, including key transparency and copyright-related obligations for providers. The ruling against Suno underscores the immediate legal implications for AI developers regarding intellectual property rights and data licensing for model training. The AI Act employs a risk-based approach , classifying AI systems into categories from unacceptable (banned) to minimal, with corresponding compliance requirements. Recent amendments via the 'AI Omnibus' , effective July 27, 2026, clarified implementation timelines and strengthened governance for the AI Act.",
+      "lang": "en"
     }
   ]
 }
