@@ -819,6 +819,16 @@
       "summary": "A German court ruled on July 31, 2026 , that AI music platform Suno infringed copyrights by training its models on unlicensed music. The EU AI Act, the world's first comprehensive legal framework for…",
       "description": "A German court ruled on July 31, 2026 , that AI music platform Suno infringed copyrights by training its models on unlicensed music. The EU AI Act, the world's first comprehensive legal framework for AI, became generally applicable on August 2, 2026 , establishing broad regulations. The Act introduces specific rules for General-Purpose AI (GPAI) models, including key transparency and copyright-related obligations for providers. The ruling against Suno underscores the immediate legal implications for AI developers regarding intellectual property rights and data licensing for model training. The AI Act employs a risk-based approach , classifying AI systems into categories from unacceptable (banned) to minimal, with corresponding compliance requirements. Recent amendments via the 'AI Omnibus' , effective July 27, 2026, clarified implementation timelines and strengthened governance for the AI Act.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-08-03T16:22:39+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/EU-AI-Act-전면-시행-Suno-저작권-판결-AI-오피스-막강-규제-완벽-분석",
+      "title": "EU AI Act 전면 시행! Suno 저작권 판결, AI 오피스 막강 규제 완벽 분석",
+      "summary": "독일 Suno AI 음악 저작권 침해 판결부터 EU AI Act의 절대 금지 관행, 챗봇·딥페이크 투명성 의무, 고위험 AI 7대 핵심 의무, AI 오피스 규제 권한까지, 글로벌 AI 기업을 위한 필수 지침을 제공합니다.",
+      "description": "독일 Suno AI 음악 저작권 침해 판결부터 EU AI Act의 절대 금지 관행, 챗봇·딥페이크 투명성 의무, 고위험 AI 7대 핵심 의무, AI 오피스 규제 권한까지, 글로벌 AI 기업을 위한 필수 지침을 제공합니다.",
+      "lang": "ko"
     }
   ]
 }
