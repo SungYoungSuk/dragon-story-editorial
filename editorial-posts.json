@@ -869,6 +869,16 @@
       "summary": "OpenAI significantly cut the pricing for its GPT-5.6 Luna model. ChatGPT achieved a remarkable milestone of 1 billion weekly active users. OpenAI solidified its product strategy with distinct tiers…",
       "description": "OpenAI significantly cut the pricing for its GPT-5.6 Luna model. ChatGPT achieved a remarkable milestone of 1 billion weekly active users. OpenAI solidified its product strategy with distinct tiers across its GPT-5.6 lineup. Competitors like Anthropic are advancing AI model capabilities, particularly in coding and large context windows. AI agents are evolving from experimental tools to practical, real-world applications. The AI industry is seeing massive investments in computing infrastructure and strategic partnerships. Regulatory oversight for frontier AI models is intensifying, influencing model releases and imports.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-08-04T16:08:40+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Microsoft-Unleashes-MAI-First-Party-AI-Family-Replaces-OpenAI-Powers-Microsoft-365-GitHub-Copilot-Cuts-Costs-by-89pct",
+      "title": "Microsoft Unleashes MAI: First-Party AI Family Replaces OpenAI, Powers Microsoft 365 & GitHub Copilot, Cuts Costs by 89%",
+      "summary": "Microsoft has officially launched its proprietary MAI (Microsoft AI) model family, marking a strategic pivot to first-party AI. The MAI family consists of seven powerful in-house models, developed…",
+      "description": "Microsoft has officially launched its proprietary MAI (Microsoft AI) model family, marking a strategic pivot to first-party AI. The MAI family consists of seven powerful in-house models, developed from scratch to replace external dependencies in key Microsoft products. Key MAI models like MAI-Thinking-1 (reasoning) and MAI-Code-1-Flash (coding) are now actively deployed across Microsoft 365 and GitHub Copilot. Microsoft's extensive Phi-4 edge SLM portfolio and the new Aion 1.0 on-device intelligence offer powerful, locally deployable AI solutions. Organizations can leverage Reinforcement Learning Environments (RLEs) to frontier tune MAI models, creating custom, customer-owned AI solutions. Microsoft now fields a complete, vertically integrated AI portfolio , spanning custom silicon, cloud, edge, and on-device models. The Copilot orchestration layer intelligently routes tasks to optimize for cost-efficiency with MAI models and capability with frontier third-party models.",
+      "lang": "en"
     }
   ]
 }
