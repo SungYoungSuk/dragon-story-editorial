@@ -879,6 +879,16 @@
       "summary": "Microsoft has officially launched its proprietary MAI (Microsoft AI) model family, marking a strategic pivot to first-party AI. The MAI family consists of seven powerful in-house models, developed…",
       "description": "Microsoft has officially launched its proprietary MAI (Microsoft AI) model family, marking a strategic pivot to first-party AI. The MAI family consists of seven powerful in-house models, developed from scratch to replace external dependencies in key Microsoft products. Key MAI models like MAI-Thinking-1 (reasoning) and MAI-Code-1-Flash (coding) are now actively deployed across Microsoft 365 and GitHub Copilot. Microsoft's extensive Phi-4 edge SLM portfolio and the new Aion 1.0 on-device intelligence offer powerful, locally deployable AI solutions. Organizations can leverage Reinforcement Learning Environments (RLEs) to frontier tune MAI models, creating custom, customer-owned AI solutions. Microsoft now fields a complete, vertically integrated AI portfolio , spanning custom silicon, cloud, edge, and on-device models. The Copilot orchestration layer intelligently routes tasks to optimize for cost-efficiency with MAI models and capability with frontier third-party models.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-08-04T16:18:37+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/South-Koreas-National-AI-Computing-Center-Breaks-Ground-in-Haenam-Solasido-Powering-2.5-Trillion-Won-Hyper-scale-AI-Dome",
+      "title": "South Korea's National AI Computing Center Breaks Ground in Haenam Solasido: Powering 2.5 Trillion Won Hyper-scale AI & Domestic Semiconductor Hub",
+      "summary": "The National AI Computing Center , also known as the National AI Highway , has officially begun construction. This landmark project represents a major national initiative to build a hyper-scale AI…",
+      "description": "The National AI Computing Center , also known as the National AI Highway , has officially begun construction. This landmark project represents a major national initiative to build a hyper-scale AI data center. The center's groundbreaking ceremony was held on August 3, 2026 , at Haenam Solasido Data Center Park. It aims to expand the foundation for hyper-scale AI development and foster the domestic AI semiconductor ecosystem. High-performance computing resources will be made accessible to startups, SMEs, universities, and research institutions . The center's construction and operation are managed by KOACC , a public-private joint venture. The project is led by the Samsung SDS consortium and is expected to transform Haenam Solasido into a national AI and renewable energy hub.",
+      "lang": "en"
     }
   ]
 }
