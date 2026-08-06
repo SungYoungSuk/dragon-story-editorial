@@ -919,6 +919,16 @@
       "summary": "마이크로소프트 MAI 클라우드 모델, Phi-4/Aion 1.0 온디바이스 AI, 코파일럿 오케스트레이션 등 MS의 혁신적인 AI 전략을 심층 분석합니다. API 가격 및 실무 적용 가이드도 확인하세요.",
       "description": "마이크로소프트 MAI 클라우드 모델, Phi-4/Aion 1.0 온디바이스 AI, 코파일럿 오케스트레이션 등 MS의 혁신적인 AI 전략을 심층 분석합니다. API 가격 및 실무 적용 가이드도 확인하세요.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-08-06T16:38:13+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Samsung-FMS-2026-zHBM-400-Layer-V10-BV-NAND-zNAND-O-Unveiled-for-Next-Gen-AI-Memory-Highlighting-IDM-Advantage",
+      "title": "Samsung FMS 2026: zHBM, 400+ Layer V10 BV-NAND & zNAND-O Unveiled for Next-Gen AI Memory, Highlighting IDM Advantage",
+      "summary": "Samsung unveiled groundbreaking 3D memory and NAND innovations, including zHBM , zNAND-O , and V10 BV-NAND , at FMS 2026. The zHBM architecture directly stacks HBM onto AI accelerators, promising up…",
+      "description": "Samsung unveiled groundbreaking 3D memory and NAND innovations, including zHBM , zNAND-O , and V10 BV-NAND , at FMS 2026. The zHBM architecture directly stacks HBM onto AI accelerators, promising up to 8 times higher performance and 3 times better power efficiency than HBM5. Samsung's V10 BV-NAND introduces 400+ layer vertical stacking, achieving approximately 58% better memory density than its predecessor. The new zNAND-O solution is designed for on-device AI, combining V-NAND with TSV technology for high spatial efficiency and data bandwidth. These next-generation memory solutions are currently concept models, with commercial samples targeted for late 2026 / early 2027 . Samsung highlighted its End-to-End solution capabilities , integrating memory, logic, foundry, and packaging to optimize AI semiconductor development.",
+      "lang": "en"
     }
   ]
 }
