@@ -929,6 +929,16 @@
       "summary": "Samsung unveiled groundbreaking 3D memory and NAND innovations, including zHBM , zNAND-O , and V10 BV-NAND , at FMS 2026. The zHBM architecture directly stacks HBM onto AI accelerators, promising up…",
       "description": "Samsung unveiled groundbreaking 3D memory and NAND innovations, including zHBM , zNAND-O , and V10 BV-NAND , at FMS 2026. The zHBM architecture directly stacks HBM onto AI accelerators, promising up to 8 times higher performance and 3 times better power efficiency than HBM5. Samsung's V10 BV-NAND introduces 400+ layer vertical stacking, achieving approximately 58% better memory density than its predecessor. The new zNAND-O solution is designed for on-device AI, combining V-NAND with TSV technology for high spatial efficiency and data bandwidth. These next-generation memory solutions are currently concept models, with commercial samples targeted for late 2026 / early 2027 . Samsung highlighted its End-to-End solution capabilities , integrating memory, logic, foundry, and packaging to optimize AI semiconductor development.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-08-06T16:47:35+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Chinas-AI-Revolution-Alibaba-Qwen3.8-Max-QwenWork-MiniMax-H3-Drive-Ecosystem-Shift-to-Longer-Working-AI",
+      "title": "China's AI Revolution: Alibaba Qwen3.8-Max & QwenWork, MiniMax H3 Drive Ecosystem Shift to 'Longer-Working AI'",
+      "summary": "Alibaba unveiled its flagship Qwen3.8-Max multimodal model on August 3, 2026, marking a significant advancement in its Qwen series with integrated visual understanding. Simultaneously, Alibaba…",
+      "description": "Alibaba unveiled its flagship Qwen3.8-Max multimodal model on August 3, 2026, marking a significant advancement in its Qwen series with integrated visual understanding. Simultaneously, Alibaba launched QwenWork , an enterprise AI agent platform designed to integrate diverse AI tools and workflows across enterprise environments. MiniMax introduced H3 on July 31, 2026, as its pioneering open-source video generation model, capable of producing high-resolution video with native stereo sound. These major releases signal a broader strategic shift in China's AI industry, moving competition beyond individual model performance to focus on comprehensive ecosystem building . Chinese AI companies are now prioritizing platform expansion and deeper integration of domestic collaboration tools, cloud services, and industrial data for faster commercialization . The industry's focus is evolving from creating \"smarter AI\" to developing \"longer-working AI\" , emphasizing autonomous, professional, and long-duration task capabilities. This transformation positions China's AI sector to lead in the automation of actual work and foster robust developer and business ecosystems around powerful AI platforms.",
+      "lang": "en"
     }
   ]
 }
