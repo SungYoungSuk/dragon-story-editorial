@@ -939,6 +939,16 @@
       "summary": "Alibaba unveiled its flagship Qwen3.8-Max multimodal model on August 3, 2026, marking a significant advancement in its Qwen series with integrated visual understanding. Simultaneously, Alibaba…",
       "description": "Alibaba unveiled its flagship Qwen3.8-Max multimodal model on August 3, 2026, marking a significant advancement in its Qwen series with integrated visual understanding. Simultaneously, Alibaba launched QwenWork , an enterprise AI agent platform designed to integrate diverse AI tools and workflows across enterprise environments. MiniMax introduced H3 on July 31, 2026, as its pioneering open-source video generation model, capable of producing high-resolution video with native stereo sound. These major releases signal a broader strategic shift in China's AI industry, moving competition beyond individual model performance to focus on comprehensive ecosystem building . Chinese AI companies are now prioritizing platform expansion and deeper integration of domestic collaboration tools, cloud services, and industrial data for faster commercialization . The industry's focus is evolving from creating \"smarter AI\" to developing \"longer-working AI\" , emphasizing autonomous, professional, and long-duration task capabilities. This transformation positions China's AI sector to lead in the automation of actual work and foster robust developer and business ecosystems around powerful AI platforms.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-08-06T21:55:21+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/FMS-2026-삼성-AI-시대-메모리-혁신-zHBM-V-NAND부터-HBM-로드맵-원스톱-솔루션까지",
+      "title": "FMS 2026 삼성, AI 시대 메모리 혁신! zHBM, V-NAND부터 HBM 로드맵 & 원스톱 솔루션까지",
+      "summary": "삼성전자가 FMS 2026에서 AI 시대를 위한 혁신적인 메모리 기술 비전을 제시했습니다. zHBM, zNAND_O, V10 BV-NAND 등 차세대 메모리 3종 공개와 HBM 로드맵, 그리고 IDM 강점의 '원스톱 AI 솔루션'으로 AI 인프라 혁신을 이끌 전략을 확인하세요.",
+      "description": "삼성전자가 FMS 2026에서 AI 시대를 위한 혁신적인 메모리 기술 비전을 제시했습니다. zHBM, zNAND_O, V10 BV-NAND 등 차세대 메모리 3종 공개와 HBM 로드맵, 그리고 IDM 강점의 '원스톱 AI 솔루션'으로 AI 인프라 혁신을 이끌 전략을 확인하세요.",
+      "lang": "ko"
     }
   ]
 }
