@@ -949,6 +949,16 @@
       "summary": "삼성전자가 FMS 2026에서 AI 시대를 위한 혁신적인 메모리 기술 비전을 제시했습니다. zHBM, zNAND_O, V10 BV-NAND 등 차세대 메모리 3종 공개와 HBM 로드맵, 그리고 IDM 강점의 '원스톱 AI 솔루션'으로 AI 인프라 혁신을 이끌 전략을 확인하세요.",
       "description": "삼성전자가 FMS 2026에서 AI 시대를 위한 혁신적인 메모리 기술 비전을 제시했습니다. zHBM, zNAND_O, V10 BV-NAND 등 차세대 메모리 3종 공개와 HBM 로드맵, 그리고 IDM 강점의 '원스톱 AI 솔루션'으로 AI 인프라 혁신을 이끌 전략을 확인하세요.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-08-06T22:26:54+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/알리바바-Qwen3.8-Max-vs-미니맥스-H3-AI의-두-길-기업-LLM-vs-오픈소스-영상",
+      "title": "알리바바 Qwen3.8-Max vs 미니맥스 H3: AI의 두 길, 기업 LLM vs 오픈소스 영상",
+      "summary": "알리바바 Qwen3.8-Max와 미니맥스 H3의 AI 혁신을 분석합니다. 초거대 LLM의 기업 자동화 전략과 오픈소스 영상 AI의 콘텐츠 제작 대중화, 비용 및 실무 적용 시나리오까지 심층 비교.",
+      "description": "알리바바 Qwen3.8-Max와 미니맥스 H3의 AI 혁신을 분석합니다. 초거대 LLM의 기업 자동화 전략과 오픈소스 영상 AI의 콘텐츠 제작 대중화, 비용 및 실무 적용 시나리오까지 심층 비교.",
+      "lang": "ko"
     }
   ]
 }
