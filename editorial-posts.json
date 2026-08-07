@@ -969,6 +969,16 @@
       "summary": "2026년, 에너지 절약과 탄소중립으로 최대 50만원 이상 돌려받으세요! 한전 캐시백, 환경부 탄소중립포인트, 지자체 혜택을 놓치지 않고 연계 활용하는 모든 방법을 공개합니다.",
       "description": "2026년, 에너지 절약과 탄소중립으로 최대 50만원 이상 돌려받으세요! 한전 캐시백, 환경부 탄소중립포인트, 지자체 혜택을 놓치지 않고 연계 활용하는 모든 방법을 공개합니다.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-08-07T14:32:47+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Metas-Muse-Code-Spark-1.2-Launch-AI-Coding-Agent-Battles-Rivals-with-Async-Architecture-Disruptive-Pricing",
+      "title": "Meta's Muse Code & Spark 1.2 Launch: AI Coding Agent Battles Rivals with Async Architecture & Disruptive Pricing",
+      "summary": "Meta has launched Muse Code , a terminal-based AI coding agent, and Muse Spark 1.2 , a specialized coding model, today, August 7, 2026. This release positions Meta in direct competition with leading…",
+      "description": "Meta has launched Muse Code , a terminal-based AI coding agent, and Muse Spark 1.2 , a specialized coding model, today, August 7, 2026. This release positions Meta in direct competition with leading AI coding agents from Anthropic and OpenAI. Muse Code features a novel architecture utilizing persistent, asynchronous background agents to enhance efficiency and reduce redundant information gathering. It includes capabilities like parallel sub-agents with isolated git worktrees and a comprehensive, replay-exact event log for full auditability. Muse Spark 1.2 , co-trained with Muse Code , received significantly scaled training compute on coding tasks, improving generation and debugging. Meta offers Muse Spark 1.2 through its API in Standard and a deeply discounted Contributor tier, exchanging data for lower costs. The system demonstrated exceptional long-horizon performance, achieving substantial, non-obvious optimizations over 24-hour autonomous runs.",
+      "lang": "en"
     }
   ]
 }
