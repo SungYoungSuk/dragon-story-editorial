@@ -1019,6 +1019,16 @@
       "summary": "DeepSeek-V4-Flash는 MoE 아키텍처 기반의 초고속/고처리량 AI 모델입니다. 복잡한 추론 및 코딩에 최적화되었으며, Standard, Priority, Flex 3가지 요금제로 비용 효율적인 AI 활용 전략을 제시합니다.",
       "description": "DeepSeek-V4-Flash는 MoE 아키텍처 기반의 초고속/고처리량 AI 모델입니다. 복잡한 추론 및 코딩에 최적화되었으며, Standard, Priority, Flex 3가지 요금제로 비용 효율적인 AI 활용 전략을 제시합니다.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-08-07T15:41:34+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/%EA%B5%AC%EA%B8%80-%EB%94%A5%EB%A7%88%EC%9D%B8%EB%93%9C-NeuralGCM-MLGCM-%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C-%EA%B8%B0%EC%83%81%EA%B8%B0%ED%9B%84-%EC%98%88%EC%B8%A1%EC%9D%98-%EC%83%88-%EC%A7%80%ED%8F%89/",
+      "title": "구글 딥마인드 NeuralGCM: ML+GCM 하이브리드, 기상·기후 예측의 새 지평",
+      "summary": "구글 딥마인드의 NeuralGCM은 ML과 GCM을 융합한 하이브리드 모델로, 기존 모델을 뛰어넘는 정확도와 10만 배 연산 효율성으로 단기 기상 예측부터 장기 기후 시뮬레이션까지 혁신합니다.",
+      "description": "구글 딥마인드의 NeuralGCM은 ML과 GCM을 융합한 하이브리드 모델로, 기존 모델을 뛰어넘는 정확도와 10만 배 연산 효율성으로 단기 기상 예측부터 장기 기후 시뮬레이션까지 혁신합니다.",
+      "lang": "ko"
     }
   ]
 }
