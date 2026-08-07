@@ -1009,6 +1009,16 @@
       "summary": "메타의 AI 코딩 에이전트 '뮤즈 코드'와 '스파크 1.2' 핵심 기능 및 성능을 분석합니다. 독점 전환, 논란의 요금제, 데이터 프라이버시 문제를 심층적으로 다룹니다.",
       "description": "메타의 AI 코딩 에이전트 '뮤즈 코드'와 '스파크 1.2' 핵심 기능 및 성능을 분석합니다. 독점 전환, 논란의 요금제, 데이터 프라이버시 문제를 심층적으로 다룹니다.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-08-07T15:36:15+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/DeepSeek-V4-Flash-MoE-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%84%B1%EB%8A%A5-%EC%9A%94%EA%B8%88%EC%A0%9C-%EB%B9%84%EA%B5%90-%EB%B0%8F-%EB%B9%84%EC%9A%A9-%ED%9A%A8%EC%9C%A8%EC%84%B1-%EB%B6%84%EC%84%9D/",
+      "title": "DeepSeek-V4-Flash: MoE 아키텍처, 성능, 요금제 비교 및 비용 효율성 분석",
+      "summary": "DeepSeek-V4-Flash는 MoE 아키텍처 기반의 초고속/고처리량 AI 모델입니다. 복잡한 추론 및 코딩에 최적화되었으며, Standard, Priority, Flex 3가지 요금제로 비용 효율적인 AI 활용 전략을 제시합니다.",
+      "description": "DeepSeek-V4-Flash는 MoE 아키텍처 기반의 초고속/고처리량 AI 모델입니다. 복잡한 추론 및 코딩에 최적화되었으며, Standard, Priority, Flex 3가지 요금제로 비용 효율적인 AI 활용 전략을 제시합니다.",
+      "lang": "ko"
     }
   ]
 }
