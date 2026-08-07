@@ -979,6 +979,16 @@
       "summary": "Meta has launched Muse Code , a terminal-based AI coding agent, and Muse Spark 1.2 , a specialized coding model, today, August 7, 2026. This release positions Meta in direct competition with leading…",
       "description": "Meta has launched Muse Code , a terminal-based AI coding agent, and Muse Spark 1.2 , a specialized coding model, today, August 7, 2026. This release positions Meta in direct competition with leading AI coding agents from Anthropic and OpenAI. Muse Code features a novel architecture utilizing persistent, asynchronous background agents to enhance efficiency and reduce redundant information gathering. It includes capabilities like parallel sub-agents with isolated git worktrees and a comprehensive, replay-exact event log for full auditability. Muse Spark 1.2 , co-trained with Muse Code , received significantly scaled training compute on coding tasks, improving generation and debugging. Meta offers Muse Spark 1.2 through its API in Standard and a deeply discounted Contributor tier, exchanging data for lower costs. The system demonstrated exceptional long-horizon performance, achieving substantial, non-obvious optimizations over 24-hour autonomous runs.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-08-07T14:50:30+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/DeepSeek-V4-Flash-Revolutionizing-AI-with-284B-MoE-1M-Context-Unprecedented-Efficiency-on-DeepInfra",
+      "title": "DeepSeek-V4-Flash: Revolutionizing AI with 284B MoE, 1M Context & Unprecedented Efficiency on DeepInfra",
+      "summary": "DeepSeek-V4-Flash is an efficiency-focused Mixture-of-Experts (MoE) model designed for fast inference and high-throughput use cases. It features a sparse MoE design , balancing a large total…",
+      "description": "DeepSeek-V4-Flash is an efficiency-focused Mixture-of-Experts (MoE) model designed for fast inference and high-throughput use cases. It features a sparse MoE design , balancing a large total parameter count with highly efficient active parameters per token. The DeepSeek-V4 series, including Flash, supports an industry-leading one million token context length . DeepSeek-V4-Flash delivers exceptional speed , achieving 100 to 150 Tokens Per Second (TPS) in real-world scenarios. Despite its focus on speed and efficiency, DeepSeek-V4-Flash maintains strong performance on complex reasoning and coding tasks . The model incorporates advanced architectural and optimization upgrades like a Hybrid Attention Architecture and the Muon optimizer . DeepSeek-V4-Flash offers a highly competitive price-performance ratio , disrupting the market for high-capability, cost-effective LLMs.",
+      "lang": "en"
     }
   ]
 }
