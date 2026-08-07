@@ -999,6 +999,16 @@
       "summary": "Google DeepMind and Google Research launched WeatherNext 2 , their most advanced AI weather forecasting model. The model significantly outperforms previous generations and traditional methods in…",
       "description": "Google DeepMind and Google Research launched WeatherNext 2 , their most advanced AI weather forecasting model. The model significantly outperforms previous generations and traditional methods in speed, accuracy, and resolution. WeatherNext 2 demonstrates state-of-the-art accuracy, particularly in predicting cyclones and extreme weather events. It represents a pivotal shift, moving AI weather forecasting from an experimental phase into operational use. The advanced predictions are poised to help mitigate natural disasters, protect communities, and optimize various industries. A compact version, WeatherNext 2-mini , provides public access via a free Colab notebook for experimentation.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-08-07T15:27:10+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/%EB%A9%94%ED%83%80-%EB%AE%A4%EC%A6%88-%EC%BD%94%EB%93%9C-%EC%8A%A4%ED%8C%8C%ED%81%AC-1.2-AI-%EC%BD%94%EB%94%A9-2%EC%9C%84-%EB%8F%85%EC%A0%90-%EC%A0%84%EB%9E%B5%EA%B3%BC-%ED%94%84%EB%9D%BC%EC%9D%B4%EB%B2%84%EC%8B%9C-%EB%85%BC%EB%9E%80/",
+      "title": "메타 '뮤즈 코드' & '스파크 1.2': AI 코딩 2위, 독점 전략과 프라이버시 논란",
+      "summary": "메타의 AI 코딩 에이전트 '뮤즈 코드'와 '스파크 1.2' 핵심 기능 및 성능을 분석합니다. 독점 전환, 논란의 요금제, 데이터 프라이버시 문제를 심층적으로 다룹니다.",
+      "description": "메타의 AI 코딩 에이전트 '뮤즈 코드'와 '스파크 1.2' 핵심 기능 및 성능을 분석합니다. 독점 전환, 논란의 요금제, 데이터 프라이버시 문제를 심층적으로 다룹니다.",
+      "lang": "ko"
     }
   ]
 }
