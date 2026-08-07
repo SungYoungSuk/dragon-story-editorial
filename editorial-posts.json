@@ -989,6 +989,16 @@
       "summary": "DeepSeek-V4-Flash is an efficiency-focused Mixture-of-Experts (MoE) model designed for fast inference and high-throughput use cases. It features a sparse MoE design , balancing a large total…",
       "description": "DeepSeek-V4-Flash is an efficiency-focused Mixture-of-Experts (MoE) model designed for fast inference and high-throughput use cases. It features a sparse MoE design , balancing a large total parameter count with highly efficient active parameters per token. The DeepSeek-V4 series, including Flash, supports an industry-leading one million token context length . DeepSeek-V4-Flash delivers exceptional speed , achieving 100 to 150 Tokens Per Second (TPS) in real-world scenarios. Despite its focus on speed and efficiency, DeepSeek-V4-Flash maintains strong performance on complex reasoning and coding tasks . The model incorporates advanced architectural and optimization upgrades like a Hybrid Attention Architecture and the Muon optimizer . DeepSeek-V4-Flash offers a highly competitive price-performance ratio , disrupting the market for high-capability, cost-effective LLMs.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-08-07T15:02:54+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Google-DeepMind-Research-Unveil-WeatherNext-2-AIs-Leap-into-Operational-Weather-Forecasting-with-Unmatched-Speed-Cyclone",
+      "title": "Google DeepMind & Research Unveil WeatherNext 2: AI's Leap into Operational Weather Forecasting with Unmatched Speed, Cyclone Accuracy & Industry Impact",
+      "summary": "Google DeepMind and Google Research launched WeatherNext 2 , their most advanced AI weather forecasting model. The model significantly outperforms previous generations and traditional methods in…",
+      "description": "Google DeepMind and Google Research launched WeatherNext 2 , their most advanced AI weather forecasting model. The model significantly outperforms previous generations and traditional methods in speed, accuracy, and resolution. WeatherNext 2 demonstrates state-of-the-art accuracy, particularly in predicting cyclones and extreme weather events. It represents a pivotal shift, moving AI weather forecasting from an experimental phase into operational use. The advanced predictions are poised to help mitigate natural disasters, protect communities, and optimize various industries. A compact version, WeatherNext 2-mini , provides public access via a free Colab notebook for experimentation.",
+      "lang": "en"
     }
   ]
 }
