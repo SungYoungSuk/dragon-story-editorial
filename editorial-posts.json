@@ -1069,6 +1069,16 @@
       "summary": "AI coding agents are revolutionizing development by offering autonomous debugging and code generation directly in the terminal. The fundamental process for self-correcting bugs involves an agentic…",
       "description": "AI coding agents are revolutionizing development by offering autonomous debugging and code generation directly in the terminal. The fundamental process for self-correcting bugs involves an agentic loop of testing, error analysis, code modification, and re-verification. These agents leverage comprehensive access to project files, the terminal, Git state, and project-specific documentation for effective operation. Advanced capabilities include auto-memory for learning and extensions for integrating external services or delegating complex workflows. Developers maintain control through granular permission modes , allowing them to define how aggressively an AI agent can modify code or execute commands. Successful interaction with CLI AI agents depends on providing clear, specific instructions and delegating tasks rather than dictating solutions. The foundation of these intelligent debugging systems lies in advanced Large Language Models , often implemented using programming languages like Python.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-08-09T17:52:30+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Llama-3-to-Llama-4-The-Open-Source-AI-Evolution-Dethroning-Proprietary-Models-with-Multimodal-Power-On-Premise-Flexibili",
+      "title": "Llama 3 to Llama 4: The Open-Source AI Evolution Dethroning Proprietary Models with Multimodal Power & On-Premise Flexibility",
+      "summary": "Llama 3 offers state-of-the-art capabilities in multilinguality, coding, and reasoning, comparable to leading proprietary AI models. The public release of Llama 3 foundation models empowers…",
+      "description": "Llama 3 offers state-of-the-art capabilities in multilinguality, coding, and reasoning, comparable to leading proprietary AI models. The public release of Llama 3 foundation models empowers organizations to custom fine-tune and deploy advanced AI solutions on-premise. Future iterations, such as Llama 4 , further advance the open-source ecosystem with multimodal features, efficiency, and expanded context windows. These developments are fundamentally challenging the monopoly of closed AI by providing accessible, customizable, and powerful alternatives.",
+      "lang": "en"
     }
   ]
 }
