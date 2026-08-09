@@ -1079,6 +1079,16 @@
       "summary": "Llama 3 offers state-of-the-art capabilities in multilinguality, coding, and reasoning, comparable to leading proprietary AI models. The public release of Llama 3 foundation models empowers…",
       "description": "Llama 3 offers state-of-the-art capabilities in multilinguality, coding, and reasoning, comparable to leading proprietary AI models. The public release of Llama 3 foundation models empowers organizations to custom fine-tune and deploy advanced AI solutions on-premise. Future iterations, such as Llama 4 , further advance the open-source ecosystem with multimodal features, efficiency, and expanded context windows. These developments are fundamentally challenging the monopoly of closed AI by providing accessible, customizable, and powerful alternatives.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-08-09T18:15:53+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/DeepSeek-V3-GPT-4o-%EB%84%98%EB%B3%B8-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-AI-%ED%98%81%EC%8B%A0-%EC%88%98%ED%95%99%EC%BD%94%EB%94%A9-%EC%95%95%EB%8F%84/",
+      "title": "DeepSeek-V3: GPT-4o 넘본 오픈소스 AI 혁신, 수학·코딩 압도",
+      "summary": "DeepSeek-V3는 MoE, MTP로 GPT-4o급 성능을 구현한 혁신적 오픈소스 AI입니다. 671B 파라미터, 1.8배 빠른 추론, 수학·코딩 벤치마크 압도적 성과를 분석합니다.",
+      "description": "DeepSeek-V3는 MoE, MTP로 GPT-4o급 성능을 구현한 혁신적 오픈소스 AI입니다. 671B 파라미터, 1.8배 빠른 추론, 수학·코딩 벤치마크 압도적 성과를 분석합니다.",
+      "lang": "ko"
     }
   ]
 }
