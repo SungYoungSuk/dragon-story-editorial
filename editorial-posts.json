@@ -1049,6 +1049,16 @@
       "summary": "2026년부터 고속도로 통행료 할인 대상이 2자녀 가구 및 렌터카 이용 장애인/유공자까지 확대됩니다. 최대 100% 감면 혜택, 신청 방법, 적용 기간 및 주의사항을 상세히 안내합니다.",
       "description": "2026년부터 고속도로 통행료 할인 대상이 2자녀 가구 및 렌터카 이용 장애인/유공자까지 확대됩니다. 최대 100% 감면 혜택, 신청 방법, 적용 기간 및 주의사항을 상세히 안내합니다.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-08-09T17:19:31+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/DeepSeek-AI-Pioneering-AGI-with-Flagship-DeepSeek-V4-Ultra-Long-Context-Agent-Capabilities",
+      "title": "DeepSeek AI: Pioneering AGI with Flagship DeepSeek-V4, Ultra-Long Context & Agent Capabilities",
+      "summary": "DeepSeek has rapidly launched and open-sourced multiple large AI models , demonstrating significant advancements in a short timeframe. Driven by a long-term mission to explore AGI , DeepSeek…",
+      "description": "DeepSeek has rapidly launched and open-sourced multiple large AI models , demonstrating significant advancements in a short timeframe. Driven by a long-term mission to explore AGI , DeepSeek leverages substantial self-developed infrastructure and computing power. Their flagship model, DeepSeek-V4, integrates agent functionality and offers impressive capabilities, including ultra-long context processing. DeepSeek makes its powerful AI models broadly accessible via a dedicated API platform and an intuitive chat interface .",
+      "lang": "en"
     }
   ]
 }
