@@ -1059,6 +1059,16 @@
       "summary": "DeepSeek has rapidly launched and open-sourced multiple large AI models , demonstrating significant advancements in a short timeframe. Driven by a long-term mission to explore AGI , DeepSeek…",
       "description": "DeepSeek has rapidly launched and open-sourced multiple large AI models , demonstrating significant advancements in a short timeframe. Driven by a long-term mission to explore AGI , DeepSeek leverages substantial self-developed infrastructure and computing power. Their flagship model, DeepSeek-V4, integrates agent functionality and offers impressive capabilities, including ultra-long context processing. DeepSeek makes its powerful AI models broadly accessible via a dedicated API platform and an intuitive chat interface .",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-08-09T17:43:35+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Beyond-the-IDE-Building-Autonomous-CLI-AI-Agents-with-Claude-Code-Tag-for-Self-Correcting-Bugs",
+      "title": "Beyond the IDE: Building Autonomous CLI AI Agents with Claude Code & Tag for Self-Correcting Bugs",
+      "summary": "AI coding agents are revolutionizing development by offering autonomous debugging and code generation directly in the terminal. The fundamental process for self-correcting bugs involves an agentic…",
+      "description": "AI coding agents are revolutionizing development by offering autonomous debugging and code generation directly in the terminal. The fundamental process for self-correcting bugs involves an agentic loop of testing, error analysis, code modification, and re-verification. These agents leverage comprehensive access to project files, the terminal, Git state, and project-specific documentation for effective operation. Advanced capabilities include auto-memory for learning and extensions for integrating external services or delegating complex workflows. Developers maintain control through granular permission modes , allowing them to define how aggressively an AI agent can modify code or execute commands. Successful interaction with CLI AI agents depends on providing clear, specific instructions and delegating tasks rather than dictating solutions. The foundation of these intelligent debugging systems lies in advanced Large Language Models , often implemented using programming languages like Python.",
+      "lang": "en"
     }
   ]
 }
