@@ -1089,6 +1089,16 @@
       "summary": "DeepSeek-V3는 MoE, MTP로 GPT-4o급 성능을 구현한 혁신적 오픈소스 AI입니다. 671B 파라미터, 1.8배 빠른 추론, 수학·코딩 벤치마크 압도적 성과를 분석합니다.",
       "description": "DeepSeek-V3는 MoE, MTP로 GPT-4o급 성능을 구현한 혁신적 오픈소스 AI입니다. 671B 파라미터, 1.8배 빠른 추론, 수학·코딩 벤치마크 압도적 성과를 분석합니다.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-08-09T18:21:53+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/Claude-Code-%EA%B0%9C%EB%B0%9C-%EC%9E%90%EB%8F%99%ED%99%94-%ED%98%81%EC%8B%A0-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EB%8A%A5-%EC%84%A4%EC%B9%98-%ED%95%9C%EA%B3%84%EC%A0%90-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0/",
+      "title": "Claude Code: 개발 자동화 혁신! 핵심 기능, 설치, 한계점 파헤치기",
+      "summary": "Anthropic의 AI 코딩 어시스턴트 Claude Code의 핵심 기능, IDE/CI/CD 통합, 플랫폼별 설치법, 자동/수동 업데이트, 그리고 불투명한 가격, 성능 한계, 2025년 소송 리스크까지 종합적으로 분석합니다.",
+      "description": "Anthropic의 AI 코딩 어시스턴트 Claude Code의 핵심 기능, IDE/CI/CD 통합, 플랫폼별 설치법, 자동/수동 업데이트, 그리고 불투명한 가격, 성능 한계, 2025년 소송 리스크까지 종합적으로 분석합니다.",
+      "lang": "ko"
     }
   ]
 }
