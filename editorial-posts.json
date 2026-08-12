@@ -1119,6 +1119,16 @@
       "summary": "The Model Context Protocol (MCP) is a standardized open protocol for AI model interactions with external systems. MCP enables the development of secure, scalable, and interoperable AI applications…",
       "description": "The Model Context Protocol (MCP) is a standardized open protocol for AI model interactions with external systems. MCP enables the development of secure, scalable, and interoperable AI applications and agents. It significantly reduces AI integration complexity, cutting development time and costs for builders. MCP democratizes AI by freeing companies from creating custom connectors for various tools and services. AI agents gain seamless access to an extensive ecosystem of data sources, tools, and applications through MCP. Anthropic, an AI safety and research company, is proposing MCP to foster a more integrated AI ecosystem.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-08-12T12:58:40+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/AI%EC%9A%A9-USB-C-MCP-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C-Stdio-HTTP-%EB%B9%84%EA%B5%90-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EB%B3%B4%EC%95%88-%ED%95%9C%EA%B3%84%EA%B9%8C%EC%A7%80/",
+      "title": "AI용 USB-C, MCP 프로토콜: Stdio & HTTP 비교, 아키텍처, 보안, 한계까지",
+      "summary": "AI 애플리케이션 연결의 핵심, MCP 프로토콜을 완벽 분석합니다. 'AI용 USB-C'라 불리는 MCP의 JSON-RPC 2.0 기반 아키텍처, Stdio/Streamable HTTP 전송 방식 비교, 확장성, 보안 이점 및 실제 구현 사례, 그리고 주의할 한계점까지 심층적으로 다룹니다.",
+      "description": "AI 애플리케이션 연결의 핵심, MCP 프로토콜을 완벽 분석합니다. 'AI용 USB-C'라 불리는 MCP의 JSON-RPC 2.0 기반 아키텍처, Stdio/Streamable HTTP 전송 방식 비교, 확장성, 보안 이점 및 실제 구현 사례, 그리고 주의할 한계점까지 심층적으로 다룹니다.",
+      "lang": "ko"
     }
   ]
 }
