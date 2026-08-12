@@ -1129,6 +1129,16 @@
       "summary": "AI 애플리케이션 연결의 핵심, MCP 프로토콜을 완벽 분석합니다. 'AI용 USB-C'라 불리는 MCP의 JSON-RPC 2.0 기반 아키텍처, Stdio/Streamable HTTP 전송 방식 비교, 확장성, 보안 이점 및 실제 구현 사례, 그리고 주의할 한계점까지 심층적으로 다룹니다.",
       "description": "AI 애플리케이션 연결의 핵심, MCP 프로토콜을 완벽 분석합니다. 'AI용 USB-C'라 불리는 MCP의 JSON-RPC 2.0 기반 아키텍처, Stdio/Streamable HTTP 전송 방식 비교, 확장성, 보안 이점 및 실제 구현 사례, 그리고 주의할 한계점까지 심층적으로 다룹니다.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-08-12T13:06:52+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/AI%ED%8C%90-USB-C-%ED%8F%AC%ED%8A%B8-%EC%97%B0%EA%B2%B0-%ED%91%9C%EC%A4%80-%ED%98%81%EC%8B%A0%EA%B3%BC-%EC%95%A4%ED%8A%B8%EB%A1%9C%ED%94%BD-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%86%8C%EC%86%A1/",
+      "title": "AI판 USB-C 포트: 연결 표준 혁신과 앤트로픽 데이터 소송",
+      "summary": "AI 앱의 외부 시스템 연결 표준을 통한 혁신적 기능 확장과 개발 효율 증대. 앤트로픽-레딧 소송으로 부각된 AI 데이터 윤리 및 법적 책임까지 심층 분석.",
+      "description": "AI 앱의 외부 시스템 연결 표준을 통한 혁신적 기능 확장과 개발 효율 증대. 앤트로픽-레딧 소송으로 부각된 AI 데이터 윤리 및 법적 책임까지 심층 분석.",
+      "lang": "ko"
     }
   ]
 }
