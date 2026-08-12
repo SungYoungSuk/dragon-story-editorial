@@ -1109,6 +1109,16 @@
       "summary": "The Model Context Protocol (MCP) is an open standard that connects AI applications to external data sources and tools. MCP empowers LLMs by allowing them to delegate complex tasks like data retrieval…",
       "description": "The Model Context Protocol (MCP) is an open standard that connects AI applications to external data sources and tools. MCP empowers LLMs by allowing them to delegate complex tasks like data retrieval and external API calls to specialized servers. The core architecture consists of hosts, clients, and independent servers , enabling modular and scalable AI solutions. MCP servers add value by exposing tools for AI-driven actions, resources for data access, and prompts for user interaction . Communication relies on defined stateful protocols and transport mechanisms to ensure reliable and flexible connections. Benefits of MCP server implementation include extensibility, modularity, interoperability, and a clear focus for AI application development. Implementing an MCP server requires adherence to strong security practices , including robust validation, authentication, and error handling.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-08-12T12:49:40+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Model-Context-Protocol-MCP-Anthropics-Open-Standard-for-AI-Integration-Claudes-Capabilities-Data-Ethics",
+      "title": "Model Context Protocol (MCP): Anthropic's Open Standard for AI Integration, Claude's Capabilities, & Data Ethics",
+      "summary": "The Model Context Protocol (MCP) is a standardized open protocol for AI model interactions with external systems. MCP enables the development of secure, scalable, and interoperable AI applications…",
+      "description": "The Model Context Protocol (MCP) is a standardized open protocol for AI model interactions with external systems. MCP enables the development of secure, scalable, and interoperable AI applications and agents. It significantly reduces AI integration complexity, cutting development time and costs for builders. MCP democratizes AI by freeing companies from creating custom connectors for various tools and services. AI agents gain seamless access to an extensive ecosystem of data sources, tools, and applications through MCP. Anthropic, an AI safety and research company, is proposing MCP to foster a more integrated AI ecosystem.",
+      "lang": "en"
     }
   ]
 }
