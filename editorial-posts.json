@@ -1199,6 +1199,16 @@
       "summary": "ChatGPT now offers seamless integration with Google Docs, Sheets, and Slides , enabling direct inline editing. A new spreadsheet-native sidebar within Google Sheets allows ChatGPT to read and assist…",
       "description": "ChatGPT now offers seamless integration with Google Docs, Sheets, and Slides , enabling direct inline editing. A new spreadsheet-native sidebar within Google Sheets allows ChatGPT to read and assist with cells, formulas, and data management. This update empowers users to build, update, explain, and summarize spreadsheets directly with AI assistance. The integration significantly enhances productivity and collaboration by bringing AI capabilities into daily Google Workspace workflows .",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-08-14T23:33:30+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Liquid-AI-Unleashes-LFM2.5-VL-3B-Open-Weight-Vision-Language-Model-Redefines-Edge-AI-with-Advanced-Screen-Understanding-",
+      "title": "Liquid AI Unleashes LFM2.5-VL-3B: Open-Weight Vision-Language Model Redefines Edge AI with Advanced Screen Understanding & Grounding",
+      "summary": "Liquid AI has released LFM2.5-VL-3B , a new open-weight vision-language model. Designed for edge and on-device deployment, it features approximately 3.1 billion parameters . Key capabilities include…",
+      "description": "Liquid AI has released LFM2.5-VL-3B , a new open-weight vision-language model. Designed for edge and on-device deployment, it features approximately 3.1 billion parameters . Key capabilities include advanced screen understanding, grounding, and tool use (function calling). Liquid AI reports impressive vendor benchmarks, with 87.9 on Grounding (RefCOCO) and 80.7 on Screen Understanding (ScreenSpot-v2) . It demonstrates high inference speeds on edge devices, reaching 228 tokens/s on Apple M5 Max . Crucially, all reported performance figures are vendor-reported , with no independent benchmarks available yet. The model's potential impact hinges on the independent reproduction of its core claims , especially for disruptive edge applications.",
+      "lang": "en"
     }
   ]
 }
