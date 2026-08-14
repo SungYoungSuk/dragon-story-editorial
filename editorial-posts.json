@@ -1209,6 +1209,16 @@
       "summary": "Liquid AI has released LFM2.5-VL-3B , a new open-weight vision-language model. Designed for edge and on-device deployment, it features approximately 3.1 billion parameters . Key capabilities include…",
       "description": "Liquid AI has released LFM2.5-VL-3B , a new open-weight vision-language model. Designed for edge and on-device deployment, it features approximately 3.1 billion parameters . Key capabilities include advanced screen understanding, grounding, and tool use (function calling). Liquid AI reports impressive vendor benchmarks, with 87.9 on Grounding (RefCOCO) and 80.7 on Screen Understanding (ScreenSpot-v2) . It demonstrates high inference speeds on edge devices, reaching 228 tokens/s on Apple M5 Max . Crucially, all reported performance figures are vendor-reported , with no independent benchmarks available yet. The model's potential impact hinges on the independent reproduction of its core claims , especially for disruptive edge applications.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-08-14T23:44:50+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4-3.7-%ED%94%8C%EB%9E%98%EC%8B%9C-%EA%B3%B5%EC%8B%9D-%EC%B6%9C%EC%8B%9C-AI-%EC%84%B1%EB%8A%A5-%EA%B0%80%EA%B2%A9-%ED%99%9C%EC%9A%A9-%EC%A0%84%EB%9E%B5-%EC%99%84%EB%B2%BD-%EB%B6%84%EC%84%9D/",
+      "title": "제미나이 3.7 플래시 공식 출시: AI 성능, 가격, 활용 전략 완벽 분석",
+      "summary": "구글 제미나이 3.7 플래시 출시! AI 지능 56점 달성, 코딩·멀티모달·에이전트 성능 강화. 2026년 말까지 특별가. 한계와 안전성 평가까지 상세 분석.",
+      "description": "구글 제미나이 3.7 플래시 출시! AI 지능 56점 달성, 코딩·멀티모달·에이전트 성능 강화. 2026년 말까지 특별가. 한계와 안전성 평가까지 상세 분석.",
+      "lang": "ko"
     }
   ]
 }
