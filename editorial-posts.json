@@ -1189,6 +1189,16 @@
       "summary": "Gemini 3.7 Flash is the latest iteration in the Gemini 3 model family, featuring significant algorithmic improvements. It boasts a 1M token context window and supports diverse multimodal inputs…",
       "description": "Gemini 3.7 Flash is the latest iteration in the Gemini 3 model family, featuring significant algorithmic improvements. It boasts a 1M token context window and supports diverse multimodal inputs including text, images, audio, and video. The model offers customizable thinking configurations to balance quality, cost, and latency for various use cases. It is broadly accessible through platforms like Gemini API, Google AI Studio, and Gemini Enterprise , facilitating widespread adoption. Evaluated for superior performance in coding, agentic workflows, and long-context reasoning , it targets developers and enterprises. Pricing includes an introductory rate until late 2026 , shifting to a standard token-based pricing structure thereafter. Robust safety evaluations and updated safeguards are integrated, demonstrating strong performance in sensitive topic handling and misuse prevention.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-08-14T23:30:33+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/ChatGPT-Unleashed-Deep-Google-Workspace-Integration-Spreadsheet-AI-Mobile-App-Latest-Updates-August-2026",
+      "title": "ChatGPT Unleashed: Deep Google Workspace Integration, Spreadsheet AI, Mobile App & Latest Updates (August 2026)",
+      "summary": "ChatGPT now offers seamless integration with Google Docs, Sheets, and Slides , enabling direct inline editing. A new spreadsheet-native sidebar within Google Sheets allows ChatGPT to read and assist…",
+      "description": "ChatGPT now offers seamless integration with Google Docs, Sheets, and Slides , enabling direct inline editing. A new spreadsheet-native sidebar within Google Sheets allows ChatGPT to read and assist with cells, formulas, and data management. This update empowers users to build, update, explain, and summarize spreadsheets directly with AI assistance. The integration significantly enhances productivity and collaboration by bringing AI capabilities into daily Google Workspace workflows .",
+      "lang": "en"
     }
   ]
 }
