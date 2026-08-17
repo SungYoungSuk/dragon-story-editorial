@@ -1249,6 +1249,16 @@
       "summary": "Xiaohongshu has recently launched `dots3-note` , an open 280B multimodal AI model. The `dots3-note` model is built with a Mixture-of-Experts (MoE) architecture and features a 512K context. This…",
       "description": "Xiaohongshu has recently launched `dots3-note` , an open 280B multimodal AI model. The `dots3-note` model is built with a Mixture-of-Experts (MoE) architecture and features a 512K context. This advanced `dots3-note` AI model has been released under a permissive license. Xiaohongshu's AI lab, Rednote, also developed TEMPO technology, demonstrating stronger performance than GRPO on ARC. These AI developments signify Xiaohongshu's strategic move to enhance its capabilities as a leading social e-commerce platform. The platform's 2026 content ranking algorithm already leverages AI personalization and engagement velocity. Xiaohongshu's commitment to open multimodal AI underscores its ambition and innovation in the global AI landscape.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-08-17T22:11:02+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Alibaba-Qwen3.8-27B-Unpacking-the-27B-Multimodal-AI-for-Agentic-Coding-Local-GPU-Deployment",
+      "title": "Alibaba Qwen3.8-27B: Unpacking the 27B Multimodal AI for Agentic Coding & Local GPU Deployment",
+      "summary": "Alibaba's Qwen team has released Qwen3.8-27B , a powerful 27.78 billion parameter multimodal model under an Apache 2.0 license. The model demonstrates significant performance improvements over its…",
+      "description": "Alibaba's Qwen team has released Qwen3.8-27B , a powerful 27.78 billion parameter multimodal model under an Apache 2.0 license. The model demonstrates significant performance improvements over its predecessor, Qwen3.6-27B, particularly in agentic coding and vision-language tasks. Qwen3.8-27B positions itself as a leading candidate for the best dense, locally deployable multimodal model in its parameter class, excelling in hybrid agent tasks. It features an impressive 262,144-token native context window , extendable to one million tokens using YaRN for ultra-long applications. Local deployment requires careful planning, as official BF16 and FP8 checkpoints demand substantial VRAM , necessitating quantization for single high-end consumer GPUs. While showing strong self-reported benchmarks, key details such as its training corpus and safety evaluations remain undisclosed , and independent verification is pending. Kingy.ai identifies Qwen3.8-27B as the new benchmark for open-weight models around 30 billion parameters , suitable for local and private AI applications.",
+      "lang": "en"
     }
   ]
 }
