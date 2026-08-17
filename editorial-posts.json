@@ -1269,6 +1269,16 @@
       "summary": "Future Claude models will generate text containing an invisible watermark to indicate AI involvement. This watermarking method has no practical impact on the quality, content, or speed of Claude’s…",
       "description": "Future Claude models will generate text containing an invisible watermark to indicate AI involvement. This watermarking method has no practical impact on the quality, content, or speed of Claude’s outputs. Watermarked and un-watermarked text will be indistinguishable to human readers , with nothing visibly added or hidden. The watermark operates by subtly influencing low-stakes word choices to embed a detectable pattern. Watermarking primarily helps determine the likelihood of Claude’s partial involvement , rather than definitive human authorship. Beyond text, Claude will attach cryptographically signed content credentials (C2PA standard) to generated images and files. Anthropic is implementing these measures globally to comply with regulations, including the EU AI Act .",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-08-17T22:31:01+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/%EC%83%A4%EC%98%A4%ED%99%8D%EC%8A%88-Z%EC%84%B8%EB%8C%80-%EB%9D%BC%EC%9D%B4%ED%94%84%EC%8A%A4%ED%83%80%EC%9D%BC-%EC%BB%A4%EB%A8%B8%EC%8A%A4-%EA%B0%95%EC%A0%90-vs-%EB%B2%A0%EC%9D%BC-%EC%86%8D-AI-%EA%B8%B0%EC%88%A0-%EC%8B%AC%EC%B8%B5-%EB%B6%84%EC%84%9D/",
+      "title": "샤오홍슈: Z세대 라이프스타일 커머스 강점 vs '베일 속 AI 기술' 심층 분석",
+      "summary": "샤오홍슈는 Z세대 라이프스타일과 소셜 커머스를 통합한 플랫폼입니다. 하지만 핵심 AI 기술(dots3, 280B 멀티모달, TEMPO AI)의 정보 부재와 불투명한 요금제는 신뢰성 문제를 야기합니다. 그 실체를 심층 분석합니다.",
+      "description": "샤오홍슈는 Z세대 라이프스타일과 소셜 커머스를 통합한 플랫폼입니다. 하지만 핵심 AI 기술(dots3, 280B 멀티모달, TEMPO AI)의 정보 부재와 불투명한 요금제는 신뢰성 문제를 야기합니다. 그 실체를 심층 분석합니다.",
+      "lang": "ko"
     }
   ]
 }
