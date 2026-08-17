@@ -1259,6 +1259,16 @@
       "summary": "Alibaba's Qwen team has released Qwen3.8-27B , a powerful 27.78 billion parameter multimodal model under an Apache 2.0 license. The model demonstrates significant performance improvements over its…",
       "description": "Alibaba's Qwen team has released Qwen3.8-27B , a powerful 27.78 billion parameter multimodal model under an Apache 2.0 license. The model demonstrates significant performance improvements over its predecessor, Qwen3.6-27B, particularly in agentic coding and vision-language tasks. Qwen3.8-27B positions itself as a leading candidate for the best dense, locally deployable multimodal model in its parameter class, excelling in hybrid agent tasks. It features an impressive 262,144-token native context window , extendable to one million tokens using YaRN for ultra-long applications. Local deployment requires careful planning, as official BF16 and FP8 checkpoints demand substantial VRAM , necessitating quantization for single high-end consumer GPUs. While showing strong self-reported benchmarks, key details such as its training corpus and safety evaluations remain undisclosed , and independent verification is pending. Kingy.ai identifies Qwen3.8-27B as the new benchmark for open-weight models around 30 billion parameters , suitable for local and private AI applications.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-08-17T22:17:44+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Anthropics-Claude-Unveiling-Invisible-AI-Watermarks-C2PA-EU-AI-Act-Compliance",
+      "title": "Anthropic's Claude: Unveiling Invisible AI Watermarks, C2PA & EU AI Act Compliance",
+      "summary": "Future Claude models will generate text containing an invisible watermark to indicate AI involvement. This watermarking method has no practical impact on the quality, content, or speed of Claude’s…",
+      "description": "Future Claude models will generate text containing an invisible watermark to indicate AI involvement. This watermarking method has no practical impact on the quality, content, or speed of Claude’s outputs. Watermarked and un-watermarked text will be indistinguishable to human readers , with nothing visibly added or hidden. The watermark operates by subtly influencing low-stakes word choices to embed a detectable pattern. Watermarking primarily helps determine the likelihood of Claude’s partial involvement , rather than definitive human authorship. Beyond text, Claude will attach cryptographically signed content credentials (C2PA standard) to generated images and files. Anthropic is implementing these measures globally to comply with regulations, including the EU AI Act .",
+      "lang": "en"
     }
   ]
 }
