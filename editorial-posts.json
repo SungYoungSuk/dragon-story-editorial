@@ -1239,6 +1239,16 @@
       "summary": "Liquid AI의 3.1억 매개변수 LFM2.5-VL-3B VLM 모델. 스크린/UI 이해, 함수 호출, 16개 언어 지원, 엣지/서버 초고속 성능! API 없는 자체 호스팅 전략과 한계를 심층 분석합니다.",
       "description": "Liquid AI의 3.1억 매개변수 LFM2.5-VL-3B VLM 모델. 스크린/UI 이해, 함수 호출, 16개 언어 지원, 엣지/서버 초고속 성능! API 없는 자체 호스팅 전략과 한계를 심층 분석합니다.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-08-17T21:55:37+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Xiaohongshu-Unveils-280B-dots3-note-Multimodal-AI-TEMPO-Exploring-DMM-TV-Tempo-Blockchain-Claude-AIs-Competitive-Landsca",
+      "title": "Xiaohongshu Unveils 280B `dots3-note` Multimodal AI & TEMPO: Exploring DMM TV, Tempo Blockchain & Claude AI's Competitive Landscape",
+      "summary": "Xiaohongshu has recently launched `dots3-note` , an open 280B multimodal AI model. The `dots3-note` model is built with a Mixture-of-Experts (MoE) architecture and features a 512K context. This…",
+      "description": "Xiaohongshu has recently launched `dots3-note` , an open 280B multimodal AI model. The `dots3-note` model is built with a Mixture-of-Experts (MoE) architecture and features a 512K context. This advanced `dots3-note` AI model has been released under a permissive license. Xiaohongshu's AI lab, Rednote, also developed TEMPO technology, demonstrating stronger performance than GRPO on ARC. These AI developments signify Xiaohongshu's strategic move to enhance its capabilities as a leading social e-commerce platform. The platform's 2026 content ranking algorithm already leverages AI personalization and engagement velocity. Xiaohongshu's commitment to open multimodal AI underscores its ambition and innovation in the global AI landscape.",
+      "lang": "en"
     }
   ]
 }
