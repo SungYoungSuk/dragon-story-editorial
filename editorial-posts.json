@@ -1289,6 +1289,16 @@
       "summary": "2026년 8월 출시된 Qwen3.8-27B, 27.78B 파라미터의 최신 멀티모달 VLM을 심층 분석합니다. 하이브리드 아키텍처, 100만 토큰 컨텍스트, 에이전트/코딩 성능을 로컬 배포 관점에서 파헤치고, 명확한 한계점과 Qwen 생태계 확장 전략까지 제시합니다.",
       "description": "2026년 8월 출시된 Qwen3.8-27B, 27.78B 파라미터의 최신 멀티모달 VLM을 심층 분석합니다. 하이브리드 아키텍처, 100만 토큰 컨텍스트, 에이전트/코딩 성능을 로컬 배포 관점에서 파헤치고, 명확한 한계점과 Qwen 생태계 확장 전략까지 제시합니다.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-08-17T22:45:51+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/Claude-AI-%EC%9B%8C%ED%84%B0%EB%A7%88%ED%81%AC-EU-AI-Act-%EC%A4%80%EC%88%98-%ED%95%B5%EC%8B%AC-%ED%95%9C%EA%B5%AD%EC%96%B4-%EB%AC%B4%EB%A3%8C-%EB%B0%8F-%EA%B0%90%EC%A7%80-%ED%95%9C%EA%B3%84-%EC%B4%9D%EC%A0%95%EB%A6%AC/",
+      "title": "Claude AI 워터마크, EU AI Act 준수 핵심! 한국어 무료 및 감지 한계 총정리",
+      "summary": "Anthropic Claude AI가 EU AI Act 준수를 위해 보이지 않는 워터마크(SynthID-Text)를 도입합니다. 한국어 버전은 완전 무료로 수학/코딩에 특화! 감지 한계와 숨겨진 진실을 확인하세요.",
+      "description": "Anthropic Claude AI가 EU AI Act 준수를 위해 보이지 않는 워터마크(SynthID-Text)를 도입합니다. 한국어 버전은 완전 무료로 수학/코딩에 특화! 감지 한계와 숨겨진 진실을 확인하세요.",
+      "lang": "ko"
     }
   ]
 }
