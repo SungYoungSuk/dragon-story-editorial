@@ -1299,6 +1299,16 @@
       "summary": "Anthropic Claude AI가 EU AI Act 준수를 위해 보이지 않는 워터마크(SynthID-Text)를 도입합니다. 한국어 버전은 완전 무료로 수학/코딩에 특화! 감지 한계와 숨겨진 진실을 확인하세요.",
       "description": "Anthropic Claude AI가 EU AI Act 준수를 위해 보이지 않는 워터마크(SynthID-Text)를 도입합니다. 한국어 버전은 완전 무료로 수학/코딩에 특화! 감지 한계와 숨겨진 진실을 확인하세요.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-08-19T00:04:29+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Avicena-LightBundle-Ships-Worlds-First-1Tbps-Optical-Interconnect-Kits-Revolutionizing-AI-GPU-Performance",
+      "title": "Avicena LightBundle™ Ships World's First 1Tbps Optical Interconnect Kits, Revolutionizing AI & GPU Performance",
+      "summary": "Avicena's LightBundle™ technology provides ultra-low power optical connectivity, crucial for breaking GPU bottlenecks. The LightBundle architecture uniquely employs 2D microLED arrays and multi-core…",
+      "description": "Avicena's LightBundle™ technology provides ultra-low power optical connectivity, crucial for breaking GPU bottlenecks. The LightBundle architecture uniquely employs 2D microLED arrays and multi-core fiber bundles for chip-to-chip communication. This novel interconnect solution aims to unlock processor performance through high reliability and scalability. Avicena previously announced its modular LightBundle™ Optical Interconnect Platform in March 2025. The company introduced evaluation kits for its microLED optical interconnect solution earlier this year, in March 2026. Today, August 18, 2026, Avicena shipped the world's first 1 Terabit per second LightBundle™ evaluation kits, a major industry milestone.",
+      "lang": "en"
     }
   ]
 }
