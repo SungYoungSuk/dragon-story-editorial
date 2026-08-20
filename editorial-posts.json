@@ -1399,6 +1399,16 @@
       "summary": "AI 슬롭으로 연간 9억 손실? 92% 도입에도 생산성 1.1%에 그친 기업 현실을 파헤칩니다. Cursor IDE와 .cursorrules를 활용한 4.8배 생산성 워크플로, OWASP/SRE 기반 AI 거버넌스 전략으로 AI 슬롭을 극복하고 효율성을 극대화하세요.",
       "description": "AI 슬롭으로 연간 9억 손실? 92% 도입에도 생산성 1.1%에 그친 기업 현실을 파헤칩니다. Cursor IDE와 .cursorrules를 활용한 4.8배 생산성 워크플로, OWASP/SRE 기반 AI 거버넌스 전략으로 AI 슬롭을 극복하고 효율성을 극대화하세요.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-08-20T13:52:04+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/Ollama-%EB%82%B4-PC%EB%A5%BC-AI-%EC%84%9C%EB%B2%84%EB%A1%9C-Llama-3.14-%EB%AC%B4%EB%A3%8C-%EB%A1%9C%EC%BB%AC-%EC%8B%A4%ED%96%89-%EB%B3%B4%EC%95%88%EA%B9%8C%EC%A7%80/",
+      "title": "Ollama: 내 PC를 AI 서버로! Llama 3.1/4 무료 로컬 실행, 보안까지!",
+      "summary": "Ollama로 내 PC를 강력한 AI 서버로 변모시키세요! Llama 3.1 405B, Llama 4 멀티모달 모델을 무료로 로컬 실행하며 데이터 보안을 강화하고, OpenAI API 호환성 및 Docker 지원으로 개발 효율을 높입니다. AI 시대의 개인 컴퓨팅 혁신을 경험하세요.",
+      "description": "Ollama로 내 PC를 강력한 AI 서버로 변모시키세요! Llama 3.1 405B, Llama 4 멀티모달 모델을 무료로 로컬 실행하며 데이터 보안을 강화하고, OpenAI API 호환성 및 Docker 지원으로 개발 효율을 높입니다. AI 시대의 개인 컴퓨팅 혁신을 경험하세요.",
+      "lang": "ko"
     }
   ]
 }
