@@ -1369,6 +1369,16 @@
       "summary": "A personal AI assistant can be configured to operate entirely offline , independent of internet connectivity. Ollama is a notable open-source software platform designed to facilitate running advanced…",
       "description": "A personal AI assistant can be configured to operate entirely offline , independent of internet connectivity. Ollama is a notable open-source software platform designed to facilitate running advanced AI models locally. Setting up an offline AI on your device significantly enhances data privacy by keeping interactions confined to your system. Ollama simplifies the process of deploying popular open AI models directly onto personal computers. This local AI solution is widely compatible, with support for macOS, Linux, and Windows 10 or later . Operating AI models offline ensures uninterrupted access and functionality, regardless of network availability. Transforming your MacBook or gaming PC into a dedicated offline AI assistant provides a self-contained and secure intelligent companion.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-08-20T13:25:52+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Eliminate-AI-Slop-Master-Workflow-Management-for-Enterprise-Productivity-Trust",
+      "title": "Eliminate AI Slop: Master Workflow Management for Enterprise Productivity & Trust",
+      "summary": "Poor AI workflow management leads to significant coordination breakdown, widespread \"AI slop,\" and eroded trust in AI outputs. Unmanaged AI use results in minimal productivity gains and substantial…",
+      "description": "Poor AI workflow management leads to significant coordination breakdown, widespread \"AI slop,\" and eroded trust in AI outputs. Unmanaged AI use results in minimal productivity gains and substantial financial costs from low-quality AI-generated content. The competitive advantage in the AI era lies in designing superior workflows and documenting processes, not just generating more content. Effective AI implementation demands robust preparation, including clear context, constraints, and success criteria for AI inputs. Organizations must build standardized AI workflow templates and establish comprehensive governance frameworks for consistent quality. Sustained AI success requires a cultural shift that values process sharing, rewards workflow architects, and updates performance metrics.",
+      "lang": "en"
     }
   ]
 }
