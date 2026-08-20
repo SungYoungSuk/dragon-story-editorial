@@ -1379,6 +1379,16 @@
       "summary": "Poor AI workflow management leads to significant coordination breakdown, widespread \"AI slop,\" and eroded trust in AI outputs. Unmanaged AI use results in minimal productivity gains and substantial…",
       "description": "Poor AI workflow management leads to significant coordination breakdown, widespread \"AI slop,\" and eroded trust in AI outputs. Unmanaged AI use results in minimal productivity gains and substantial financial costs from low-quality AI-generated content. The competitive advantage in the AI era lies in designing superior workflows and documenting processes, not just generating more content. Effective AI implementation demands robust preparation, including clear context, constraints, and success criteria for AI inputs. Organizations must build standardized AI workflow templates and establish comprehensive governance frameworks for consistent quality. Sustained AI success requires a cultural shift that values process sharing, rewards workflow architects, and updates performance metrics.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-08-20T13:31:02+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/Gemini-%EC%82%AC%EA%B3%A0-%EA%B3%BC%EC%A0%95-%EC%99%84%EB%B2%BD-%EC%9D%B4%ED%95%B4-API-%EC%A0%9C%EC%96%B4-%EB%B9%84%EC%9A%A9-%EB%A9%80%ED%8B%B0%ED%84%B4-%EC%A0%84%EB%9E%B5/",
+      "title": "Gemini '사고 과정' 완벽 이해: API 제어, 비용, 멀티턴 전략",
+      "summary": "Gemini AI의 핵심 '사고 과정'을 개발자가 완벽히 제어하고 활용하는 방법을 심층 분석합니다. API 설정, 모델 버전별 제어(thinkingLevel/Budget), 사고 서명 처리, 비용 최적화 전략까지, Gemini의 잠재력을 극대화하세요.",
+      "description": "Gemini AI의 핵심 '사고 과정'을 개발자가 완벽히 제어하고 활용하는 방법을 심층 분석합니다. API 설정, 모델 버전별 제어(thinkingLevel/Budget), 사고 서명 처리, 비용 최적화 전략까지, Gemini의 잠재력을 극대화하세요.",
+      "lang": "ko"
     }
   ]
 }
