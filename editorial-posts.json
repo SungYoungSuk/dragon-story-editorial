@@ -1389,6 +1389,16 @@
       "summary": "Gemini AI의 핵심 '사고 과정'을 개발자가 완벽히 제어하고 활용하는 방법을 심층 분석합니다. API 설정, 모델 버전별 제어(thinkingLevel/Budget), 사고 서명 처리, 비용 최적화 전략까지, Gemini의 잠재력을 극대화하세요.",
       "description": "Gemini AI의 핵심 '사고 과정'을 개발자가 완벽히 제어하고 활용하는 방법을 심층 분석합니다. API 설정, 모델 버전별 제어(thinkingLevel/Budget), 사고 서명 처리, 비용 최적화 전략까지, Gemini의 잠재력을 극대화하세요.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-08-20T13:43:39+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/AI-%EC%8A%AC%EB%A1%AD-9%EC%96%B5-%EC%86%90%EC%8B%A4-%EC%83%9D%EC%82%B0%EC%84%B1-4.8%EB%B0%B0-Cursor-IDE-.cursorrules-%ED%95%B4%EB%B2%95/",
+      "title": "AI 슬롭 9억 손실? 생산성 4.8배: Cursor IDE & .cursorrules 해법",
+      "summary": "AI 슬롭으로 연간 9억 손실? 92% 도입에도 생산성 1.1%에 그친 기업 현실을 파헤칩니다. Cursor IDE와 .cursorrules를 활용한 4.8배 생산성 워크플로, OWASP/SRE 기반 AI 거버넌스 전략으로 AI 슬롭을 극복하고 효율성을 극대화하세요.",
+      "description": "AI 슬롭으로 연간 9억 손실? 92% 도입에도 생산성 1.1%에 그친 기업 현실을 파헤칩니다. Cursor IDE와 .cursorrules를 활용한 4.8배 생산성 워크플로, OWASP/SRE 기반 AI 거버넌스 전략으로 AI 슬롭을 극복하고 효율성을 극대화하세요.",
+      "lang": "ko"
     }
   ]
 }
