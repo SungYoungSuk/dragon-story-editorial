@@ -1359,6 +1359,16 @@
       "summary": "Gemini models, particularly the 3 and 2.5 series, employ an internal \"thinking process\" for enhanced reasoning and multi-step planning. Users can control Gemini's thought behavior using parameters…",
       "description": "Gemini models, particularly the 3 and 2.5 series, employ an internal \"thinking process\" for enhanced reasoning and multi-step planning. Users can control Gemini's thought behavior using parameters like thinkingLevel for Gemini 3+ and thinkingBudget for Gemini 2.5+. The API offers thought summaries and signatures , providing insight into the model's reasoning and maintaining context across multi-turn interactions. Costs for thinking-enabled models are based on the total number of output tokens plus internal thought tokens generated. Optimizing thinking settings based on task complexity and best practices is crucial for efficient and effective use of Gemini's advanced capabilities.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-08-20T13:13:11+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Unlock-Offline-AI-Setup-Ollama-on-Mac-PC-for-Private-Models-Boost-Security-Discover-Offline-Gaming",
+      "title": "Unlock Offline AI: Setup Ollama on Mac & PC for Private Models, Boost Security & Discover Offline Gaming",
+      "summary": "A personal AI assistant can be configured to operate entirely offline , independent of internet connectivity. Ollama is a notable open-source software platform designed to facilitate running advanced…",
+      "description": "A personal AI assistant can be configured to operate entirely offline , independent of internet connectivity. Ollama is a notable open-source software platform designed to facilitate running advanced AI models locally. Setting up an offline AI on your device significantly enhances data privacy by keeping interactions confined to your system. Ollama simplifies the process of deploying popular open AI models directly onto personal computers. This local AI solution is widely compatible, with support for macOS, Linux, and Windows 10 or later . Operating AI models offline ensures uninterrupted access and functionality, regardless of network availability. Transforming your MacBook or gaming PC into a dedicated offline AI assistant provides a self-contained and secure intelligent companion.",
+      "lang": "en"
     }
   ]
 }
