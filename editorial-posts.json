@@ -1349,6 +1349,16 @@
       "summary": "ChatGPT 틴즈 출시! 청소년을 위한 AI 학습, 문제 해결 기능과 강력한 안전 장치를 소개합니다. 보호자 연동 및 통제 한계, OpenAI의 정책 변화까지 완벽 가이드.",
       "description": "ChatGPT 틴즈 출시! 청소년을 위한 AI 학습, 문제 해결 기능과 강력한 안전 장치를 소개합니다. 보호자 연동 및 통제 한계, OpenAI의 정책 변화까지 완벽 가이드.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-08-20T13:02:02+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Mastering-Geminis-AI-Thinking-Control-Reasoning-Optimize-Cost-Unlock-Advanced-Capabilities",
+      "title": "Mastering Gemini's AI Thinking: Control Reasoning, Optimize Cost & Unlock Advanced Capabilities",
+      "summary": "Gemini models, particularly the 3 and 2.5 series, employ an internal \"thinking process\" for enhanced reasoning and multi-step planning. Users can control Gemini's thought behavior using parameters…",
+      "description": "Gemini models, particularly the 3 and 2.5 series, employ an internal \"thinking process\" for enhanced reasoning and multi-step planning. Users can control Gemini's thought behavior using parameters like thinkingLevel for Gemini 3+ and thinkingBudget for Gemini 2.5+. The API offers thought summaries and signatures , providing insight into the model's reasoning and maintaining context across multi-turn interactions. Costs for thinking-enabled models are based on the total number of output tokens plus internal thought tokens generated. Optimizing thinking settings based on task complexity and best practices is crucial for efficient and effective use of Gemini's advanced capabilities.",
+      "lang": "en"
     }
   ]
 }
