@@ -1419,6 +1419,16 @@
       "summary": "Zhipu AI (Z.ai) is a leading Chinese foundation-model lab, spun out of Tsinghua University, and publicly listed in Hong Kong. It operates as one of China's \"AI tigers,\" offering GLM models to…",
       "description": "Zhipu AI (Z.ai) is a leading Chinese foundation-model lab, spun out of Tsinghua University, and publicly listed in Hong Kong. It operates as one of China's \"AI tigers,\" offering GLM models to developers, coders, and enterprises with a focus on sovereign AI. Zhipu's pricing strategy has evolved to offer free entry points while charging market rates for its premium GLM-5 models. Several GLM-Flash models are provided completely free across all usage, serving as a key customer acquisition channel. The company offers a flat-rate GLM Coding Plan subscription, strategically designed to compete with Western coding assistants. Zhipu AI made history with its IPO in January 2026, raising significant capital, followed by a substantial share sale in July 2026. Its strategic posture emphasizes competitive pricing and non-US, sovereign foundation-model status, despite being on the US Entity List.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-08-21T21:52:19+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/RouteLLM-Master-LLM-Costs-with-Intelligent-Routing-for-85pct-Savings-GPT-4-Performance-and-Seamless-Integration",
+      "title": "RouteLLM: Master LLM Costs with Intelligent Routing for 85% Savings, GPT-4 Performance, and Seamless Integration",
+      "summary": "RouteLLM is a framework designed to optimize LLM costs by intelligently routing queries to the most appropriate model without sacrificing quality. It provides a seamless integration experience …",
+      "description": "RouteLLM is a framework designed to optimize LLM costs by intelligently routing queries to the most appropriate model without sacrificing quality. It provides a seamless integration experience , acting as a drop-in replacement for OpenAI clients and allowing easy extension with new routing models. The framework's trained routers can significantly reduce costs , often by up to 85%, while maintaining high performance on key benchmarks. RouteLLM supports flexible model configurations , allowing users to define their strong and weak LLM pairs, including OpenAI-compatible endpoints. It provides five pre-built routing algorithms , including the recommended `mf` (matrix factorization) router, which are generally adaptable to different model pairs. The architecture is designed for extensibility and community contribution , allowing developers to easily add new routing algorithms and evaluation benchmarks. RouteLLM addresses the broader challenge of LLM inference optimization , aiming to maximize efficiency and cost-effectiveness in AI deployments.",
+      "lang": "en"
     }
   ]
 }
