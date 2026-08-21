@@ -1409,6 +1409,16 @@
       "summary": "Ollama로 내 PC를 강력한 AI 서버로 변모시키세요! Llama 3.1 405B, Llama 4 멀티모달 모델을 무료로 로컬 실행하며 데이터 보안을 강화하고, OpenAI API 호환성 및 Docker 지원으로 개발 효율을 높입니다. AI 시대의 개인 컴퓨팅 혁신을 경험하세요.",
       "description": "Ollama로 내 PC를 강력한 AI 서버로 변모시키세요! Llama 3.1 405B, Llama 4 멀티모달 모델을 무료로 로컬 실행하며 데이터 보안을 강화하고, OpenAI API 호환성 및 Docker 지원으로 개발 효율을 높입니다. AI 시대의 개인 컴퓨팅 혁신을 경험하세요.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-08-21T21:40:38+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Zhipu-AI-Z.ai-Unleashed-GLM-Model-Pricing-Free-Tiers-Coding-Plan-IPO-Sovereign-AI-Strategy-Explained",
+      "title": "Zhipu AI (Z.ai) Unleashed: GLM Model Pricing, Free Tiers, Coding Plan, IPO & Sovereign AI Strategy Explained",
+      "summary": "Zhipu AI (Z.ai) is a leading Chinese foundation-model lab, spun out of Tsinghua University, and publicly listed in Hong Kong. It operates as one of China's \"AI tigers,\" offering GLM models to…",
+      "description": "Zhipu AI (Z.ai) is a leading Chinese foundation-model lab, spun out of Tsinghua University, and publicly listed in Hong Kong. It operates as one of China's \"AI tigers,\" offering GLM models to developers, coders, and enterprises with a focus on sovereign AI. Zhipu's pricing strategy has evolved to offer free entry points while charging market rates for its premium GLM-5 models. Several GLM-Flash models are provided completely free across all usage, serving as a key customer acquisition channel. The company offers a flat-rate GLM Coding Plan subscription, strategically designed to compete with Western coding assistants. Zhipu AI made history with its IPO in January 2026, raising significant capital, followed by a substantial share sale in July 2026. Its strategic posture emphasizes competitive pricing and non-US, sovereign foundation-model status, despite being on the US Entity List.",
+      "lang": "en"
     }
   ]
 }
