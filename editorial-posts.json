@@ -1499,6 +1499,16 @@
       "summary": "Google's Gemini significantly prioritizes a business's own website , citing them in nearly 60% of local AI recommendations. Owned web content, particularly detailed location pages, is critical for…",
       "description": "Google's Gemini significantly prioritizes a business's own website , citing them in nearly 60% of local AI recommendations. Owned web content, particularly detailed location pages, is critical for multi-location brands seeking AI visibility. AI recommendations demonstrate notable inconsistency , with Gemini's sources and top business suggestions varying even within hours. Businesses recommended by AI are consistently high-quality , averaging 4.75 stars and rarely surfacing weak performers. Strategic measurement of AI visibility requires repeated sampling , not one-off checks, due to its inherent volatility. Maintaining accurate, content-rich, and crawlable local landing pages is essential for generative AI optimization. Specialized platforms like PinMeTo offer comprehensive solutions for managing local SEO and AI optimization for multi-location businesses.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-08-24T16:50:41+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/AI-Coding-Agents-August-2026-Guide-to-Models-Benchmarks-Policy-Pricing",
+      "title": "AI Coding Agents: August 2026 Guide to Models, Benchmarks, Policy & Pricing",
+      "summary": "The AI coding agent landscape has seen rapid evolution with major model releases like GPT-5.6 and Claude Opus 5 . Top-tier agents now demonstrate leading performance on benchmarks, with GPT-5.6 Sol…",
+      "description": "The AI coding agent landscape has seen rapid evolution with major model releases like GPT-5.6 and Claude Opus 5 . Top-tier agents now demonstrate leading performance on benchmarks, with GPT-5.6 Sol and Claude Opus 5 excelling on Terminal-Bench 2.1. Anthropic's Fable 5 continues to dominate in code repair and refactoring as measured by SWE-bench Verified and Pro. Significant policy shifts, including GitHub Copilot's move to usage-based credits and OpenAI's GPT-5.6 price reductions, are redefining agent economics. The market offers a diverse range of tools, from powerful proprietary cloud agents to highly customizable open-source solutions. Developers are increasingly adopting a hybrid agent strategy , combining specialized tools for different coding workflows. Enhanced interoperability through standards like MCP and ACP is crucial for seamless integration across various agents and underlying models.",
+      "lang": "en"
     }
   ]
 }
