@@ -1509,6 +1509,16 @@
       "summary": "The AI coding agent landscape has seen rapid evolution with major model releases like GPT-5.6 and Claude Opus 5 . Top-tier agents now demonstrate leading performance on benchmarks, with GPT-5.6 Sol…",
       "description": "The AI coding agent landscape has seen rapid evolution with major model releases like GPT-5.6 and Claude Opus 5 . Top-tier agents now demonstrate leading performance on benchmarks, with GPT-5.6 Sol and Claude Opus 5 excelling on Terminal-Bench 2.1. Anthropic's Fable 5 continues to dominate in code repair and refactoring as measured by SWE-bench Verified and Pro. Significant policy shifts, including GitHub Copilot's move to usage-based credits and OpenAI's GPT-5.6 price reductions, are redefining agent economics. The market offers a diverse range of tools, from powerful proprietary cloud agents to highly customizable open-source solutions. Developers are increasingly adopting a hybrid agent strategy , combining specialized tools for different coding workflows. Enhanced interoperability through standards like MCP and ACP is crucial for seamless integration across various agents and underlying models.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-08-24T20:49:12+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/%EA%B5%AC%EA%B8%80-8%EC%9B%94-%EC%8A%A4%ED%8C%B8-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%EC%99%80-AI-%EC%BD%98%ED%85%90%EC%B8%A0-%ED%8E%98%EB%84%90%ED%8B%B0-%EB%B0%A9%EC%A7%80-%EB%B0%8F-%ED%9A%8C%EB%B3%B5-%EA%B0%80%EC%9D%B4%EB%93%9C/",
+      "title": "구글 8월 스팸 업데이트와 AI 콘텐츠: 페널티 방지 및 회복 가이드",
+      "summary": "구글 2026년 8월 스팸 업데이트는 생성형 AI의 조작적 사용을 집중 타겟합니다. AI 콘텐츠 품질 관리와 구글 스팸 정책 준수를 통한 페널티 회피 및 트래픽 회복 방안을 확인하세요.",
+      "description": "구글 2026년 8월 스팸 업데이트는 생성형 AI의 조작적 사용을 집중 타겟합니다. AI 콘텐츠 품질 관리와 구글 스팸 정책 준수를 통한 페널티 회피 및 트래픽 회복 방안을 확인하세요.",
+      "lang": "ko"
     }
   ]
 }
