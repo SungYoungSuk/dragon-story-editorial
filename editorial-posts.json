@@ -1489,6 +1489,16 @@
       "summary": "The Google August 2026 Spam Update completed its rollout on August 21st, globally reinforcing existing spam policies. The update primarily targeted manipulative tactics, including scaled AI content…",
       "description": "The Google August 2026 Spam Update completed its rollout on August 21st, globally reinforcing existing spam policies. The update primarily targeted manipulative tactics, including scaled AI content abuse , cloaking, and doorway pages. Community reports indicate significant traffic volatility and drops for many sites, with some niche sites losing rankings to large resellers. Experts highlight that SpamBrain is increasingly effective at identifying manipulative patterns, even in seemingly \"good\" content. Recovery from a spam update hit typically takes many months and requires a thorough audit and adherence to Google's spam policies. This update underscores Google's commitment to a faster, more frequent update cadence , favoring human-judged value over mass-produced AI content.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-08-24T16:30:59+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Google-Geminis-Local-AI-60pct-Website-Citation-Grounding-Drift-Volatility-and-Multi-Location-Optimization",
+      "title": "Google Gemini's Local AI: 60% Website Citation, 'Grounding Drift' Volatility, and Multi-Location Optimization",
+      "summary": "Google's Gemini significantly prioritizes a business's own website , citing them in nearly 60% of local AI recommendations. Owned web content, particularly detailed location pages, is critical for…",
+      "description": "Google's Gemini significantly prioritizes a business's own website , citing them in nearly 60% of local AI recommendations. Owned web content, particularly detailed location pages, is critical for multi-location brands seeking AI visibility. AI recommendations demonstrate notable inconsistency , with Gemini's sources and top business suggestions varying even within hours. Businesses recommended by AI are consistently high-quality , averaging 4.75 stars and rarely surfacing weak performers. Strategic measurement of AI visibility requires repeated sampling , not one-off checks, due to its inherent volatility. Maintaining accurate, content-rich, and crawlable local landing pages is essential for generative AI optimization. Specialized platforms like PinMeTo offer comprehensive solutions for managing local SEO and AI optimization for multi-location businesses.",
+      "lang": "en"
     }
   ]
 }
