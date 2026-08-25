@@ -1559,6 +1559,16 @@
       "summary": "August 2026 marks a significant turning point in the AI industry, with agentic systems becoming critical infrastructure. The era of simple prompts is over, replaced by advanced multi-agent…",
       "description": "August 2026 marks a significant turning point in the AI industry, with agentic systems becoming critical infrastructure. The era of simple prompts is over, replaced by advanced multi-agent orchestration for complex workflows. Agentic coding allows AI agents to autonomously write, test, debug, and iterate on code with minimal human input. The Plan-and-Execute framework is vital for AI agents to reliably solve complex problems by separating strategic reasoning from task execution. This framework enables agents to create a multi-step roadmap and process tasks systematically, maintaining long-horizon coherence. Modern coding agents emphasize planning before code generation to achieve more robust and cleaner results. New specialized and open-weight models are delivering frontier agentic performance, even on consumer hardware.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-08-25T23:11:13+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Generative-Engine-Optimization-GEO-AI-Search-Strategies-2026-Model-Updates-and-High-Conversions",
+      "title": "Generative Engine Optimization (GEO): AI Search Strategies, 2026 Model Updates, and High Conversions",
+      "summary": "Generative Engine Optimization (GEO) is now an essential strategy for content visibility in the rapidly expanding AI search landscape. AI search platforms are profoundly reshaping user behavior…",
+      "description": "Generative Engine Optimization (GEO) is now an essential strategy for content visibility in the rapidly expanding AI search landscape. AI search platforms are profoundly reshaping user behavior, driving increased zero-click searches and impacting traditional organic traffic. AI-referred traffic consistently delivers significantly higher conversion rates compared to traditional organic search, despite often lower volume. Content optimization for AI requires prioritizing direct answers, original data, structured formats , and clear mini-conclusions within sections. Maintaining content freshness (ideally with a 30-day refresh cycle for key pages) and establishing strong author authority (E-E-A-T) are crucial for earning AI citations. Brand mentions from authoritative third-party sources now correlate much more strongly with AI visibility than traditional backlinks. Fundamental technical foundations like structured data, semantic HTML, and ensuring AI crawlers are unblocked are vital for effective AI discoverability.",
+      "lang": "en"
     }
   ]
 }
