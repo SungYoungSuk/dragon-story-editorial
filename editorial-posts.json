@@ -1569,6 +1569,16 @@
       "summary": "Generative Engine Optimization (GEO) is now an essential strategy for content visibility in the rapidly expanding AI search landscape. AI search platforms are profoundly reshaping user behavior…",
       "description": "Generative Engine Optimization (GEO) is now an essential strategy for content visibility in the rapidly expanding AI search landscape. AI search platforms are profoundly reshaping user behavior, driving increased zero-click searches and impacting traditional organic traffic. AI-referred traffic consistently delivers significantly higher conversion rates compared to traditional organic search, despite often lower volume. Content optimization for AI requires prioritizing direct answers, original data, structured formats , and clear mini-conclusions within sections. Maintaining content freshness (ideally with a 30-day refresh cycle for key pages) and establishing strong author authority (E-E-A-T) are crucial for earning AI citations. Brand mentions from authoritative third-party sources now correlate much more strongly with AI visibility than traditional backlinks. Fundamental technical foundations like structured data, semantic HTML, and ensuring AI crawlers are unblocked are vital for effective AI discoverability.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-08-25T23:40:54+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/2026%EB%85%84-AI-%EC%8B%9C%EC%9E%A5-3%EA%B0%95-%EB%B6%84%EC%84%9D-Claude-GPT-Gemini-%EC%84%A0%ED%83%9D-%EA%B0%80%EC%9D%B4%EB%93%9C-%EB%B0%8F-%EB%B9%84%EC%9A%A9/",
+      "title": "2026년 AI 시장 3강 분석: Claude, GPT, Gemini 선택 가이드 및 비용",
+      "summary": "2026년 AI 시장의 3대 모델(Claude, GPT, Gemini)의 핵심 강점, 워크플로우별 최적 활용법, 비용 및 환각 방지 RAG 아키텍처를 심층 분석합니다. AI 도입을 고려하는 개발자 및 비즈니스 리더를 위한 실질적 가이드입니다.",
+      "description": "2026년 AI 시장의 3대 모델(Claude, GPT, Gemini)의 핵심 강점, 워크플로우별 최적 활용법, 비용 및 환각 방지 RAG 아키텍처를 심층 분석합니다. AI 도입을 고려하는 개발자 및 비즈니스 리더를 위한 실질적 가이드입니다.",
+      "lang": "ko"
     }
   ]
 }
