@@ -1639,6 +1639,16 @@
       "summary": "Stagehand offers AI primitives and Playwright-style APIs for robust, self-healing web automation, overcoming the brittleness of traditional selectors. Stagehand is built for modern development with…",
       "description": "Stagehand offers AI primitives and Playwright-style APIs for robust, self-healing web automation, overcoming the brittleness of traditional selectors. Stagehand is built for modern development with first-class SDKs, fast in-browser runtime, and capabilities for typed data extraction and flexible LLM integration. Anthropic's Claude computer use tool empowers AI agents to interact autonomously with entire computer environments via screenshots and mouse/keyboard control. The Claude computer use tool operates through an agent loop, executing actions within a sandboxed virtual desktop environment and supporting batch operations. Automating with AI agents shifts from fixed selectors to natural language and visual screen recognition for more resilient UI interaction. AI-powered automation is essential for tackling repetitive web admin tasks by offering intelligent exception handling and streamlined data extraction. Implementing AI computer use tools requires careful consideration of security, sandboxed environments, and prompt optimization to mitigate inherent risks.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-08-26T21:09:24+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/LLM-%EA%B5%AC%EC%A1%B0%EC%A0%81-%ED%95%9C%EA%B3%84-%EA%B7%B9%EB%B3%B5-Outlines-Pydantic-Dottxt-API%EB%A1%9C-%EC%95%88%EC%A0%95%EC%A0%81-%EA%B5%AC%EC%A1%B0%ED%99%94/",
+      "title": "LLM 구조적 한계 극복: Outlines, Pydantic, Dottxt API로 안정적 구조화",
+      "summary": "Outlines와 Pydantic은 LLM의 예측 불가능한 구조적 한계를 100% 스키마 준수 출력으로 극복하는 핵심 솔루션입니다. 이 글은 LLM 개발자 및 엔터프라이즈 환경에서 데이터 신뢰성을 높이려는 분들을 위한 가이드입니다.",
+      "description": "Outlines와 Pydantic은 LLM의 예측 불가능한 구조적 한계를 100% 스키마 준수 출력으로 극복하는 핵심 솔루션입니다. 이 글은 LLM 개발자 및 엔터프라이즈 환경에서 데이터 신뢰성을 높이려는 분들을 위한 가이드입니다.",
+      "lang": "ko"
     }
   ]
 }
