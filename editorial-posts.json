@@ -1629,6 +1629,16 @@
       "summary": "Promptfoo seamlessly integrates into CI/CD pipelines , automating prompt evaluation and security scanning to ensure quality before deployment. It empowers developers to proactively catch regressions…",
       "description": "Promptfoo seamlessly integrates into CI/CD pipelines , automating prompt evaluation and security scanning to ensure quality before deployment. It empowers developers to proactively catch regressions and identify vulnerabilities early by testing prompt changes in pre-production environments. Comprehensive assertions and metrics allow for precise validation of LLM outputs against expected conditions and performance thresholds. Advanced features like custom scoring functions and derived metrics enable highly customizable and complex evaluation logic, alongside cost tracking and compliance reporting.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-08-26T20:45:16+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/AI-Agents-for-Web-and-Desktop-Automation-Stagehand-and-Claudes-Computer-Use-Tool",
+      "title": "AI Agents for Web and Desktop Automation: Stagehand and Claude's Computer Use Tool",
+      "summary": "Stagehand offers AI primitives and Playwright-style APIs for robust, self-healing web automation, overcoming the brittleness of traditional selectors. Stagehand is built for modern development with…",
+      "description": "Stagehand offers AI primitives and Playwright-style APIs for robust, self-healing web automation, overcoming the brittleness of traditional selectors. Stagehand is built for modern development with first-class SDKs, fast in-browser runtime, and capabilities for typed data extraction and flexible LLM integration. Anthropic's Claude computer use tool empowers AI agents to interact autonomously with entire computer environments via screenshots and mouse/keyboard control. The Claude computer use tool operates through an agent loop, executing actions within a sandboxed virtual desktop environment and supporting batch operations. Automating with AI agents shifts from fixed selectors to natural language and visual screen recognition for more resilient UI interaction. AI-powered automation is essential for tackling repetitive web admin tasks by offering intelligent exception handling and streamlined data extraction. Implementing AI computer use tools requires careful consideration of security, sandboxed environments, and prompt optimization to mitigate inherent risks.",
+      "lang": "en"
     }
   ]
 }
