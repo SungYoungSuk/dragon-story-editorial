@@ -1649,6 +1649,16 @@
       "summary": "Outlines와 Pydantic은 LLM의 예측 불가능한 구조적 한계를 100% 스키마 준수 출력으로 극복하는 핵심 솔루션입니다. 이 글은 LLM 개발자 및 엔터프라이즈 환경에서 데이터 신뢰성을 높이려는 분들을 위한 가이드입니다.",
       "description": "Outlines와 Pydantic은 LLM의 예측 불가능한 구조적 한계를 100% 스키마 준수 출력으로 극복하는 핵심 솔루션입니다. 이 글은 LLM 개발자 및 엔터프라이즈 환경에서 데이터 신뢰성을 높이려는 분들을 위한 가이드입니다.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-08-26T21:17:52+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/LLM-%EC%A0%95%ED%99%95%EB%8F%84-%EB%86%92%EC%9D%B4%EB%8A%94-RAG-%EB%A6%AC%EB%9E%AD%EC%BB%A4-Cohere-vs-BAAI-%EB%B9%84%EA%B5%90%EC%99%80-%EA%B0%80%EA%B2%A9-%ED%95%9C%EA%B3%84/",
+      "title": "LLM 정확도 높이는 RAG 리랭커: Cohere vs BAAI 비교와 가격 한계",
+      "summary": "LLM의 환각 현상과 정보 부족 한계를 극복하기 위해 RAG 리랭커(Cohere, BAAI)가 필수적입니다. RAG 시스템 도입을 고려하는 개발자 및 기업 담당자를 위해 두 모델의 성능, 특징, 국내 도입 비용 문제를 심층 분석합니다.",
+      "description": "LLM의 환각 현상과 정보 부족 한계를 극복하기 위해 RAG 리랭커(Cohere, BAAI)가 필수적입니다. RAG 시스템 도입을 고려하는 개발자 및 기업 담당자를 위해 두 모델의 성능, 특징, 국내 도입 비용 문제를 심층 분석합니다.",
+      "lang": "ko"
     }
   ]
 }
