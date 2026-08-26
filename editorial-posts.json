@@ -1669,6 +1669,16 @@
       "summary": "'browser-use'는 Playwright와 LLM 기반의 강력한 AI 웹 자동화 에이전트로, Odysseys 리더보드 1위 성능과 유연한 배포 옵션을 제공합니다. 웹 자동화에 관심 있는 개발자와 비즈니스 사용자를 위한 활용 가이드입니다.",
       "description": "'browser-use'는 Playwright와 LLM 기반의 강력한 AI 웹 자동화 에이전트로, Odysseys 리더보드 1위 성능과 유연한 배포 옵션을 제공합니다. 웹 자동화에 관심 있는 개발자와 비즈니스 사용자를 위한 활용 가이드입니다.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-08-26T21:28:28+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/LLM-%EC%84%B1%EB%8A%A5-%EC%9D%B4%EC%A0%9C-%EA%B0%90-%EC%95%84%EB%8B%8C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C-G-Eval-Ragas-%EB%B6%84%EC%84%9D/",
+      "title": "LLM 성능, 이제 '감' 아닌 '데이터'로! G-Eval & Ragas 분석",
+      "summary": "LLM 성능을 객관적으로 측정할 DeepEval G-Eval과 Ragas의 핵심 지표(충실성, 질문 적합도, 컨텍스트 정밀도)를 상세히 분석합니다. LLM 개발자 및 연구자에게 필수적인 정량 평가 가이드입니다.",
+      "description": "LLM 성능을 객관적으로 측정할 DeepEval G-Eval과 Ragas의 핵심 지표(충실성, 질문 적합도, 컨텍스트 정밀도)를 상세히 분석합니다. LLM 개발자 및 연구자에게 필수적인 정량 평가 가이드입니다.",
+      "lang": "ko"
     }
   ]
 }
