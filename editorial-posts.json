@@ -1599,6 +1599,16 @@
       "summary": "GEO는 AI 검색 환경에서 콘텐츠 가시성을 높이고 AI 답변에서 인용되도록 유도하는 새로운 최적화 패러다임입니다. 디지털 마케터와 콘텐츠 제작자를 위한 AI 시대 성공 전략을 제시합니다.",
       "description": "GEO는 AI 검색 환경에서 콘텐츠 가시성을 높이고 AI 답변에서 인용되도록 유도하는 새로운 최적화 패러다임입니다. 디지털 마케터와 콘텐츠 제작자를 위한 AI 시대 성공 전략을 제시합니다.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-08-26T20:03:52+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Ensuring-Reliable-Structured-Outputs-from-LLMs-with-OpenAI-and-Instructor",
+      "title": "Ensuring Reliable Structured Outputs from LLMs with OpenAI and Instructor",
+      "summary": "OpenAI Structured Outputs guarantee model responses adhere to a user-defined JSON schema , evolving beyond basic JSON mode. This feature eliminates the need for manual validation and retries of…",
+      "description": "OpenAI Structured Outputs guarantee model responses adhere to a user-defined JSON schema , evolving beyond basic JSON mode. This feature eliminates the need for manual validation and retries of incorrectly formatted LLM outputs, ensuring reliability. Available in GPT-4o and later OpenAI models , it simplifies prompting and is highly recommended by OpenAI. Key use cases include structured data extraction , UI generation, and moderation, making LLM integration more robust. The Instructor library is the leading Python tool for LLM structured data extraction, built on Pydantic for type-safe outputs. Instructor offers automatic re-asking and validation on failure, ensuring high-quality, reliable structured data across 15+ LLM providers . While Function Calling connects LLMs to external tools, Structured Outputs are ideal for directly structuring model responses for user applications.",
+      "lang": "en"
     }
   ]
 }
