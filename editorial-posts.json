@@ -1609,6 +1609,16 @@
       "summary": "OpenAI Structured Outputs guarantee model responses adhere to a user-defined JSON schema , evolving beyond basic JSON mode. This feature eliminates the need for manual validation and retries of…",
       "description": "OpenAI Structured Outputs guarantee model responses adhere to a user-defined JSON schema , evolving beyond basic JSON mode. This feature eliminates the need for manual validation and retries of incorrectly formatted LLM outputs, ensuring reliability. Available in GPT-4o and later OpenAI models , it simplifies prompting and is highly recommended by OpenAI. Key use cases include structured data extraction , UI generation, and moderation, making LLM integration more robust. The Instructor library is the leading Python tool for LLM structured data extraction, built on Pydantic for type-safe outputs. Instructor offers automatic re-asking and validation on failure, ensuring high-quality, reliable structured data across 15+ LLM providers . While Function Calling connects LLMs to external tools, Structured Outputs are ideal for directly structuring model responses for user applications.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-08-26T20:19:15+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Rerankers-in-Retrieval-Augmented-Generation-Enhancing-Relevance-Architectures-and-Practical-Implementation",
+      "title": "Rerankers in Retrieval Augmented Generation: Enhancing Relevance, Architectures, and Practical Implementation",
+      "summary": "Rerankers are an essential evaluation layer in Retrieval Augmented Generation (RAG) pipelines that refine initial retrieval results to improve relevance. They significantly enhance the quality…",
+      "description": "Rerankers are an essential evaluation layer in Retrieval Augmented Generation (RAG) pipelines that refine initial retrieval results to improve relevance. They significantly enhance the quality, precision, and recall of documents provided to large language models, leading to better answers and user experience. Key architectures include fast bi-encoders for initial retrieval and accurate cross-encoders for detailed reranking , each with distinct trade-offs. Reranking is crucial for RAG applications to optimize the context window for LLMs, reducing noise and the risk of hallucinations. A common and effective approach is the two-stage retrieval pipeline , combining broad retrieval with precise reranking. While powerful, rerankers introduce considerations around latency and computational cost , especially with large document sets. Careful evaluation and strategic model selection , including lightweight or domain-specific fine-tuned options, are vital for successful implementation.",
+      "lang": "en"
     }
   ]
 }
