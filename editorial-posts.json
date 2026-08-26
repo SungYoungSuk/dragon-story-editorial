@@ -1659,6 +1659,16 @@
       "summary": "LLM의 환각 현상과 정보 부족 한계를 극복하기 위해 RAG 리랭커(Cohere, BAAI)가 필수적입니다. RAG 시스템 도입을 고려하는 개발자 및 기업 담당자를 위해 두 모델의 성능, 특징, 국내 도입 비용 문제를 심층 분석합니다.",
       "description": "LLM의 환각 현상과 정보 부족 한계를 극복하기 위해 RAG 리랭커(Cohere, BAAI)가 필수적입니다. RAG 시스템 도입을 고려하는 개발자 및 기업 담당자를 위해 두 모델의 성능, 특징, 국내 도입 비용 문제를 심층 분석합니다.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-08-26T21:24:00+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/AI-%EC%9B%B9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-browser-use-%ED%95%B5%EC%8B%AC-%EB%B6%84%EC%84%9D-%EA%B8%B0%EB%8A%A5-%EC%84%B1%EB%8A%A5-%ED%99%9C%EC%9A%A9%EB%B2%95/",
+      "title": "AI 웹 에이전트 'browser-use' 핵심 분석: 기능, 성능, 활용법",
+      "summary": "'browser-use'는 Playwright와 LLM 기반의 강력한 AI 웹 자동화 에이전트로, Odysseys 리더보드 1위 성능과 유연한 배포 옵션을 제공합니다. 웹 자동화에 관심 있는 개발자와 비즈니스 사용자를 위한 활용 가이드입니다.",
+      "description": "'browser-use'는 Playwright와 LLM 기반의 강력한 AI 웹 자동화 에이전트로, Odysseys 리더보드 1위 성능과 유연한 배포 옵션을 제공합니다. 웹 자동화에 관심 있는 개발자와 비즈니스 사용자를 위한 활용 가이드입니다.",
+      "lang": "ko"
     }
   ]
 }
