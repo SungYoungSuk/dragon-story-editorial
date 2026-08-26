@@ -1619,6 +1619,16 @@
       "summary": "Rerankers are an essential evaluation layer in Retrieval Augmented Generation (RAG) pipelines that refine initial retrieval results to improve relevance. They significantly enhance the quality…",
       "description": "Rerankers are an essential evaluation layer in Retrieval Augmented Generation (RAG) pipelines that refine initial retrieval results to improve relevance. They significantly enhance the quality, precision, and recall of documents provided to large language models, leading to better answers and user experience. Key architectures include fast bi-encoders for initial retrieval and accurate cross-encoders for detailed reranking , each with distinct trade-offs. Reranking is crucial for RAG applications to optimize the context window for LLMs, reducing noise and the risk of hallucinations. A common and effective approach is the two-stage retrieval pipeline , combining broad retrieval with precise reranking. While powerful, rerankers introduce considerations around latency and computational cost , especially with large document sets. Careful evaluation and strategic model selection , including lightweight or domain-specific fine-tuned options, are vital for successful implementation.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-08-26T20:43:54+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Seamless-CICD-for-AI-Prompts-Promptfoo-for-Quality-Security-and-Evaluation",
+      "title": "Seamless CI/CD for AI Prompts: Promptfoo for Quality, Security, and Evaluation",
+      "summary": "Promptfoo seamlessly integrates into CI/CD pipelines , automating prompt evaluation and security scanning to ensure quality before deployment. It empowers developers to proactively catch regressions…",
+      "description": "Promptfoo seamlessly integrates into CI/CD pipelines , automating prompt evaluation and security scanning to ensure quality before deployment. It empowers developers to proactively catch regressions and identify vulnerabilities early by testing prompt changes in pre-production environments. Comprehensive assertions and metrics allow for precise validation of LLM outputs against expected conditions and performance thresholds. Advanced features like custom scoring functions and derived metrics enable highly customizable and complex evaluation logic, alongside cost tracking and compliance reporting.",
+      "lang": "en"
     }
   ]
 }
