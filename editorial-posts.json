@@ -1689,6 +1689,16 @@
       "summary": "OpenAI, Anthropic, Google 3사 모델의 교차 검증으로 LLM 환각을 줄이는 LangGraph 기반 파이프라인 구축법을 안내합니다. AI 개발자와 엔지니어를 위한 기술 가이드입니다.",
       "description": "OpenAI, Anthropic, Google 3사 모델의 교차 검증으로 LLM 환각을 줄이는 LangGraph 기반 파이프라인 구축법을 안내합니다. AI 개발자와 엔지니어를 위한 기술 가이드입니다.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-08-28T23:43:32+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Architecting-Multi-Agent-Systems-for-Cross-Model-Fact-Checking-and-Hallucination-Reduction",
+      "title": "Architecting Multi-Agent Systems for Cross-Model Fact-Checking and Hallucination Reduction",
+      "summary": "Supervisor Orchestration: Centralized multi-agent routing isolates specialized domain tasks and optimizes context window utilization. Cross-Model Verification: Pitting distinct model families like…",
+      "description": "Supervisor Orchestration: Centralized multi-agent routing isolates specialized domain tasks and optimizes context window utilization. Cross-Model Verification: Pitting distinct model families like Claude and GPT against each other eliminates single-model self-enhancement bias. Automated Self-Refinement: Recursive feedback advisors evaluate draft outputs and dynamically trigger targeted re-generation loops. Reasoning-First Evaluation: Enforcing structured diagnostic rationale before numeric scoring ensures transparent, deterministic fact-checking. Cascading Error Prevention: Multi-agent verification checkpoints intercept intermediate hallucinations before context drift corrupts downstream workflows.",
+      "lang": "en"
     }
   ]
 }
