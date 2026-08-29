@@ -1699,6 +1699,16 @@
       "summary": "Supervisor Orchestration: Centralized multi-agent routing isolates specialized domain tasks and optimizes context window utilization. Cross-Model Verification: Pitting distinct model families like…",
       "description": "Supervisor Orchestration: Centralized multi-agent routing isolates specialized domain tasks and optimizes context window utilization. Cross-Model Verification: Pitting distinct model families like Claude and GPT against each other eliminates single-model self-enhancement bias. Automated Self-Refinement: Recursive feedback advisors evaluate draft outputs and dynamically trigger targeted re-generation loops. Reasoning-First Evaluation: Enforcing structured diagnostic rationale before numeric scoring ensures transparent, deterministic fact-checking. Cascading Error Prevention: Multi-agent verification checkpoints intercept intermediate hallucinations before context drift corrupts downstream workflows.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-08-29T14:07:21+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/%ED%94%84%EB%A1%9C%EB%8D%95%EC%85%98-%EB%A0%88%EB%B2%A8-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-LangGraph-%EC%83%81%ED%83%9C-%EA%B4%80%EB%A6%AC%EC%99%80-%EC%A4%91%EB%B3%B5-%EC%97%B0%EC%82%B0-%EC%A0%9C%EA%B1%B0-%EC%8B%A4%EB%AC%B4/",
+      "title": "프로덕션 레벨 AI 에이전트 만들기: LangGraph 상태 관리와 중복 연산 제거 실무",
+      "summary": "LangGraph의 Checkpointer와 Store 이원화 구조를 활용해 프로덕션 환경에서 안정적인 상태 관리와 장기 기억을 구현하는 방법을 다룹니다. AI 에이전트 개발자와 엔지니어를 위한 실무 가이드입니다.",
+      "description": "LangGraph의 Checkpointer와 Store 이원화 구조를 활용해 프로덕션 환경에서 안정적인 상태 관리와 장기 기억을 구현하는 방법을 다룹니다. AI 에이전트 개발자와 엔지니어를 위한 실무 가이드입니다.",
+      "lang": "ko"
     }
   ]
 }
