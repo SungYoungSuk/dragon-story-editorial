@@ -1709,6 +1709,16 @@
       "summary": "LangGraph의 Checkpointer와 Store 이원화 구조를 활용해 프로덕션 환경에서 안정적인 상태 관리와 장기 기억을 구현하는 방법을 다룹니다. AI 에이전트 개발자와 엔지니어를 위한 실무 가이드입니다.",
       "description": "LangGraph의 Checkpointer와 Store 이원화 구조를 활용해 프로덕션 환경에서 안정적인 상태 관리와 장기 기억을 구현하는 방법을 다룹니다. AI 에이전트 개발자와 엔지니어를 위한 실무 가이드입니다.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-08-29T14:19:54+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Optimizing-LangGraph-Agent-Workflows-with-Node-Level-Caching",
+      "title": "Optimizing LangGraph Agent Workflows with Node-Level Caching",
+      "summary": "Redundant Call Elimination: Node-level caching stores previous execution outputs to bypass repetitive LLM invocations, drastically cutting API costs and response latency. Granular Cache Policies…",
+      "description": "Redundant Call Elimination: Node-level caching stores previous execution outputs to bypass repetitive LLM invocations, drastically cutting API costs and response latency. Granular Cache Policies: LangGraph supports per-node cache rules, allowing configurable time-to-live settings and custom key functions to normalize inputs. Flexible Backend Architecture: Systems can leverage diverse storage layers—including in-memory, SQLite, and Redis—paired with programmatic cache invalidation controls. Seamless Runtime Integration: Caching operates harmoniously alongside core state graph primitives, tool-calling nodes, retry logic, and execution checkpointing.",
+      "lang": "en"
     }
   ]
 }
