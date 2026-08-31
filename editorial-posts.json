@@ -1719,6 +1719,16 @@
       "summary": "Redundant Call Elimination: Node-level caching stores previous execution outputs to bypass repetitive LLM invocations, drastically cutting API costs and response latency. Granular Cache Policies…",
       "description": "Redundant Call Elimination: Node-level caching stores previous execution outputs to bypass repetitive LLM invocations, drastically cutting API costs and response latency. Granular Cache Policies: LangGraph supports per-node cache rules, allowing configurable time-to-live settings and custom key functions to normalize inputs. Flexible Backend Architecture: Systems can leverage diverse storage layers—including in-memory, SQLite, and Redis—paired with programmatic cache invalidation controls. Seamless Runtime Integration: Caching operates harmoniously alongside core state graph primitives, tool-calling nodes, retry logic, and execution checkpointing.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-08-31T13:09:22+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Architecting-Resilient-AI-Agents-with-Pydantic-AI-Type-Safety-Execution-Control-and-Error-Recovery",
+      "title": "Architecting Resilient AI Agents with Pydantic AI: Type Safety, Execution Control, and Error Recovery",
+      "summary": "Type-Safe Agent Core: Pydantic AI enforces end-to-end type safety and deterministic execution by binding generic dependency and output schemas directly into agent state machines. Self-Correcting…",
+      "description": "Type-Safe Agent Core: Pydantic AI enforces end-to-end type safety and deterministic execution by binding generic dependency and output schemas directly into agent state machines. Self-Correcting Retries: Automated schema validation detects malformed tool arguments and structured outputs, re-prompting models dynamically with error context before failures escape. Granular Execution Modes: Comprehensive execution primitives support synchronous runs, real-time event streaming, and manual node-by-node graph iteration for full lifecycle control. Resilient Run Cancellation: Thread-safe cancellation mechanisms preserve resumable message histories and automatically repair interrupted conversation transcripts upon continuation. Strict Cost & Concurrency Guardrails: Configurable usage limits, upfront token pricing passes, and concurrency throttles prevent runaway loops and context degradation. Provider-Agnostic Fallback Routing: Decoupled model abstractions enable automated sequential failover across multiple model providers when API errors or invalid responses occur. Advanced Context & Cache Optimization: Native support for smart instruction caching, automated compaction, and vendor-specific security screening maximizes throughput across major inference platforms.",
+      "lang": "en"
     }
   ]
 }
