@@ -1729,6 +1729,16 @@
       "summary": "Type-Safe Agent Core: Pydantic AI enforces end-to-end type safety and deterministic execution by binding generic dependency and output schemas directly into agent state machines. Self-Correcting…",
       "description": "Type-Safe Agent Core: Pydantic AI enforces end-to-end type safety and deterministic execution by binding generic dependency and output schemas directly into agent state machines. Self-Correcting Retries: Automated schema validation detects malformed tool arguments and structured outputs, re-prompting models dynamically with error context before failures escape. Granular Execution Modes: Comprehensive execution primitives support synchronous runs, real-time event streaming, and manual node-by-node graph iteration for full lifecycle control. Resilient Run Cancellation: Thread-safe cancellation mechanisms preserve resumable message histories and automatically repair interrupted conversation transcripts upon continuation. Strict Cost & Concurrency Guardrails: Configurable usage limits, upfront token pricing passes, and concurrency throttles prevent runaway loops and context degradation. Provider-Agnostic Fallback Routing: Decoupled model abstractions enable automated sequential failover across multiple model providers when API errors or invalid responses occur. Advanced Context & Cache Optimization: Native support for smart instruction caching, automated compaction, and vendor-specific security screening maximizes throughput across major inference platforms.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-08-31T13:12:45+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/AI-Video-Generation-for-Commercial-Production-Prompt-Engineering-Luma-Ray-and-Runway-Gen-3-Alpha",
+      "title": "AI Video Generation for Commercial Production: Prompt Engineering, Luma Ray, and Runway Gen-3 Alpha",
+      "summary": "Structured Prompt Engineering: Reliable commercial video generation requires four core prompt pillars: subject and action, camera framing, motion pacing, and contextual setting. Reasoning-Driven…",
+      "description": "Structured Prompt Engineering: Reliable commercial video generation requires four core prompt pillars: subject and action, camera framing, motion pacing, and contextual setting. Reasoning-Driven Video Engines: Advanced architectures like Luma Ray resolve spatial composition and scene physics prior to frame generation to deliver native 1080p HDR footage. Granular Director Controls: State-of-the-art platforms such as Runway Gen-3 Alpha provide integrated camera controls, Motion Brush tools, and expressive character acting without conventional video editing suites. Streamlined Product Ad Workflows: Segmenting prompt instructions into camera path, focal subject, and studio lighting parameters enables instant production of broadcast-ready promotional clips.",
+      "lang": "en"
     }
   ]
 }
