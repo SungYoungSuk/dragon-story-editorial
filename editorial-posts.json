@@ -1779,6 +1779,16 @@
       "summary": "Gemini Enterprise Agent Platform을 활용한 안전한 AI 에이전트 구축 및 네트워크 격리 방안을 안내합니다. 사내 기밀 유출 방지와 아키텍처 설계를 고민하는 IT 엔지니어와 보안 관리자를 위한 가이드입니다.",
       "description": "Gemini Enterprise Agent Platform을 활용한 안전한 AI 에이전트 구축 및 네트워크 격리 방안을 안내합니다. 사내 기밀 유출 방지와 아키텍처 설계를 고민하는 IT 엔지니어와 보안 관리자를 위한 가이드입니다.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-09-01T15:09:59+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/%EB%8B%A8%EC%9D%BC-GPU%EB%A1%9C-27B-%EB%AA%A8%EB%8D%B8-%EC%BE%8C%EC%A0%81%ED%95%98%EA%B2%8C-%EB%8F%8C%EB%A6%AC%EB%8A%94-%EB%B2%95-VRAM-%EC%A0%88%EC%95%BD%EA%B3%BC-%EC%A7%80%EC%97%B0%EC%8B%9C%EA%B0%84Latency-%EB%8B%A8%EC%B6%95-%ED%8C%81/",
+      "title": "단일 GPU로 27B 모델 쾌적하게 돌리는 법: VRAM 절약과 지연시간(Latency) 단축 팁",
+      "summary": "단일 24GB GPU 환경에서 27B 대형 언어 모델을 VRAM OOM 없이 구동하는 3단계 최적화 파이프라인과 vLLM, llama.cpp 실무 설정법을 다룹니다. 로컬 워크스테이션에서 대형 모델을 운영하려는 개발자와 연구자를 위한 기술 가이드입니다.",
+      "description": "단일 24GB GPU 환경에서 27B 대형 언어 모델을 VRAM OOM 없이 구동하는 3단계 최적화 파이프라인과 vLLM, llama.cpp 실무 설정법을 다룹니다. 로컬 워크스테이션에서 대형 모델을 운영하려는 개발자와 연구자를 위한 기술 가이드입니다.",
+      "lang": "ko"
     }
   ]
 }
