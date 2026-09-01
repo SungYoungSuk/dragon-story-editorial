@@ -1739,6 +1739,16 @@
       "summary": "Structured Prompt Engineering: Reliable commercial video generation requires four core prompt pillars: subject and action, camera framing, motion pacing, and contextual setting. Reasoning-Driven…",
       "description": "Structured Prompt Engineering: Reliable commercial video generation requires four core prompt pillars: subject and action, camera framing, motion pacing, and contextual setting. Reasoning-Driven Video Engines: Advanced architectures like Luma Ray resolve spatial composition and scene physics prior to frame generation to deliver native 1080p HDR footage. Granular Director Controls: State-of-the-art platforms such as Runway Gen-3 Alpha provide integrated camera controls, Motion Brush tools, and expressive character acting without conventional video editing suites. Streamlined Product Ad Workflows: Segmenting prompt instructions into camera path, focal subject, and studio lighting parameters enables instant production of broadcast-ready promotional clips.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-09-01T14:14:35+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Enterprise-Managed-AI-Agents-Security-Architecture-with-VPC-SC-and-PSC",
+      "title": "Enterprise Managed AI Agents: Security Architecture with VPC-SC and PSC",
+      "summary": "Three-Layer Security Architecture : Securing enterprise AI agents requires a unified model combining network isolation, data exfiltration prevention, and granular access governance. Perimeter Defense…",
+      "description": "Three-Layer Security Architecture : Securing enterprise AI agents requires a unified model combining network isolation, data exfiltration prevention, and granular access governance. Perimeter Defense via VPC-SC : VPC Service Controls block unauthorized data transfers to external environments, ensuring corporate training data and model artifacts remain protected even if credentials are exposed. Private Traffic Routing with PSC : Private Service Connect replaces public API routing with private VPC endpoints and network interfaces to facilitate bi-directional, private communication. Least-Privilege IAM Enforcement : Dedicated service accounts paired with minimal execution roles restrict agent runtime activities strictly to authorized internal datasets. Pre-Provisioning Perimeter Alignment : AI Agent runtimes and execution pipelines must be deployed into established perimeters to guarantee continuous policy enforcement and prevent unprotected public access pathways.",
+      "lang": "en"
     }
   ]
 }
