@@ -1789,6 +1789,16 @@
       "summary": "단일 24GB GPU 환경에서 27B 대형 언어 모델을 VRAM OOM 없이 구동하는 3단계 최적화 파이프라인과 vLLM, llama.cpp 실무 설정법을 다룹니다. 로컬 워크스테이션에서 대형 모델을 운영하려는 개발자와 연구자를 위한 기술 가이드입니다.",
       "description": "단일 24GB GPU 환경에서 27B 대형 언어 모델을 VRAM OOM 없이 구동하는 3단계 최적화 파이프라인과 vLLM, llama.cpp 실무 설정법을 다룹니다. 로컬 워크스테이션에서 대형 모델을 운영하려는 개발자와 연구자를 위한 기술 가이드입니다.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-09-01T15:13:32+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/%EC%9E%A5%ED%99%A9%ED%95%9C-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%EB%8A%94-%EA%B7%B8%EB%A7%8C-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%9D%98-%EC%84%B1%EA%B3%B5%EB%A5%A0%EC%9D%84-%EA%B2%B0%EC%A0%95%ED%95%98%EB%8A%94-%EC%95%A1%EC%85%98-%EB%AA%A8%EB%93%88%ED%99%94-%EA%B0%80%EC%9D%B4%EB%93%9C/",
+      "title": "장황한 프롬프트는 그만! 에이전트의 성공률을 결정하는 액션 모듈화 가이드",
+      "summary": "ReAct 패러다임과 원자적 API 모듈화를 통해 LLM 에이전트의 환각을 줄이고 함수 호출 안정성을 높이는 방법을 다룹니다. AI 에이전트 개발자와 엔지니어를 위한 기술 가이드입니다.",
+      "description": "ReAct 패러다임과 원자적 API 모듈화를 통해 LLM 에이전트의 환각을 줄이고 함수 호출 안정성을 높이는 방법을 다룹니다. AI 에이전트 개발자와 엔지니어를 위한 기술 가이드입니다.",
+      "lang": "ko"
     }
   ]
 }
