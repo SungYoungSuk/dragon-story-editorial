@@ -1759,6 +1759,16 @@
       "summary": "Dual-Stage Speculative Decoding: Generates candidate tokens rapidly via draft mechanisms and verifies them in parallel to boost generation speed without degrading output quality. Advanced Drafting…",
       "description": "Dual-Stage Speculative Decoding: Generates candidate tokens rapidly via draft mechanisms and verifies them in parallel to boost generation speed without degrading output quality. Advanced Drafting Architectures: Employs dedicated neural architectures like Multi-Token Prediction (MTP), EAGLE-3, and DFlash to deliver accurate candidate sequences with minimal compute overhead. Model-Free N-Gram Speculation: Utilizes lightweight prompt lookup and rolling hash tables to accelerate structured and repetitive text generation without consuming auxiliary GPU memory. Workload-Dependent Depth Tuning: Balances speculative proposal lengths against verification costs, as structured reasoning tasks tolerate deeper draft horizons than syntax-dense coding tasks. Broad Framework Integration: Configures native speculation pipelines seamlessly across production runtimes including vLLM, llama.cpp, Hugging Face Transformers, and TGI. Optimized GPU Layer Offloading: Balances layer distribution between VRAM and system RAM via runtime flags to maximize throughput within local hardware memory limits.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-09-01T14:28:52+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Architectural-Blueprints-for-Agentic-AI-Tool-Integration-Code-as-Action-and-Modular-Execution",
+      "title": "Architectural Blueprints for Agentic AI: Tool Integration, Code-as-Action, and Modular Execution",
+      "summary": "Self-Supervised Tool Integration: Frameworks like Toolformer prove that language models can teach themselves API invocation without extensive human annotation, preserving baseline language…",
+      "description": "Self-Supervised Tool Integration: Frameworks like Toolformer prove that language models can teach themselves API invocation without extensive human annotation, preserving baseline language understanding. Modular Code-as-Action Paradigms: Architectures like Voyager establish persistent, verified code libraries that enable agents to execute compositional tasks and transfer skills zero-shot. Empowering Open-Source Models: Comprehensive tool-use pipelines like ToolBench demonstrate that compact 7B-parameter models can rival proprietary frontier LLMs through structured decision-tree fine-tuning. Automated Curriculum & Feedback Loops: Iterative self-refinement and dynamic task progression overcome the exploration bottlenecks inherent in traditional prompting techniques. Cost-Efficient Agentic Scaling: Strategic skill design delivers superior execution efficiency and operational speedups compared to simply scaling raw model parameter count.",
+      "lang": "en"
     }
   ]
 }
