@@ -1749,6 +1749,16 @@
       "summary": "Three-Layer Security Architecture : Securing enterprise AI agents requires a unified model combining network isolation, data exfiltration prevention, and granular access governance. Perimeter Defense…",
       "description": "Three-Layer Security Architecture : Securing enterprise AI agents requires a unified model combining network isolation, data exfiltration prevention, and granular access governance. Perimeter Defense via VPC-SC : VPC Service Controls block unauthorized data transfers to external environments, ensuring corporate training data and model artifacts remain protected even if credentials are exposed. Private Traffic Routing with PSC : Private Service Connect replaces public API routing with private VPC endpoints and network interfaces to facilitate bi-directional, private communication. Least-Privilege IAM Enforcement : Dedicated service accounts paired with minimal execution roles restrict agent runtime activities strictly to authorized internal datasets. Pre-Provisioning Perimeter Alignment : AI Agent runtimes and execution pipelines must be deployed into established perimeters to guarantee continuous policy enforcement and prevent unprotected public access pathways.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-09-01T14:27:11+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Guide-to-Speculative-Decoding-Neural-and-Model-Free-Inference-Optimization",
+      "title": "Guide to Speculative Decoding: Neural and Model-Free Inference Optimization",
+      "summary": "Dual-Stage Speculative Decoding: Generates candidate tokens rapidly via draft mechanisms and verifies them in parallel to boost generation speed without degrading output quality. Advanced Drafting…",
+      "description": "Dual-Stage Speculative Decoding: Generates candidate tokens rapidly via draft mechanisms and verifies them in parallel to boost generation speed without degrading output quality. Advanced Drafting Architectures: Employs dedicated neural architectures like Multi-Token Prediction (MTP), EAGLE-3, and DFlash to deliver accurate candidate sequences with minimal compute overhead. Model-Free N-Gram Speculation: Utilizes lightweight prompt lookup and rolling hash tables to accelerate structured and repetitive text generation without consuming auxiliary GPU memory. Workload-Dependent Depth Tuning: Balances speculative proposal lengths against verification costs, as structured reasoning tasks tolerate deeper draft horizons than syntax-dense coding tasks. Broad Framework Integration: Configures native speculation pipelines seamlessly across production runtimes including vLLM, llama.cpp, Hugging Face Transformers, and TGI. Optimized GPU Layer Offloading: Balances layer distribution between VRAM and system RAM via runtime flags to maximize throughput within local hardware memory limits.",
+      "lang": "en"
     }
   ]
 }
