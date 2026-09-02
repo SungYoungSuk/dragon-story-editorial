@@ -1799,6 +1799,16 @@
       "summary": "ReAct 패러다임과 원자적 API 모듈화를 통해 LLM 에이전트의 환각을 줄이고 함수 호출 안정성을 높이는 방법을 다룹니다. AI 에이전트 개발자와 엔지니어를 위한 기술 가이드입니다.",
       "description": "ReAct 패러다임과 원자적 API 모듈화를 통해 LLM 에이전트의 환각을 줄이고 함수 호출 안정성을 높이는 방법을 다룹니다. AI 에이전트 개발자와 엔지니어를 위한 기술 가이드입니다.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-09-02T21:26:48+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Microsoft-Agent-Framework-vs.-LangGraph-1.x-A-Technical-Comparison-for-Enterprise-AI",
+      "title": "Microsoft Agent Framework vs. LangGraph 1.x: A Technical Comparison for Enterprise AI",
+      "summary": "Ecosystem Evolution: Microsoft Agent Framework 1.0 represents the enterprise-grade successor to AutoGen, which has transitioned into maintenance mode. Semantic Kernel Alignment: Integrating AutoGen…",
+      "description": "Ecosystem Evolution: Microsoft Agent Framework 1.0 represents the enterprise-grade successor to AutoGen, which has transitioned into maintenance mode. Semantic Kernel Alignment: Integrating AutoGen patterns with Semantic Kernel bridges modular process automation, enterprise security, and native .NET/Python runtimes. Graph-Driven Orchestration: LangGraph 1.x delivers deterministic, cyclical state machine execution equipped with built-in persistence and fine-grained human-in-the-loop controls. Architectural Paradigms: Choosing between the two platforms centers on asynchronous actor-based message passing versus explicit node-and-edge state graphs.",
+      "lang": "en"
     }
   ]
 }
