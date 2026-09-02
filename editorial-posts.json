@@ -1809,6 +1809,16 @@
       "summary": "Ecosystem Evolution: Microsoft Agent Framework 1.0 represents the enterprise-grade successor to AutoGen, which has transitioned into maintenance mode. Semantic Kernel Alignment: Integrating AutoGen…",
       "description": "Ecosystem Evolution: Microsoft Agent Framework 1.0 represents the enterprise-grade successor to AutoGen, which has transitioned into maintenance mode. Semantic Kernel Alignment: Integrating AutoGen patterns with Semantic Kernel bridges modular process automation, enterprise security, and native .NET/Python runtimes. Graph-Driven Orchestration: LangGraph 1.x delivers deterministic, cyclical state machine execution equipped with built-in persistence and fine-grained human-in-the-loop controls. Architectural Paradigms: Choosing between the two platforms centers on asynchronous actor-based message passing versus explicit node-and-edge state graphs.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-09-02T21:32:59+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/%ED%94%84%EB%A1%9C%EB%8D%95%EC%85%98-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EC%84%A0%ED%83%9D-%EA%B0%80%EC%9D%B4%EB%93%9C-LangGraph%EB%83%90-MS-Agent-Framework%EB%83%90/",
+      "title": "프로덕션 에이전트 프레임워크 선택 가이드: LangGraph냐, MS Agent Framework냐?",
+      "summary": "LangGraph와 MS Agent Framework의 아키텍처 특징과 보안 체계를 비교합니다. 엔터프라이즈 AI 시스템을 구축하는 개발자와 아키텍트에게 적합합니다.",
+      "description": "LangGraph와 MS Agent Framework의 아키텍처 특징과 보안 체계를 비교합니다. 엔터프라이즈 AI 시스템을 구축하는 개발자와 아키텍트에게 적합합니다.",
+      "lang": "ko"
     }
   ]
 }
