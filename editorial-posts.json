@@ -1819,6 +1819,16 @@
       "summary": "LangGraph와 MS Agent Framework의 아키텍처 특징과 보안 체계를 비교합니다. 엔터프라이즈 AI 시스템을 구축하는 개발자와 아키텍트에게 적합합니다.",
       "description": "LangGraph와 MS Agent Framework의 아키텍처 특징과 보안 체계를 비교합니다. 엔터프라이즈 AI 시스템을 구축하는 개발자와 아키텍트에게 적합합니다.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-09-04T15:19:42+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Comparing-GPT-6-Astra-and-Claude-Fable-5.1-Pricing-Reasoning-and-Architecture",
+      "title": "Comparing GPT-6 Astra and Claude Fable 5.1: Pricing, Reasoning, and Architecture",
+      "summary": "Frontier AI Convergence: Anthropic's Claude Fable 5.1 and OpenAI's GPT-6 Astra have officially established the competitive benchmark for late 2026 autonomous agents, complex reasoning, and knowledge…",
+      "description": "Frontier AI Convergence: Anthropic's Claude Fable 5.1 and OpenAI's GPT-6 Astra have officially established the competitive benchmark for late 2026 autonomous agents, complex reasoning, and knowledge work. Base API Pricing Parity: Both flagship frontier models share an identical standard base API rate of $10.00 per million input tokens and $50.00 per million output tokens . Aggressive Caching Disruption: Claude Fable 5.1 significantly lowers state-heavy operational costs with $0.25 per million tokens for prompt cache reads, undercutting GPT-6 Astra's $1.00 per million tokens cached prefix pricing. Massive Context & Reasoning Control: GPT-6 Astra introduces a unified 1.1M token context capacity and configurable reasoning tiers from low to maximum effort. Agentic Infrastructure & Safety Routing: Anthropic couples multi-day autonomous task capabilities with automated Opus-tier safety rerouting and dedicated container runtime economics for tool-assisted agents.",
+      "lang": "en"
     }
   ]
 }
