@@ -1839,6 +1839,16 @@
       "summary": "Gemini 3.8 Flash Hits General Availability: Google has officially launched its flagship lightweight model, engineered for long-horizon software engineering and autonomous agent workflows. Massive…",
       "description": "Gemini 3.8 Flash Hits General Availability: Google has officially launched its flagship lightweight model, engineered for long-horizon software engineering and autonomous agent workflows. Massive Context and Reasoning Control: The architecture supports a 1M token input window and 64k output tokens, featuring configurable reasoning tiers across low, medium, and high levels. Disruptive Promotional Pricing: Available at $0.75 per million input tokens through late 2026, delivering frontier intelligence at a fraction of conventional operational costs. Benchmark Dominance: Achieves a top-tier Artificial Analysis Intelligence Index score of 59, surpassing prior Flash generations and earlier Pro preview models. DeepSWE Benchmark Reality Check: Tested against 113 decontaminated, real-world repository tasks to evaluate true multi-turn coding capability without pretraining data leakage. Superior Verifier Reliability: DeepSWE establishes a rigorous public API behavioral test harness, drastically minimizing the false verifier rates seen in legacy benchmarks. Specialized Security Variant: Released alongside Gemini 3.8 Flash Cyber, offering purpose-built autonomous vulnerability detection and remediation.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-09-04T15:45:51+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Claude-Fable-5.1-Architectural-Economics-and-Autonomous-Development-Pipelines",
+      "title": "Claude Fable 5.1: Architectural Economics and Autonomous Development Pipelines",
+      "summary": "Cost-Effective Continuous Agent Loops: A 75% reduction in cache read pricing makes multi-turn, context-heavy agentic execution economically viable for enterprise-scale workloads. Superior Autonomous…",
+      "description": "Cost-Effective Continuous Agent Loops: A 75% reduction in cache read pricing makes multi-turn, context-heavy agentic execution economically viable for enterprise-scale workloads. Superior Autonomous Problem Solving: Groundbreaking benchmark results demonstrate advanced capabilities in deep root-cause debugging, core dump analysis, and self-verification. Asynchronous Cloud-Native Execution: Isolated web-based virtual machines empower developers to delegate complex repository tasks and run multiple issue remediations in parallel without local environment overhead. Resilient Long-Horizon Orchestration: Standardized Markdown memory patterns, quantitative test oracles, and Git-coordinated commits allow unattended agents to sustain productive runs across multi-day lifecycles. Closed-Loop Multimodal Verification: Seamless integration with browser automation tools enables agents to inspect live DOM states, parse runtime console logs, and visually validate deployed user interfaces. Enterprise Governance and Precision Safeguards: Reduced false-positive safety interventions paired with flexible customer-managed infrastructure support zero data retention compliance and secure vulnerability discovery.",
+      "lang": "en"
     }
   ]
 }
