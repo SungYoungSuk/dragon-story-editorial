@@ -1829,6 +1829,16 @@
       "summary": "Frontier AI Convergence: Anthropic's Claude Fable 5.1 and OpenAI's GPT-6 Astra have officially established the competitive benchmark for late 2026 autonomous agents, complex reasoning, and knowledge…",
       "description": "Frontier AI Convergence: Anthropic's Claude Fable 5.1 and OpenAI's GPT-6 Astra have officially established the competitive benchmark for late 2026 autonomous agents, complex reasoning, and knowledge work. Base API Pricing Parity: Both flagship frontier models share an identical standard base API rate of $10.00 per million input tokens and $50.00 per million output tokens . Aggressive Caching Disruption: Claude Fable 5.1 significantly lowers state-heavy operational costs with $0.25 per million tokens for prompt cache reads, undercutting GPT-6 Astra's $1.00 per million tokens cached prefix pricing. Massive Context & Reasoning Control: GPT-6 Astra introduces a unified 1.1M token context capacity and configurable reasoning tiers from low to maximum effort. Agentic Infrastructure & Safety Routing: Anthropic couples multi-day autonomous task capabilities with automated Opus-tier safety rerouting and dedicated container runtime economics for tool-assisted agents.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-09-04T15:41:11+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Gemini-3.8-Flash-GA-Specifications-Reasoning-Controls-and-Cost-Efficiency-Analysis",
+      "title": "Gemini 3.8 Flash: GA Specifications, Reasoning Controls, and Cost-Efficiency Analysis",
+      "summary": "Gemini 3.8 Flash Hits General Availability: Google has officially launched its flagship lightweight model, engineered for long-horizon software engineering and autonomous agent workflows. Massive…",
+      "description": "Gemini 3.8 Flash Hits General Availability: Google has officially launched its flagship lightweight model, engineered for long-horizon software engineering and autonomous agent workflows. Massive Context and Reasoning Control: The architecture supports a 1M token input window and 64k output tokens, featuring configurable reasoning tiers across low, medium, and high levels. Disruptive Promotional Pricing: Available at $0.75 per million input tokens through late 2026, delivering frontier intelligence at a fraction of conventional operational costs. Benchmark Dominance: Achieves a top-tier Artificial Analysis Intelligence Index score of 59, surpassing prior Flash generations and earlier Pro preview models. DeepSWE Benchmark Reality Check: Tested against 113 decontaminated, real-world repository tasks to evaluate true multi-turn coding capability without pretraining data leakage. Superior Verifier Reliability: DeepSWE establishes a rigorous public API behavioral test harness, drastically minimizing the false verifier rates seen in legacy benchmarks. Specialized Security Variant: Released alongside Gemini 3.8 Flash Cyber, offering purpose-built autonomous vulnerability detection and remediation.",
+      "lang": "en"
     }
   ]
 }
