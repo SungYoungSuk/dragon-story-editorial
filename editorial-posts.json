@@ -1859,6 +1859,16 @@
       "summary": "OpenAI가 공개한 차세대 모델 GPT-6 Astra의 OSWorld 2.0 성능, 보안 평가 및 API 가격 정책을 안내합니다. 개발자와 AI 엔지니어를 위한 핵심 기술 정보를 확인하세요.",
       "description": "OpenAI가 공개한 차세대 모델 GPT-6 Astra의 OSWorld 2.0 성능, 보안 평가 및 API 가격 정책을 안내합니다. 개발자와 AI 엔지니어를 위한 핵심 기술 정보를 확인하세요.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-09-04T16:19:31+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/%EA%B0%80%EC%84%B1%EB%B9%84%EC%99%80-%EC%B6%94%EB%A1%A0-%EC%86%8D%EB%8F%84-%EA%B7%B9%EB%8C%80%ED%99%94-Gemini-3.8-Flash%EC%9D%98-%EC%A1%B0%EC%A0%88-%EA%B0%80%EB%8A%A5%ED%95%9C-Thinking-%EB%8B%A8%EA%B3%84lowmediumhigh-%EC%84%B8%ED%8C%85/",
+      "title": "가성비와 추론 속도 극대화: Gemini 3.8 Flash의 조절 가능한 Thinking 단계(low/medium/high) 세팅",
+      "summary": "Gemini 3.8 Flash의 low, medium, high 추론 레벨 체계와 비용 및 성능 비교, 동적 라우팅 전략을 정리합니다. AI 엔터프라이즈 환경 실무자를 위한 API 구현 및 마이그레이션 가이드입니다.",
+      "description": "Gemini 3.8 Flash의 low, medium, high 추론 레벨 체계와 비용 및 성능 비교, 동적 라우팅 전략을 정리합니다. AI 엔터프라이즈 환경 실무자를 위한 API 구현 및 마이그레이션 가이드입니다.",
+      "lang": "ko"
     }
   ]
 }
