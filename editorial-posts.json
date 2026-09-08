@@ -1919,6 +1919,16 @@
       "summary": "GPT-6 Astra와 Claude Fable 5.1의 핵심 스펙, API 가격 구조, 화면 제어 성능 및 보안 역량을 비교합니다. AI 모델 도입을 검토하는 개발자와 엔터프라이즈 담당자를 위한 안내서입니다.",
       "description": "GPT-6 Astra와 Claude Fable 5.1의 핵심 스펙, API 가격 구조, 화면 제어 성능 및 보안 역량을 비교합니다. AI 모델 도입을 검토하는 개발자와 엔터프라이즈 담당자를 위한 안내서입니다.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-09-08T20:06:46+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8-%EC%9D%B8%EC%A0%9D%EC%85%98%EB%B6%80%ED%84%B0-MCP-%EA%B6%8C%ED%95%9C-%ED%83%88%EC%B7%A8%EA%B9%8C%EC%A7%80-2026-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-4%EB%8C%80-%EB%B3%B4%EC%95%88-%EC%9C%84%ED%98%91%EA%B3%BC-%EB%B0%A9%EC%96%B4-%EC%BD%94%EB%93%9C/",
+      "title": "프롬프트 인젝션부터 MCP 권한 탈취까지: 2026 AI 에이전트 4대 보안 위협과 방어 코드",
+      "summary": "AI 에이전트 자율 실행 환경의 4대 보안 위협과 다층 방어 아키텍처 구축 방법을 안내합니다. AI 에이전트와 MCP 연동 시스템을 개발하는 엔지니어와 보안 실무자를 위한 기술 가이드입니다.",
+      "description": "AI 에이전트 자율 실행 환경의 4대 보안 위협과 다층 방어 아키텍처 구축 방법을 안내합니다. AI 에이전트와 MCP 연동 시스템을 개발하는 엔지니어와 보안 실무자를 위한 기술 가이드입니다.",
+      "lang": "ko"
     }
   ]
 }
