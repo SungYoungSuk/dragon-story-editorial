@@ -1889,6 +1889,16 @@
       "summary": "Divergent Architectural Focus : GPT-6 Astra dominates autonomous OS navigation, browser execution, and cybersecurity tasks, while Claude Fable 5.1 is optimized for persistent, multi-day codebase…",
       "description": "Divergent Architectural Focus : GPT-6 Astra dominates autonomous OS navigation, browser execution, and cybersecurity tasks, while Claude Fable 5.1 is optimized for persistent, multi-day codebase refactoring pipelines. Prompt Caching Cost Advantage : Claude Fable 5.1 offers an ultra-low prompt cache read rate of $0.25 per million tokens, significantly reducing operational overhead for repetitive agentic loops. Autonomous System Capabilities : GPT-6 Astra marks a breakthrough in low-level system interaction, demonstrating unmatched performance in reverse engineering and multi-step environment penetration. Adaptive Reasoning and Visual Feedback : Claude Fable 5.1 introduces continuous adaptive thinking alongside real-time visual verification against architectural design specs. Safety and Alignment Paradigms : Astra incorporates real-time asynchronous misalignment monitors and strict confirmation controls, while Anthropic enforces tiered safety routing for dual-use cybersecurity queries.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-09-08T19:40:44+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/The-OWASP-Agent-Control-Standard-Governing-Autonomous-AI-Agent-Security",
+      "title": "The OWASP Agent Control Standard: Governing Autonomous AI Agent Security",
+      "summary": "Standardized Runtime Guardrails: The OWASP Agent Control Standard (ACS) defines an open framework and Guardian boundary architecture that injects declarative middleware hooks to enforce security…",
+      "description": "Standardized Runtime Guardrails: The OWASP Agent Control Standard (ACS) defines an open framework and Guardian boundary architecture that injects declarative middleware hooks to enforce security policies before autonomous actions execute. Mitigating Critical Operational Risks: ACS provides direct defenses against vulnerabilities such as Excessive Agency and Insecure Plugin Design, preventing autonomous agents from triggering unauthorized system modifications or catastrophic database operations. Unified Enterprise Governance: Developed under the OWASP GenAI Security Project, this standard enables consistent observability and compliance across heterogeneous cloud, SaaS, and on-premises agent deployments.",
+      "lang": "en"
     }
   ]
 }
