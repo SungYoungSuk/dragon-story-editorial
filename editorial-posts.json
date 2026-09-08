@@ -1899,6 +1899,16 @@
       "summary": "Standardized Runtime Guardrails: The OWASP Agent Control Standard (ACS) defines an open framework and Guardian boundary architecture that injects declarative middleware hooks to enforce security…",
       "description": "Standardized Runtime Guardrails: The OWASP Agent Control Standard (ACS) defines an open framework and Guardian boundary architecture that injects declarative middleware hooks to enforce security policies before autonomous actions execute. Mitigating Critical Operational Risks: ACS provides direct defenses against vulnerabilities such as Excessive Agency and Insecure Plugin Design, preventing autonomous agents from triggering unauthorized system modifications or catastrophic database operations. Unified Enterprise Governance: Developed under the OWASP GenAI Security Project, this standard enables consistent observability and compliance across heterogeneous cloud, SaaS, and on-premises agent deployments.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-09-08T19:49:30+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Gemini-3.8-Flash-vs.-Muse-Spark-1.3-A-Comparison-of-High-Efficiency-AI-Architectures",
+      "title": "Gemini 3.8 Flash vs. Muse Spark 1.3: A Comparison of High-Efficiency AI Architectures",
+      "summary": "Frontier Capability at Lower Cost: Both Google Gemini 3.8 Flash and Meta Muse Spark 1.3 deliver top-tier reasoning, long-horizon coding, and agentic performance at a fraction of traditional flagship…",
+      "description": "Frontier Capability at Lower Cost: Both Google Gemini 3.8 Flash and Meta Muse Spark 1.3 deliver top-tier reasoning, long-horizon coding, and agentic performance at a fraction of traditional flagship pricing. Expansive Million-Token Contexts: Each model supports a 1,048,576-token context window with advanced multimodal input processing, purpose-built for enterprise codebases and multi-file analysis. Record-Setting Benchmark Achievements: Modern benchmark evaluations show these cost-efficient models outperforming established giants like Opus 5 and GPT-5.6 Sol across specialized software engineering and deep retrieval tasks. Distinct Architectural Trade-offs: Selecting between the two hinges on specific workflow requirements, balancing Gemini's Google ecosystem grounding against Muse Spark's specialized token-efficient coding harnesses and verbosity dynamics.",
+      "lang": "en"
     }
   ]
 }
