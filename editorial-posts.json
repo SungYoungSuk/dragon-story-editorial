@@ -1929,6 +1929,16 @@
       "summary": "AI 에이전트 자율 실행 환경의 4대 보안 위협과 다층 방어 아키텍처 구축 방법을 안내합니다. AI 에이전트와 MCP 연동 시스템을 개발하는 엔지니어와 보안 실무자를 위한 기술 가이드입니다.",
       "description": "AI 에이전트 자율 실행 환경의 4대 보안 위협과 다층 방어 아키텍처 구축 방법을 안내합니다. AI 에이전트와 MCP 연동 시스템을 개발하는 엔지니어와 보안 실무자를 위한 기술 가이드입니다.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-09-08T20:11:41+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/%EC%B4%88%EA%B2%BD%EB%9F%89-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%9D%98-%EC%8B%9C%EB%8C%80-%EC%A7%80%EC%97%B0%EC%8B%9C%EA%B0%84Flash-vs-%EC%9E%A5%EB%AC%B8-%EA%B2%80%EC%83%89%EB%A0%A5Muse-Spark-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%81%AC-%EB%B6%84%EC%84%9D/",
+      "title": "초경량 에이전트의 시대: 지연시간(Flash) vs 장문 검색력(Muse Spark) 벤치마크 분석",
+      "summary": "Meta Muse Spark 1.3과 Gemini 3.8 Flash의 아키텍처, 장문 검색 정확도, 벤치마크 및 가격 정책을 비교합니다. 차세대 AI 에이전트를 도입하려는 엔지니어와 개발자를 위한 기술 분석서입니다.",
+      "description": "Meta Muse Spark 1.3과 Gemini 3.8 Flash의 아키텍처, 장문 검색 정확도, 벤치마크 및 가격 정책을 비교합니다. 차세대 AI 에이전트를 도입하려는 엔지니어와 개발자를 위한 기술 분석서입니다.",
+      "lang": "ko"
     }
   ]
 }
