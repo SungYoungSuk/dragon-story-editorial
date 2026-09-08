@@ -1879,6 +1879,16 @@
       "summary": "Claude Fable 5.1과 Claude Code를 활용한 레포지토리 전역 자율 리팩토링 4단계 워크플로우와 요금 체계를 알아봅니다. 대규모 코드베이스 분석이 필요한 개발자를 위한 가이드입니다.",
       "description": "Claude Fable 5.1과 Claude Code를 활용한 레포지토리 전역 자율 리팩토링 4단계 워크플로우와 요금 체계를 알아봅니다. 대규모 코드베이스 분석이 필요한 개발자를 위한 가이드입니다.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-09-08T19:32:15+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Comparative-Analysis-GPT-6-Astra-and-Claude-Fable-5.1-for-Enterprise-AI-Workflows",
+      "title": "Comparative Analysis: GPT-6 Astra and Claude Fable 5.1 for Enterprise AI Workflows",
+      "summary": "Divergent Architectural Focus : GPT-6 Astra dominates autonomous OS navigation, browser execution, and cybersecurity tasks, while Claude Fable 5.1 is optimized for persistent, multi-day codebase…",
+      "description": "Divergent Architectural Focus : GPT-6 Astra dominates autonomous OS navigation, browser execution, and cybersecurity tasks, while Claude Fable 5.1 is optimized for persistent, multi-day codebase refactoring pipelines. Prompt Caching Cost Advantage : Claude Fable 5.1 offers an ultra-low prompt cache read rate of $0.25 per million tokens, significantly reducing operational overhead for repetitive agentic loops. Autonomous System Capabilities : GPT-6 Astra marks a breakthrough in low-level system interaction, demonstrating unmatched performance in reverse engineering and multi-step environment penetration. Adaptive Reasoning and Visual Feedback : Claude Fable 5.1 introduces continuous adaptive thinking alongside real-time visual verification against architectural design specs. Safety and Alignment Paradigms : Astra incorporates real-time asynchronous misalignment monitors and strict confirmation controls, while Anthropic enforces tiered safety routing for dual-use cybersecurity queries.",
+      "lang": "en"
     }
   ]
 }
