@@ -1949,6 +1949,16 @@
       "summary": "Historic Strategic Acquisition: NVIDIA agreed to purchase Hugging Face for $12.93 billion (approximately 17.8 trillion KRW), representing the company's second-largest transaction on record. Unrivaled…",
       "description": "Historic Strategic Acquisition: NVIDIA agreed to purchase Hugging Face for $12.93 billion (approximately 17.8 trillion KRW), representing the company's second-largest transaction on record. Unrivaled Open-Source Scale: The acquisition incorporates a massive global developer hub hosting over 18 million creators, 3 million models, and hundreds of thousands of enterprise users. Full-Stack AI Expansion: The deal bridges NVIDIA's hardware supremacy with the leading AI software and model hub, creating new avenues to monetize idle compute and streamline enterprise deployments. Commitment to Platform Neutrality: Hugging Face will retain an independent brand identity, preserving multi-cloud flexibility and continued support for non-NVIDIA hardware accelerators. Reinforcing Open Ecosystems: Combining enterprise-grade infrastructure with open collaboration aims to enhance model security, reliability, and competitive scale against closed proprietary AI labs.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-09-09T19:49:49+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Comparative-Analysis-Architectural-Foundations-of-Tencent-Hy4-DeepSeek-V4-and-Qwen-3.8-MoE-Models",
+      "title": "Comparative Analysis: Architectural Foundations of Tencent Hy4, DeepSeek-V4, and Qwen 3.8 MoE Models",
+      "summary": "Frontier MoE Scalability: Tencent Hy4-preview introduces a massive 770B parameter model with an ultra-sparse ~6.3% token activation rate and Gated Sparse Attention. Multimodal & Precision Innovation…",
+      "description": "Frontier MoE Scalability: Tencent Hy4-preview introduces a massive 770B parameter model with an ultra-sparse ~6.3% token activation rate and Gated Sparse Attention. Multimodal & Precision Innovation: DeepSeek-V4 advances low-precision execution with hybrid FP4/FP8 expert routing and compressed attention backbones. Massive Ecosystem Breadth: Alibaba's Qwen 3.8 family scales up to 2.4T total parameters, offering seamless transitions between thinking and instruct modes. State-of-the-Art Coding Prowess: All three open architectures demonstrate SWE-bench resolution rates exceeding 70% to 80%, rivaling top proprietary commercial APIs. Native Speculative Acceleration: Fused Multi-Token Prediction (MTP) layers deliver greater than 1.5x throughput gains across standard vLLM and SGLang serving runtimes. Enterprise Openness: Permissive licensing models and turnkey containerized deployment make frontier-grade MoE inference readily accessible for self-hosted infrastructure.",
+      "lang": "en"
     }
   ]
 }
