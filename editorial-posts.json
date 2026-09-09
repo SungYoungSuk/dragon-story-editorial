@@ -1939,6 +1939,16 @@
       "summary": "Meta Muse Spark 1.3과 Gemini 3.8 Flash의 아키텍처, 장문 검색 정확도, 벤치마크 및 가격 정책을 비교합니다. 차세대 AI 에이전트를 도입하려는 엔지니어와 개발자를 위한 기술 분석서입니다.",
       "description": "Meta Muse Spark 1.3과 Gemini 3.8 Flash의 아키텍처, 장문 검색 정확도, 벤치마크 및 가격 정책을 비교합니다. 차세대 AI 에이전트를 도입하려는 엔지니어와 개발자를 위한 기술 분석서입니다.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-09-09T19:48:33+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/NVIDIA-Acquires-Hugging-Face-for-12.93-Billion-to-Expand-Full-Stack-AI-Ecosystem",
+      "title": "NVIDIA Acquires Hugging Face for $12.93 Billion to Expand Full-Stack AI Ecosystem",
+      "summary": "Historic Strategic Acquisition: NVIDIA agreed to purchase Hugging Face for $12.93 billion (approximately 17.8 trillion KRW), representing the company's second-largest transaction on record. Unrivaled…",
+      "description": "Historic Strategic Acquisition: NVIDIA agreed to purchase Hugging Face for $12.93 billion (approximately 17.8 trillion KRW), representing the company's second-largest transaction on record. Unrivaled Open-Source Scale: The acquisition incorporates a massive global developer hub hosting over 18 million creators, 3 million models, and hundreds of thousands of enterprise users. Full-Stack AI Expansion: The deal bridges NVIDIA's hardware supremacy with the leading AI software and model hub, creating new avenues to monetize idle compute and streamline enterprise deployments. Commitment to Platform Neutrality: Hugging Face will retain an independent brand identity, preserving multi-cloud flexibility and continued support for non-NVIDIA hardware accelerators. Reinforcing Open Ecosystems: Combining enterprise-grade infrastructure with open collaboration aims to enhance model security, reliability, and competitive scale against closed proprietary AI labs.",
+      "lang": "en"
     }
   ]
 }
