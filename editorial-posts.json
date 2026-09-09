@@ -1959,6 +1959,16 @@
       "summary": "Frontier MoE Scalability: Tencent Hy4-preview introduces a massive 770B parameter model with an ultra-sparse ~6.3% token activation rate and Gated Sparse Attention. Multimodal & Precision Innovation…",
       "description": "Frontier MoE Scalability: Tencent Hy4-preview introduces a massive 770B parameter model with an ultra-sparse ~6.3% token activation rate and Gated Sparse Attention. Multimodal & Precision Innovation: DeepSeek-V4 advances low-precision execution with hybrid FP4/FP8 expert routing and compressed attention backbones. Massive Ecosystem Breadth: Alibaba's Qwen 3.8 family scales up to 2.4T total parameters, offering seamless transitions between thinking and instruct modes. State-of-the-Art Coding Prowess: All three open architectures demonstrate SWE-bench resolution rates exceeding 70% to 80%, rivaling top proprietary commercial APIs. Native Speculative Acceleration: Fused Multi-Token Prediction (MTP) layers deliver greater than 1.5x throughput gains across standard vLLM and SGLang serving runtimes. Enterprise Openness: Permissive licensing models and turnkey containerized deployment make frontier-grade MoE inference readily accessible for self-hosted infrastructure.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-09-09T20:02:25+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/%EC%B9%A9-%EC%A0%9C%EC%A1%B0%EC%82%AC%EC%97%90%EC%84%9C-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EB%8F%85%EC%A0%90-%EA%B8%B0%EC%97%85%EC%9C%BC%EB%A1%9C-NVIDIA%EC%9D%98-Hugging-Face-%EC%9D%B8%EC%88%98%EC%99%80-MLOps%EC%9D%98-%EB%AF%B8%EB%9E%98/",
+      "title": "칩 제조사에서 플랫폼 독점 기업으로: NVIDIA의 Hugging Face 인수와 MLOps의 미래",
+      "summary": "엔비디아의 허깅페이스 인수 배경과 오픈웨이트 AI 생태계, 그리고 글로벌 반독점 규제 동향을 분석합니다. AI 하드웨어와 소프트웨어 플랫폼의 변화에 관심 있는 개발자와 연구자를 위한 정보입니다.",
+      "description": "엔비디아의 허깅페이스 인수 배경과 오픈웨이트 AI 생태계, 그리고 글로벌 반독점 규제 동향을 분석합니다. AI 하드웨어와 소프트웨어 플랫폼의 변화에 관심 있는 개발자와 연구자를 위한 정보입니다.",
+      "lang": "ko"
     }
   ]
 }
