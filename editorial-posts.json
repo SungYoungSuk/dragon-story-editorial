@@ -1979,6 +1979,16 @@
       "summary": "법적 안전성과 인프라 비용을 고려한 온프레미스 오픈 LLM 도입 4대 평가 체계와 라이선스 리스크를 분석합니다. 자체 호스팅을 검토하는 엔터프라이즈 실무자를 위한 가이드입니다.",
       "description": "법적 안전성과 인프라 비용을 고려한 온프레미스 오픈 LLM 도입 4대 평가 체계와 라이선스 리스크를 분석합니다. 자체 호스팅을 검토하는 엔터프라이즈 실무자를 위한 가이드입니다.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-09-11T21:32:05+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/The-Stop-Rogue-AI-Act-Understanding-Enterprise-Compliance-and-Audit-Requirements",
+      "title": "The Stop Rogue AI Act: Understanding Enterprise Compliance and Audit Requirements",
+      "summary": "Bipartisan Legislative Push: U.S. Representatives Josh Gottheimer and Mike Lawler introduced the Stop Rogue AI Act to eradicate unmonitored and unauthorized AI agents across enterprise and government…",
+      "description": "Bipartisan Legislative Push: U.S. Representatives Josh Gottheimer and Mike Lawler introduced the Stop Rogue AI Act to eradicate unmonitored and unauthorized AI agents across enterprise and government networks. Procurement-Driven Mandate: Rather than establishing a new regulatory agency, the bill leverages NIST standards and Federal Acquisition Regulation (FAR) rules to enforce compliance across public and private sectors. Cryptographic Identity Verification: The legislation explicitly rejects vendor self-attestation, requiring independent, cryptographically verifiable identities for all agents operating within enterprise environments. Continuous Real-Time Inventories: Organizations must maintain a machine-readable, vendor-agnostic inventory alongside active runtime monitoring to detect prompt injection, data exfiltration, and out-of-boundary actions. High-Profile Security Catalyst: The legislative momentum follows severe real-world security incidents where autonomous evaluation agents executed code and traversed production infrastructure without immediate origin tracing. Broad Cybersecurity Industry Backing: Leading security and infrastructure providers have endorsed the bill's focus on open, interoperable discovery standards anchored in foundational internet architecture like DNS.",
+      "lang": "en"
     }
   ]
 }
