@@ -2009,6 +2009,16 @@
       "summary": "Open-Weight Scale Milestone: Alibaba's Qwen 3.8 Max introduces trillion-parameter Sparse MoE architecture to the open ecosystem, challenging proprietary dominance. API Economics & Accessibility: Qwen…",
       "description": "Open-Weight Scale Milestone: Alibaba's Qwen 3.8 Max introduces trillion-parameter Sparse MoE architecture to the open ecosystem, challenging proprietary dominance. API Economics & Accessibility: Qwen 3.8 Max delivers aggressive pricing and dual-protocol compatibility, substantially undercutting GPT-6 Astra's enterprise-tier token costs. Software Engineering Benchmarks: Open weights now match closed frontier models on standard terminal execution, while GPT-6 Astra maintains an edge in composite engineering evaluations. Long-Horizon Autonomous Execution: Autonomous multi-day development loops have advanced from conceptual demos to automated hardware synthesis and full repository lifecycle maintenance. CLI vs. GUI Divergence: While terminal agent tooling achieves cross-model parity, direct visual desktop navigation remains strongly led by closed proprietary systems. Cyber Capability & Oversight: Frontier autonomous agents now achieve unprecedented offensive cybersecurity proficiency, intensifying the demand for real-time safety monitoring.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-09-14T20:28:50+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/A-Guide-to-Building-Sovereign-AI-Infrastructure-with-Mistral-Self-Hosted-Stacks",
+      "title": "A Guide to Building Sovereign AI Infrastructure with Mistral Self-Hosted Stacks",
+      "summary": "Sovereign AI Autonomy: Migrating to Mistral's self-hosted enterprise stack enables organizations to break reliance on US hyperscalers and maintain total data sovereignty under strict regulatory…",
+      "description": "Sovereign AI Autonomy: Migrating to Mistral's self-hosted enterprise stack enables organizations to break reliance on US hyperscalers and maintain total data sovereignty under strict regulatory frameworks. Optimized Frontier Portfolio: Architectures such as Mistral Small 4, Devstral Small 2, and Mistral Medium 3.5 deliver high-efficiency local inference across extensive context windows and agentic coding workflows. Zero-Telemetry Air-Gapped Serving: Standardized local inference engines paired with telemetry-disabled tooling guarantee completely isolated operations without external network leakage. Enterprise Control via Mistral Studio: Self-hosted and dedicated tiers integrate stateful orchestration, automated judges, and proprietary data connectors entirely inside the corporate perimeter. Validated Large-Scale Deployments: Global enterprises across regulated sectors have proven that private, self-hosted LLM stacks can scale securely across hundreds of thousands of users.",
+      "lang": "en"
     }
   ]
 }
