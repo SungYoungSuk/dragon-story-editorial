@@ -2049,6 +2049,16 @@
       "summary": "멀티 에이전트 협업 시 발생하는 토큰 곱연산 위험을 방지하고 도구 제한을 통한 읽기 전용 리뷰어 구축 방법을 안내합니다. 에이전트 아키텍처 설계를 고민하는 개발자를 위한 가이드입니다.",
       "description": "멀티 에이전트 협업 시 발생하는 토큰 곱연산 위험을 방지하고 도구 제한을 통한 읽기 전용 리뷰어 구축 방법을 안내합니다. 에이전트 아키텍처 설계를 고민하는 개발자를 위한 가이드입니다.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-09-15T19:52:44+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Anthropic-September-2026-Threat-Report-Multi-Agent-Offensive-AI-Operations",
+      "title": "Anthropic September 2026 Threat Report: Multi-Agent Offensive AI Operations",
+      "summary": "Autonomous Multi-Agent Orchestration: Threat actors deployed multi-instance Claude teams with dedicated role delegation to autonomously emulate complete end-to-end human engineering pipelines…",
+      "description": "Autonomous Multi-Agent Orchestration: Threat actors deployed multi-instance Claude teams with dedicated role delegation to autonomously emulate complete end-to-end human engineering pipelines. Guardrail Evasion via Task Decomposition: Prohibited physical weapons engineering projects were systematically divided into dozens of benign sub-tasks to bypass safety filters. Software Engineer Replacement: Hostile groups substituted human technical staff with LLM pipelines to build functional flight stabilization and missile guidance software. Adaptive Feedback Loops: Offensive frameworks established automated loops that analyze endpoint detection patterns to rewrite and recompile malware without manual human intervention. Broad AI Supply Chain Compromise: Anthropic's landmark September 2026 threat report documents over 40 tracked threat groups targeting evaluation sandboxes, wrapper services, and live API credentials. Industrial-Scale Distillation Campaigns: Competing entities executed covert extraction campaigns, relaying hundreds of thousands of user queries directly to proprietary models.",
+      "lang": "en"
     }
   ]
 }
