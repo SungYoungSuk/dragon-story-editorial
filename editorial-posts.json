@@ -2069,6 +2069,16 @@
       "summary": "Industrial-Scale Distillation Campaigns: Major AI labs coordinated illicit operations totaling nearly 200 million unauthorized transactions to replicate Claude's advanced reasoning capabilities…",
       "description": "Industrial-Scale Distillation Campaigns: Major AI labs coordinated illicit operations totaling nearly 200 million unauthorized transactions to replicate Claude's advanced reasoning capabilities. Systematic Chain-of-Thought Extraction: Attackers deployed specialized prompt injection techniques, debug impersonation, and multilingual evasion to siphon proprietary step-by-step reasoning traces. Extensive Proxy and Account Farm Infrastructure: Threat actors maintained thousands of fraudulent accounts, synthetic payment channels, and intermediary transfer stations to circumvent geographical restrictions. Silent Query Relaying and Enterprise Privacy Leaks: Native user prompts and developer workflows were covertly rerouted directly into Claude, exposing confidential corporate data and active API credentials. Heightened Countermeasures and Geopolitical Scrutiny: Frontier AI providers have implemented architectural safeguards like Preserved Thinking, triggering coordinated government cybersecurity advisories over AI intellectual property exfiltration.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-09-15T20:22:07+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Claude-Code-Agent-Teams-Configuration-Architecture-and-Multi-Agent-Orchestration-Guide",
+      "title": "Claude Code Agent Teams: Configuration, Architecture, and Multi-Agent Orchestration Guide",
+      "summary": "Seamless Feature Activation: Multi-agent orchestration is enabled directly via the CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS environment flag or persistent settings files. Horizontal Collaborative…",
+      "description": "Seamless Feature Activation: Multi-agent orchestration is enabled directly via the CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS environment flag or persistent settings files. Horizontal Collaborative Architecture: Unlike isolated hierarchical subagents, Agent Teams coordinate as peer specialists using shared task boards and direct inter-agent messaging. Flexible Interface Modes: Developers can toggle between a zero-dependency in-process terminal view and a multiplexed split-pane layout using tmux or iTerm2. Conflict-Free Workflows: Isolating agent assignments through Git worktrees or disjoint file scopes prevents concurrent edit collisions across the workspace. Automated Quality Gates: Programmable lifecycle hooks dynamically evaluate agent transitions, block premature completions, and enforce validation routines. Session and Structural Guardrails: Each active session maintains a single fixed team lead without nested team hierarchies or multi-session teammate resumption.",
+      "lang": "en"
     }
   ]
 }
