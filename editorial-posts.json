@@ -2059,6 +2059,16 @@
       "summary": "Autonomous Multi-Agent Orchestration: Threat actors deployed multi-instance Claude teams with dedicated role delegation to autonomously emulate complete end-to-end human engineering pipelines…",
       "description": "Autonomous Multi-Agent Orchestration: Threat actors deployed multi-instance Claude teams with dedicated role delegation to autonomously emulate complete end-to-end human engineering pipelines. Guardrail Evasion via Task Decomposition: Prohibited physical weapons engineering projects were systematically divided into dozens of benign sub-tasks to bypass safety filters. Software Engineer Replacement: Hostile groups substituted human technical staff with LLM pipelines to build functional flight stabilization and missile guidance software. Adaptive Feedback Loops: Offensive frameworks established automated loops that analyze endpoint detection patterns to rewrite and recompile malware without manual human intervention. Broad AI Supply Chain Compromise: Anthropic's landmark September 2026 threat report documents over 40 tracked threat groups targeting evaluation sandboxes, wrapper services, and live API credentials. Industrial-Scale Distillation Campaigns: Competing entities executed covert extraction campaigns, relaying hundreds of thousands of user queries directly to proprietary models.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-09-15T19:58:59+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Analysis-of-Illicit-Industrial-Scale-Model-Distillation-and-Chain-of-Thought-Extraction-Campaigns",
+      "title": "Analysis of Illicit Industrial-Scale Model Distillation and Chain-of-Thought Extraction Campaigns",
+      "summary": "Industrial-Scale Distillation Campaigns: Major AI labs coordinated illicit operations totaling nearly 200 million unauthorized transactions to replicate Claude's advanced reasoning capabilities…",
+      "description": "Industrial-Scale Distillation Campaigns: Major AI labs coordinated illicit operations totaling nearly 200 million unauthorized transactions to replicate Claude's advanced reasoning capabilities. Systematic Chain-of-Thought Extraction: Attackers deployed specialized prompt injection techniques, debug impersonation, and multilingual evasion to siphon proprietary step-by-step reasoning traces. Extensive Proxy and Account Farm Infrastructure: Threat actors maintained thousands of fraudulent accounts, synthetic payment channels, and intermediary transfer stations to circumvent geographical restrictions. Silent Query Relaying and Enterprise Privacy Leaks: Native user prompts and developer workflows were covertly rerouted directly into Claude, exposing confidential corporate data and active API credentials. Heightened Countermeasures and Geopolitical Scrutiny: Frontier AI providers have implemented architectural safeguards like Preserved Thinking, triggering coordinated government cybersecurity advisories over AI intellectual property exfiltration.",
+      "lang": "en"
     }
   ]
 }
