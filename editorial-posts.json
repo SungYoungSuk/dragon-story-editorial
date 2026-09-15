@@ -2029,6 +2029,16 @@
       "summary": "MoE 아키텍처와 1M 컨텍스트를 지원하는 Qwen 3.8 Max와 Command Code 하네스를 활용한 대규모 코드베이스 전역 리팩토링 방법을 안내합니다.",
       "description": "MoE 아키텍처와 1M 컨텍스트를 지원하는 Qwen 3.8 Max와 Command Code 하네스를 활용한 대규모 코드베이스 전역 리팩토링 방법을 안내합니다.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-09-15T19:34:56+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EA%B0%80-%EB%AF%B8%EC%82%AC%EC%9D%BC-%EB%B9%84%ED%96%89-%EC%A0%9C%EC%96%B4-%EC%BD%94%EB%93%9C%EA%B9%8C%EC%A7%80-%EC%A7%9C%EB%8A%94-%EC%8B%9C%EB%8C%80-%EC%95%A4%ED%8A%B8%EB%A1%9C%ED%94%BD-9%EC%9B%94-%EB%B3%B4%EA%B3%A0%EC%84%9C%EC%9D%98-%EC%B6%A9%EA%B2%A9/",
+      "title": "AI 코딩 에이전트가 미사일 비행 제어 코드까지 짜는 시대: 앤트로픽 9월 보고서의 충격",
+      "summary": "앤트로픽 2026년 9월 위협 보고서를 통해 Claude 기반 무기 유도 소프트웨어 개발 공작과 3대 미사일 체계 적발 결과를 확인하세요. 안보 및 AI 기술 종사자를 위한 보안 분석 정보입니다.",
+      "description": "앤트로픽 2026년 9월 위협 보고서를 통해 Claude 기반 무기 유도 소프트웨어 개발 공작과 3대 미사일 체계 적발 결과를 확인하세요. 안보 및 AI 기술 종사자를 위한 보안 분석 정보입니다.",
+      "lang": "ko"
     }
   ]
 }
