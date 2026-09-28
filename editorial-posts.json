@@ -2129,6 +2129,16 @@
       "summary": "OpenAI, 구글 딥마인드, 앤트로픽이 연방 규제 공백 속에서 추진하는 민간 자율규제기구 SAFA의 설립 배경과 쟁점을 분석합니다. AI 정책 및 테크 생태계 관계자에게 유용한 정보입니다.",
       "description": "OpenAI, 구글 딥마인드, 앤트로픽이 연방 규제 공백 속에서 추진하는 민간 자율규제기구 SAFA의 설립 배경과 쟁점을 분석합니다. AI 정책 및 테크 생태계 관계자에게 유용한 정보입니다.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-09-28T16:55:14+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/%EC%9B%94-API-%EB%B9%84%EC%9A%A9-70pct-%EC%A4%84%EC%9D%B4%EB%8A%94-%ED%95%98%EC%9D%B4%EB%B8%8C%EB%A6%AC%EB%93%9C-%EC%84%B8%ED%8C%85-Opus-5.5-%EC%BA%90%EC%8B%B1%EA%B3%BC-3.8-Flash%EC%9D%98-%EC%A1%B0%ED%95%A9/",
+      "title": "월 API 비용 70% 줄이는 하이브리드 세팅: Opus 5.5 캐싱과 3.8 Flash의 조합",
+      "summary": "Claude Opus 5.5와 Gemini 3.8 Flash를 결합한 2계층 하이브리드 아키텍처로 AI 코딩 API 비용을 절감하는 전략을 다룹니다. 대규모 코드베이스를 다루는 개발 팀을 위한 실전 연동 가이드입니다.",
+      "description": "Claude Opus 5.5와 Gemini 3.8 Flash를 결합한 2계층 하이브리드 아키텍처로 AI 코딩 API 비용을 절감하는 전략을 다룹니다. 대규모 코드베이스를 다루는 개발 팀을 위한 실전 연동 가이드입니다.",
+      "lang": "ko"
     }
   ]
 }
