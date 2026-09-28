@@ -2079,6 +2079,16 @@
       "summary": "Seamless Feature Activation: Multi-agent orchestration is enabled directly via the CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS environment flag or persistent settings files. Horizontal Collaborative…",
       "description": "Seamless Feature Activation: Multi-agent orchestration is enabled directly via the CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS environment flag or persistent settings files. Horizontal Collaborative Architecture: Unlike isolated hierarchical subagents, Agent Teams coordinate as peer specialists using shared task boards and direct inter-agent messaging. Flexible Interface Modes: Developers can toggle between a zero-dependency in-process terminal view and a multiplexed split-pane layout using tmux or iTerm2. Conflict-Free Workflows: Isolating agent assignments through Git worktrees or disjoint file scopes prevents concurrent edit collisions across the workspace. Automated Quality Gates: Programmable lifecycle hooks dynamically evaluate agent transitions, block premature completions, and enforce validation routines. Session and Structural Guardrails: Each active session maintains a single fixed team lead without nested team hierarchies or multi-session teammate resumption.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-09-28T15:48:44+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Anthropic-Claude-Opus-5.5-Architectural-Updates-API-Changes-and-Benchmarks",
+      "title": "Anthropic Claude Opus 5.5: Architectural Updates, API Changes, and Benchmarks",
+      "summary": "Rapid Competitive Deployment: Anthropic accelerated Opus 5.5 directly into production to counter OpenAI's GPT-6 Astra and retain dominance in developer tooling. Throughput and Refactoring Gains: The…",
+      "description": "Rapid Competitive Deployment: Anthropic accelerated Opus 5.5 directly into production to counter OpenAI's GPT-6 Astra and retain dominance in developer tooling. Throughput and Refactoring Gains: The model delivers a 30% increase in generation speed while drastically reducing unintended regressions across massive codebases. Mandatory Adaptive Reasoning: Internal thinking is now fundamentally integrated into the architecture, rejecting manual thinking budget overrides via API. Structural API Breaking Changes: Developers must migrate to automated tool selection and append-only conversation structures to maintain context integrity. Aggressive Cost Reductions: A 20% reduction in base token rates and a 60% cut in prompt cache read costs lower real-world workload expenses by roughly 40%. Frontier Benchmark Leadership: Opus 5.5 establishes new high scores across leading terminal execution, coding evaluation, and intelligence indexes. Dynamic Safety Fallbacks: Advanced governance mechanisms route sensitive or specialized queries to dedicated secondary models while enforcing strict regulatory compliance.",
+      "lang": "en"
     }
   ]
 }
