@@ -2099,6 +2099,16 @@
       "summary": "Independent Industry Governance: Google, OpenAI, and Anthropic are establishing the Standards Authority for Frontier AI (SAFA) to define binding technical safety, auditing, and incident-reporting…",
       "description": "Independent Industry Governance: Google, OpenAI, and Anthropic are establishing the Standards Authority for Frontier AI (SAFA) to define binding technical safety, auditing, and incident-reporting protocols. Response to Policy Stagnation: The private body emerged after federal oversight initiatives and draft executive measures stalled, driving frontier labs to bypass regulatory delays. Prominent Leadership Pipeline: High-profile policy veterans and technical experts—including Sriram Krishnan and Arati Prabhakar —are under active consideration to helm the organization. Deep Industry Polarization: Major players such as Meta and Nvidia oppose coordinated safety bodies, amplifying wider scrutiny over regulatory capture and barrier creation for emerging AI startups.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-09-28T16:17:15+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/September-2026-Frontier-Coding-Models-A-Technical-Guide-to-Claude-5.5-and-Agentic-Architecture",
+      "title": "September 2026 Frontier Coding Models: A Technical Guide to Claude 5.5 and Agentic Architecture",
+      "summary": "A Transformative Month for Coding LLMs: September 2026 marked a pivotal wave of frontier AI releases designed specifically for complex software development and agentic workflows. Anthropic's Expanded…",
+      "description": "A Transformative Month for Coding LLMs: September 2026 marked a pivotal wave of frontier AI releases designed specifically for complex software development and agentic workflows. Anthropic's Expanded Flagship Tier: The arrival of Claude Opus 5.5, Claude Fable 5.1, and Mythos 5.1 establishes new high-water marks for autonomous reasoning, long-running agent tasks, and contextual comprehension. Google's High-Velocity Flash Contender: Gemini 3.8 Flash brings ultra-fast multimodal coding and tunable reasoning to enterprise pipelines at highly competitive price points. Standardization of Deep Reasoning: Frontier architectures now increasingly mandate 1-million-token context windows, always-on adaptive thinking, and substantial prompt caching discounts. Balancing Per-Token Costs and Agentic Depth: Evaluating real-world return on investment now requires assessing total token output during multi-step reasoning rather than base per-token rates alone.",
+      "lang": "en"
     }
   ]
 }
