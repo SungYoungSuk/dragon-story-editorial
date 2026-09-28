@@ -2089,6 +2089,16 @@
       "summary": "Rapid Competitive Deployment: Anthropic accelerated Opus 5.5 directly into production to counter OpenAI's GPT-6 Astra and retain dominance in developer tooling. Throughput and Refactoring Gains: The…",
       "description": "Rapid Competitive Deployment: Anthropic accelerated Opus 5.5 directly into production to counter OpenAI's GPT-6 Astra and retain dominance in developer tooling. Throughput and Refactoring Gains: The model delivers a 30% increase in generation speed while drastically reducing unintended regressions across massive codebases. Mandatory Adaptive Reasoning: Internal thinking is now fundamentally integrated into the architecture, rejecting manual thinking budget overrides via API. Structural API Breaking Changes: Developers must migrate to automated tool selection and append-only conversation structures to maintain context integrity. Aggressive Cost Reductions: A 20% reduction in base token rates and a 60% cut in prompt cache read costs lower real-world workload expenses by roughly 40%. Frontier Benchmark Leadership: Opus 5.5 establishes new high scores across leading terminal execution, coding evaluation, and intelligence indexes. Dynamic Safety Fallbacks: Advanced governance mechanisms route sensitive or specialized queries to dedicated secondary models while enforcing strict regulatory compliance.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-09-28T16:15:52+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Google-OpenAI-and-Anthropic-Form-Standards-Authority-for-Frontier-AI-SAFA-to-Establish-Industry-Self-Regulation",
+      "title": "Google, OpenAI, and Anthropic Form Standards Authority for Frontier AI (SAFA) to Establish Industry Self-Regulation",
+      "summary": "Independent Industry Governance: Google, OpenAI, and Anthropic are establishing the Standards Authority for Frontier AI (SAFA) to define binding technical safety, auditing, and incident-reporting…",
+      "description": "Independent Industry Governance: Google, OpenAI, and Anthropic are establishing the Standards Authority for Frontier AI (SAFA) to define binding technical safety, auditing, and incident-reporting protocols. Response to Policy Stagnation: The private body emerged after federal oversight initiatives and draft executive measures stalled, driving frontier labs to bypass regulatory delays. Prominent Leadership Pipeline: High-profile policy veterans and technical experts—including Sriram Krishnan and Arati Prabhakar —are under active consideration to helm the organization. Deep Industry Polarization: Major players such as Meta and Nvidia oppose coordinated safety bodies, amplifying wider scrutiny over regulatory capture and barrier creation for emerging AI startups.",
+      "lang": "en"
     }
   ]
 }
