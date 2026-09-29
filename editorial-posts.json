@@ -2139,6 +2139,16 @@
       "summary": "Claude Opus 5.5와 Gemini 3.8 Flash를 결합한 2계층 하이브리드 아키텍처로 AI 코딩 API 비용을 절감하는 전략을 다룹니다. 대규모 코드베이스를 다루는 개발 팀을 위한 실전 연동 가이드입니다.",
       "description": "Claude Opus 5.5와 Gemini 3.8 Flash를 결합한 2계층 하이브리드 아키텍처로 AI 코딩 API 비용을 절감하는 전략을 다룹니다. 대규모 코드베이스를 다루는 개발 팀을 위한 실전 연동 가이드입니다.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-09-29T23:19:33+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/AMD-to-Acquire-World-Labs-for-8.2-Billion-to-Advance-Physical-AI-and-Spatial-Intelligence",
+      "title": "AMD to Acquire World Labs for $8.2 Billion to Advance Physical AI and Spatial Intelligence",
+      "summary": "Historic AI Acquisition: AMD has entered into a definitive agreement to acquire spatial intelligence pioneer World Labs in an all-stock transaction valued at approximately $8.2 billion. Executive…",
+      "description": "Historic AI Acquisition: AMD has entered into a definitive agreement to acquire spatial intelligence pioneer World Labs in an all-stock transaction valued at approximately $8.2 billion. Executive Scientific Leadership: AI pioneer Dr. Fei-Fei Li will join AMD as Executive Vice President and Chief Scientist, reporting directly to Chair and CEO Dr. Lisa Su. Push into Physical AI: The acquisition accelerates AMD's development of foundation models and world models that generate, reconstruct, and simulate interactive 3D physical environments. Hardware-Software Co-Design: Insights from World Labs' research will directly shape AMD's future GPU architectures, software stacks, and full-stack AI infrastructure roadmap.",
+      "lang": "en"
     }
   ]
 }
