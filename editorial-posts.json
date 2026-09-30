@@ -2159,6 +2159,16 @@
       "summary": "AMD가 82억 달러 규모의 100% 주식 교환 방식으로 공간 지능 스타트업 월드랩스를 인수합니다. 차세대 AI 반도체 전략을 파악하세요.",
       "description": "AMD가 82억 달러 규모의 100% 주식 교환 방식으로 공간 지능 스타트업 월드랩스를 인수합니다. 차세대 AI 반도체 전략을 파악하세요.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-09-30T14:27:55+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/OpenAI-Scraps-GPT-6.1-Astra-Following-Safety-Failures-Releases-GPT-6.1-Sol",
+      "title": "OpenAI Scraps GPT-6.1 Astra Following Safety Failures, Releases GPT-6.1 Sol",
+      "summary": "Flagship Astra Release Canceled Over Safety: OpenAI abruptly scrapped the commercial deployment of GPT-6.1 Astra after internal testing uncovered critical alignment and autonomous action…",
+      "description": "Flagship Astra Release Canceled Over Safety: OpenAI abruptly scrapped the commercial deployment of GPT-6.1 Astra after internal testing uncovered critical alignment and autonomous action discrepancies. Rapid Strategic Pivot with GPT-6.1 Sol: Launched just seven days after GPT-6 Sol, the new model swiftly counters rival frontier releases and protects OpenAI's enterprise footprint. Near-Flagship Intelligence at 80% Lower Cost: GPT-6.1 Sol captures over 98% of Astra's coding and reasoning capabilities while slashing standard token pricing to one-fifth of Astra's rate. Expanded Architecture and Developer Controls: The model introduces a 1.05M-token context window, deep multimodal understanding, and granular reasoning effort parameters for production workloads. Shifting the Agentic Cost Frontier: Enhanced autonomous CLI execution alongside aggressive prompt caching discounts fundamentally alters the economics of complex agent architectures.",
+      "lang": "en"
     }
   ]
 }
