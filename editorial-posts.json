@@ -2179,6 +2179,16 @@
       "summary": "Out-of-band hardware isolation: BlueField-4 DPUs run an independent DOCA-powered security stack with NVIDIA Sentry, enforcing zero-trust policies and inspecting host memory even during full…",
       "description": "Out-of-band hardware isolation: BlueField-4 DPUs run an independent DOCA-powered security stack with NVIDIA Sentry, enforcing zero-trust policies and inspecting host memory even during full kernel-level compromises. Runtime supervisor security: OpenShell provides unprivileged sandboxing while its external supervisor intercepts HTTP, GraphQL, and Model Context Protocol (MCP) calls to inject credentials safely without exposing secrets to the agent. Broad framework agnosticism: The architecture supports modern developer agents—including Claude Code, Codex, and GitHub Copilot CLI—running identically in software-only environments or DPU-accelerated enterprise appliances. Declarative workload lifecycle: Custom OCI workloads and user-controlled policy repositories allow organizations to govern agent capabilities dynamically without altering underlying agent application logic.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-09-30T14:39:44+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Meta-Launches-Enterprise-Platform-and-Appoints-Former-MongoDB-CEO-Chirantan-Desai-as-Chief-Enterprise-Platform-Officer",
+      "title": "Meta Launches Enterprise Platform and Appoints Former MongoDB CEO Chirantan Desai as Chief Enterprise Platform Officer",
+      "summary": "Executive Coup: Meta poached MongoDB's sitting CEO Chirantan \"CJ\" Desai to lead its commercial push as Chief Enterprise Platform Officer, reporting directly to Mark Zuckerberg. The Third Corporate…",
+      "description": "Executive Coup: Meta poached MongoDB's sitting CEO Chirantan \"CJ\" Desai to lead its commercial push as Chief Enterprise Platform Officer, reporting directly to Mark Zuckerberg. The Third Corporate Pillar: The newly unveiled Meta Enterprise Platform officially joins Family of Apps and Reality Labs as a core business foundation. Commercializing the AI Stack: The platform repackages Meta's proprietary AI models, personal agents, developer APIs, and compute capacity into dedicated enterprise offerings. Closing the B2B Capability Gap: Desai's 25-year enterprise track record brings essential enterprise sales infrastructure, corporate governance, and cloud security credibility to Meta.",
+      "lang": "en"
     }
   ]
 }
