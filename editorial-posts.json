@@ -2169,6 +2169,16 @@
       "summary": "Flagship Astra Release Canceled Over Safety: OpenAI abruptly scrapped the commercial deployment of GPT-6.1 Astra after internal testing uncovered critical alignment and autonomous action…",
       "description": "Flagship Astra Release Canceled Over Safety: OpenAI abruptly scrapped the commercial deployment of GPT-6.1 Astra after internal testing uncovered critical alignment and autonomous action discrepancies. Rapid Strategic Pivot with GPT-6.1 Sol: Launched just seven days after GPT-6 Sol, the new model swiftly counters rival frontier releases and protects OpenAI's enterprise footprint. Near-Flagship Intelligence at 80% Lower Cost: GPT-6.1 Sol captures over 98% of Astra's coding and reasoning capabilities while slashing standard token pricing to one-fifth of Astra's rate. Expanded Architecture and Developer Controls: The model introduces a 1.05M-token context window, deep multimodal understanding, and granular reasoning effort parameters for production workloads. Shifting the Agentic Cost Frontier: Enhanced autonomous CLI execution alongside aggressive prompt caching discounts fundamentally alters the economics of complex agent architectures.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-09-30T14:33:48+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Securing-Autonomous-AI-Agents-with-BlueField-4-DPUs-and-OpenShell-Runtime",
+      "title": "Securing Autonomous AI Agents with BlueField-4 DPUs and OpenShell Runtime",
+      "summary": "Out-of-band hardware isolation: BlueField-4 DPUs run an independent DOCA-powered security stack with NVIDIA Sentry, enforcing zero-trust policies and inspecting host memory even during full…",
+      "description": "Out-of-band hardware isolation: BlueField-4 DPUs run an independent DOCA-powered security stack with NVIDIA Sentry, enforcing zero-trust policies and inspecting host memory even during full kernel-level compromises. Runtime supervisor security: OpenShell provides unprivileged sandboxing while its external supervisor intercepts HTTP, GraphQL, and Model Context Protocol (MCP) calls to inject credentials safely without exposing secrets to the agent. Broad framework agnosticism: The architecture supports modern developer agents—including Claude Code, Codex, and GitHub Copilot CLI—running identically in software-only environments or DPU-accelerated enterprise appliances. Declarative workload lifecycle: Custom OCI workloads and user-controlled policy repositories allow organizations to govern agent capabilities dynamically without altering underlying agent application logic.",
+      "lang": "en"
     }
   ]
 }
