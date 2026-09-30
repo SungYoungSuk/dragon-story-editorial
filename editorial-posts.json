@@ -2209,6 +2209,16 @@
       "summary": "소프트웨어 가드레일 한계를 극복하는 NVIDIA Sentry와 BlueField-4 DPU 기반의 하드웨어 킬스위치 보안 아키텍처를 설명합니다. AI 에이전트 인프라 보안 담당자를 위한 기술 가이드입니다.",
       "description": "소프트웨어 가드레일 한계를 극복하는 NVIDIA Sentry와 BlueField-4 DPU 기반의 하드웨어 킬스위치 보안 아키텍처를 설명합니다. AI 에이전트 인프라 보안 담당자를 위한 기술 가이드입니다.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-09-30T14:56:09+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/AI%EA%B0%80-AI%EB%A5%BC-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-%EC%8B%9C%EC%9E%91%ED%96%88%EB%8B%A4-%ED%94%84%EB%A1%A0%ED%8B%B0%EC%96%B4-%EC%97%B0%EA%B5%AC%EC%A7%84%EC%9D%B4-RD-%EC%9E%90%EB%8F%99%ED%99%94%EB%A5%BC-%EA%B0%80%EC%9E%A5-%EB%91%90%EB%A0%A4%EC%9B%8C%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0/",
+      "title": "AI가 AI를 개발하기 시작했다: 프론티어 연구진이 R&D 자동화를 가장 두려워하는 이유",
+      "summary": "프론티어 랩의 사내 AI 코드 작성 비율 80% 돌파와 가상 연구원 도입에 따른 R&D 자동화 현황을 살펴봅니다. AI 연구 개발 자동화의 실측 지표와 향후 전망에 관심 있는 연구원과 기술 종사자를 위한 글입니다.",
+      "description": "프론티어 랩의 사내 AI 코드 작성 비율 80% 돌파와 가상 연구원 도입에 따른 R&D 자동화 현황을 살펴봅니다. AI 연구 개발 자동화의 실측 지표와 향후 전망에 관심 있는 연구원과 기술 종사자를 위한 글입니다.",
+      "lang": "ko"
     }
   ]
 }
