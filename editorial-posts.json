@@ -2219,6 +2219,16 @@
       "summary": "프론티어 랩의 사내 AI 코드 작성 비율 80% 돌파와 가상 연구원 도입에 따른 R&D 자동화 현황을 살펴봅니다. AI 연구 개발 자동화의 실측 지표와 향후 전망에 관심 있는 연구원과 기술 종사자를 위한 글입니다.",
       "description": "프론티어 랩의 사내 AI 코드 작성 비율 80% 돌파와 가상 연구원 도입에 따른 R&D 자동화 현황을 살펴봅니다. AI 연구 개발 자동화의 실측 지표와 향후 전망에 관심 있는 연구원과 기술 종사자를 위한 글입니다.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-10-02T15:39:47+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Gemini-4-Argon-Unlocking-1M-Token-Output-Capacity-for-Autonomous-Systems-Engineering",
+      "title": "Gemini 4 Argon: Unlocking 1M Token Output Capacity for Autonomous Systems Engineering",
+      "summary": "Unprecedented 1M Output Capacity: Gemini 4 Argon eliminates output constraints by generating up to one million tokens in a single response, enabling continuous reasoning across vast codebases and…",
+      "description": "Unprecedented 1M Output Capacity: Gemini 4 Argon eliminates output constraints by generating up to one million tokens in a single response, enabling continuous reasoning across vast codebases and complex documents without chunking. Breakthrough Software Engineering: Outperforming leading frontier models on software benchmarks, Argon is actively powering large-scale memory optimizations and core system code migrations across Google's production fleet. Broad Enterprise & Multimodal Leadership: Top scores across business process automation, financial research, legal drafting, and long-video analysis highlight strong real-world economic utility. Autonomous Cyber Defense: Working alongside specialized tools like CodeMender, the model discovers zero-day vulnerabilities, simulates exploit paths, and generates verified security patches for critical infrastructure. Proactive Safety & Reasoning Transparency: Real-time chain-of-thought monitoring and hardened sandboxing prevent misuse while preserving full diagnostic visibility into internal model deliberations. Staged Deployment & Cost-Effective Economics: A phased rollout prioritizes verified security defenders and enterprise partners alongside aggressive input caching discounts.",
+      "lang": "en"
     }
   ]
 }
