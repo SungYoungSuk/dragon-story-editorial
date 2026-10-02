@@ -2269,6 +2269,16 @@
       "summary": "OpenAI 상주형 에이전트 dots는 PC가 꺼져도 24시간 백그라운드에서 구동되는 클라우드 기반 AI 자동화 시스템입니다. AI 에이전트의 상시 가동 원리와 옴니채널 연동 방법을 확인하세요.",
       "description": "OpenAI 상주형 에이전트 dots는 PC가 꺼져도 24시간 백그라운드에서 구동되는 클라우드 기반 AI 자동화 시스템입니다. AI 에이전트의 상시 가동 원리와 옴니채널 연동 방법을 확인하세요.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-10-02T16:43:59+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/Cursor%EC%97%90-%EB%9C%AC-Grok-4.7-%EC%8A%A4%EC%8A%A4%EB%A1%9C-%EB%B2%84%EA%B7%B8%EB%A5%BC-%EA%B3%A0%EC%B3%90%EC%84%9C-%EB%82%B4%EB%86%93%EB%8A%94-Self-Verification%EC%9D%98-%EC%B2%B4%EA%B0%90-%EC%84%B1%EB%8A%A5/",
+      "title": "Cursor에 뜬 Grok 4.7: 스스로 버그를 고쳐서 내놓는 'Self-Verification'의 체감 성능",
+      "summary": "Cursor에 네이티브 탑재된 Grok 4.7의 자가 검증 메커니즘, 요금제별 적용 범위 및 Responses API 연동 방법을 정리했습니다. AI 코딩 도구 활용법을 찾는 개발자에게 유용합니다.",
+      "description": "Cursor에 네이티브 탑재된 Grok 4.7의 자가 검증 메커니즘, 요금제별 적용 범위 및 Responses API 연동 방법을 정리했습니다. AI 코딩 도구 활용법을 찾는 개발자에게 유용합니다.",
+      "lang": "ko"
     }
   ]
 }
