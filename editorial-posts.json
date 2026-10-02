@@ -2249,6 +2249,16 @@
       "summary": "Built-In Self-Verification: Grok 4.7 incorporates an internal critic during intermediate reasoning steps to catch logic errors and type mismatches before returning final code. Configurable Reasoning…",
       "description": "Built-In Self-Verification: Grok 4.7 incorporates an internal critic during intermediate reasoning steps to catch logic errors and type mismatches before returning final code. Configurable Reasoning Tiers: Four distinct effort levels allow developers to dynamically scale reasoning compute from sub-second quick fixes to intensive architectural refactoring. Native Cursor Ecosystem Support: Fully integrated as a first-party model inside Cursor for seamless multi-file editing, cloud agents, and enterprise deployments. Standardized API Architecture: Compatible with OpenAI-style SDKs while maintaining Chain-of-Thought continuity across multi-turn agent sessions via encrypted reasoning payloads. Tiered Long-Context Pricing: Maintains economical base rates for standard tasks while introducing stepped rate thresholds for complex, high-context workloads. Frontier Engineering Performance: Demonstrates state-of-the-art benchmark results across software engineering evaluations, outperforming predecessors on autonomous coding tasks.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-10-02T16:29:52+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/%EC%9E%85%EB%A0%A5%EC%9D%B4-%EC%95%84%EB%8B%88%EB%9D%BC-%EC%B6%9C%EB%A0%A5%EC%9D%B4-1M-Gemini-4-Argon-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EC%99%80-0.10-%EC%BA%90%EC%8B%B1-%EB%8B%A8%EA%B0%80-%EB%B6%84%EC%84%9D/",
+      "title": "입력이 아니라 출력이 1M? Gemini 4 Argon 아키텍처와 $0.10 캐싱 단가 분석",
+      "summary": "Google DeepMind의 Gemini 4 Argon이 구현한 100만 토큰 단일 출력 아키텍처와 캐싱 단가 및 벤치마크 결과를 분석합니다. 대규모 AI 도입을 검토하는 엔지니어를 위한 가이드입니다.",
+      "description": "Google DeepMind의 Gemini 4 Argon이 구현한 100만 토큰 단일 출력 아키텍처와 캐싱 단가 및 벤치마크 결과를 분석합니다. 대규모 AI 도입을 검토하는 엔지니어를 위한 가이드입니다.",
+      "lang": "ko"
     }
   ]
 }
