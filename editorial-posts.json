@@ -2229,6 +2229,16 @@
       "summary": "Unprecedented 1M Output Capacity: Gemini 4 Argon eliminates output constraints by generating up to one million tokens in a single response, enabling continuous reasoning across vast codebases and…",
       "description": "Unprecedented 1M Output Capacity: Gemini 4 Argon eliminates output constraints by generating up to one million tokens in a single response, enabling continuous reasoning across vast codebases and complex documents without chunking. Breakthrough Software Engineering: Outperforming leading frontier models on software benchmarks, Argon is actively powering large-scale memory optimizations and core system code migrations across Google's production fleet. Broad Enterprise & Multimodal Leadership: Top scores across business process automation, financial research, legal drafting, and long-video analysis highlight strong real-world economic utility. Autonomous Cyber Defense: Working alongside specialized tools like CodeMender, the model discovers zero-day vulnerabilities, simulates exploit paths, and generates verified security patches for critical infrastructure. Proactive Safety & Reasoning Transparency: Real-time chain-of-thought monitoring and hardened sandboxing prevent misuse while preserving full diagnostic visibility into internal model deliberations. Staged Deployment & Cost-Effective Economics: A phased rollout prioritizes verified security defenders and enterprise partners alongside aggressive input caching discounts.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-10-02T15:44:30+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/OpenAI-Dots-A-Guide-to-Persistent-Autonomous-AI-Agents-and-Cloud-Hosted-Virtual-Desktops",
+      "title": "OpenAI Dots: A Guide to Persistent Autonomous AI Agents and Cloud-Hosted Virtual Desktops",
+      "summary": "Persistent Cloud Environment: OpenAI Dots operates inside a dedicated, always-on virtual PC that continues executing complex workflows even after powering down your physical machine. Cross-Platform…",
+      "description": "Persistent Cloud Environment: OpenAI Dots operates inside a dedicated, always-on virtual PC that continues executing complex workflows even after powering down your physical machine. Cross-Platform Context: The agent unifies active memory and conversational state across ChatGPT, Slack, Microsoft Teams, and optional bridges to a single local desktop. Read-Only Safety Defaults: Background investigations remain strictly read-only, requiring explicit human authorization before modifying application data or triggering sensitive account actions. Tiered Subscription Access: A primary Dot is integrated into ChatGPT Pro, Business Premium, and Enterprise plans with an introductory deeper-work allowance during launch month. Practical Operational Limits: Persistent agents face real-world hurdles, including third-party browser anti-bot verifications, an unalterable closed runtime, and all-or-nothing memory reset controls.",
+      "lang": "en"
     }
   ]
 }
