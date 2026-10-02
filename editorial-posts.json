@@ -2259,6 +2259,16 @@
       "summary": "Google DeepMind의 Gemini 4 Argon이 구현한 100만 토큰 단일 출력 아키텍처와 캐싱 단가 및 벤치마크 결과를 분석합니다. 대규모 AI 도입을 검토하는 엔지니어를 위한 가이드입니다.",
       "description": "Google DeepMind의 Gemini 4 Argon이 구현한 100만 토큰 단일 출력 아키텍처와 캐싱 단가 및 벤치마크 결과를 분석합니다. 대규모 AI 도입을 검토하는 엔지니어를 위한 가이드입니다.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-10-02T16:41:12+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/%EC%BB%B4%ED%93%A8%ED%84%B0%EB%A5%BC-%EA%BA%BC%EB%8F%84-%ED%87%B4%EA%B7%BC%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94-AI-OpenAI-%EC%83%81%EC%A3%BC%ED%98%95-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-dots%EC%9D%98-%EA%B0%80%EB%8F%99-%EC%9B%90%EB%A6%AC/",
+      "title": "컴퓨터를 꺼도 퇴근하지 않는 AI: OpenAI 상주형 에이전트 'dots'의 가동 원리",
+      "summary": "OpenAI 상주형 에이전트 dots는 PC가 꺼져도 24시간 백그라운드에서 구동되는 클라우드 기반 AI 자동화 시스템입니다. AI 에이전트의 상시 가동 원리와 옴니채널 연동 방법을 확인하세요.",
+      "description": "OpenAI 상주형 에이전트 dots는 PC가 꺼져도 24시간 백그라운드에서 구동되는 클라우드 기반 AI 자동화 시스템입니다. AI 에이전트의 상시 가동 원리와 옴니채널 연동 방법을 확인하세요.",
+      "lang": "ko"
     }
   ]
 }
