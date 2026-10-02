@@ -2239,6 +2239,16 @@
       "summary": "Persistent Cloud Environment: OpenAI Dots operates inside a dedicated, always-on virtual PC that continues executing complex workflows even after powering down your physical machine. Cross-Platform…",
       "description": "Persistent Cloud Environment: OpenAI Dots operates inside a dedicated, always-on virtual PC that continues executing complex workflows even after powering down your physical machine. Cross-Platform Context: The agent unifies active memory and conversational state across ChatGPT, Slack, Microsoft Teams, and optional bridges to a single local desktop. Read-Only Safety Defaults: Background investigations remain strictly read-only, requiring explicit human authorization before modifying application data or triggering sensitive account actions. Tiered Subscription Access: A primary Dot is integrated into ChatGPT Pro, Business Premium, and Enterprise plans with an introductory deeper-work allowance during launch month. Practical Operational Limits: Persistent agents face real-world hurdles, including third-party browser anti-bot verifications, an unalterable closed runtime, and all-or-nothing memory reset controls.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-10-02T16:16:14+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Grok-4.7-Developer-Guide-Architecture-Reasoning-Tiers-and-Cursor-Integration",
+      "title": "Grok 4.7 Developer Guide: Architecture, Reasoning Tiers, and Cursor Integration",
+      "summary": "Built-In Self-Verification: Grok 4.7 incorporates an internal critic during intermediate reasoning steps to catch logic errors and type mismatches before returning final code. Configurable Reasoning…",
+      "description": "Built-In Self-Verification: Grok 4.7 incorporates an internal critic during intermediate reasoning steps to catch logic errors and type mismatches before returning final code. Configurable Reasoning Tiers: Four distinct effort levels allow developers to dynamically scale reasoning compute from sub-second quick fixes to intensive architectural refactoring. Native Cursor Ecosystem Support: Fully integrated as a first-party model inside Cursor for seamless multi-file editing, cloud agents, and enterprise deployments. Standardized API Architecture: Compatible with OpenAI-style SDKs while maintaining Chain-of-Thought continuity across multi-turn agent sessions via encrypted reasoning payloads. Tiered Long-Context Pricing: Maintains economical base rates for standard tasks while introducing stepped rate thresholds for complex, high-context workloads. Frontier Engineering Performance: Demonstrates state-of-the-art benchmark results across software engineering evaluations, outperforming predecessors on autonomous coding tasks.",
+      "lang": "en"
     }
   ]
 }
