@@ -2299,6 +2299,16 @@
       "summary": "Automated Foley Synthesis: Frameworks like FoleyCrafter translate silent visual frames into realistic, temporally aligned sound effects driven directly by video motion cues. Unified Generative Audio…",
       "description": "Automated Foley Synthesis: Frameworks like FoleyCrafter translate silent visual frames into realistic, temporally aligned sound effects driven directly by video motion cues. Unified Generative Audio: Meta's AudioCraft suite integrates foundational models such as MusicGen and AudioGen to produce tailored background scores and contextual acoustic elements. Hybrid Transformer Separation: Modern source separation engines like Demucs utilize dual-domain transformer encoders to isolate drums, bass, vocals, and instruments with minimal acoustic bleed. Flexible Inference Configurations: Optimized processing parameters allow stem extraction pipelines to scale from lightweight local GPU setups to high-throughput post-production batch rendering. Temporal Latent Dynamics: Advanced video diffusion architectures provide the visual temporal stability required for downstream acoustic feature mapping and sound matching. Cross-Modal Lip and Motion Sync: Multimodal alignment pipelines leverage symmetric attention and landmark conditioning to achieve tight synchronization between speech, environmental audio, and video frames. Modern Audio Architecture Migration: Industry workflows have shifted away from legacy convolutional splitters toward hybrid spectrogram-waveform transformers embedded directly in production environments.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-10-05T21:35:16+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/GPU-%EB%A9%94%EB%AA%A8%EB%A6%AC%EA%B0%80-%EB%B6%80%EC%A1%B1%ED%95%A0-%EB%95%8C-AI%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B8%B4-%EB%8C%80%ED%99%94%EB%A5%BC-%EA%B8%B0%EC%96%B5%ED%95%A0%EA%B9%8C-KV-%EC%BA%90%EC%8B%9C-%EC%95%95%EC%B6%95%EC%9D%98-%EC%9B%90%EB%A6%AC/",
+      "title": "GPU 메모리가 부족할 때 AI는 어떻게 긴 대화를 기억할까? KV 캐시 압축의 원리",
+      "summary": "대규모 언어 모델의 KV 캐시 메모리 병목을 해결하는 KIVI 2비트 양자화와 SnapKV 압축 기법의 원리와 성능을 분석합니다. LLM 엔지니어와 연구자를 위한 기술 가이드입니다.",
+      "description": "대규모 언어 모델의 KV 캐시 메모리 병목을 해결하는 KIVI 2비트 양자화와 SnapKV 압축 기법의 원리와 성능을 분석합니다. LLM 엔지니어와 연구자를 위한 기술 가이드입니다.",
+      "lang": "ko"
     }
   ]
 }
