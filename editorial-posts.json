@@ -2279,6 +2279,16 @@
       "summary": "Cursor에 네이티브 탑재된 Grok 4.7의 자가 검증 메커니즘, 요금제별 적용 범위 및 Responses API 연동 방법을 정리했습니다. AI 코딩 도구 활용법을 찾는 개발자에게 유용합니다.",
       "description": "Cursor에 네이티브 탑재된 Grok 4.7의 자가 검증 메커니즘, 요금제별 적용 범위 및 Responses API 연동 방법을 정리했습니다. AI 코딩 도구 활용법을 찾는 개발자에게 유용합니다.",
       "lang": "ko"
+    },
+    {
+      "published_at": "2026-10-05T21:21:47+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Serving-30B-LLMs-with-128k-Context-on-16GB-GPUs-vLLM-and-llama.cpp-Optimization-Guide",
+      "title": "Serving 30B LLMs with 128k Context on 16GB GPUs: vLLM and llama.cpp Optimization Guide",
+      "summary": "VRAM Bottleneck Resolution: Serving 30B-class models with 128k context windows on 16GB GPUs requires combining low-bit weight quantization with aggressive Key-Value (KV) cache compression. vLLM…",
+      "description": "VRAM Bottleneck Resolution: Serving 30B-class models with 128k context windows on 16GB GPUs requires combining low-bit weight quantization with aggressive Key-Value (KV) cache compression. vLLM Production Architecture: vLLM leverages PagedAttention, continuous batching, and native low-precision KV cache formats to maximize multi-user serving throughput. llama.cpp Local Efficiency: llama.cpp offers a lightweight, dependency-free runtime optimized for single-user latency and sub-byte integer weight formats on consumer hardware. Attention Kernel Scaling: FlashAttention and paged memory structures mitigate quadratic memory expansion, keeping activation footprints linear across long sequences. KV Cache Quantization Gains: Compressing attention states into FP8 or INT4 formats reduces per-token memory overhead by up to 75%, unlocking extreme context lengths in memory-constrained environments. Engine Selection Trade-offs: The choice between vLLM and llama.cpp balances operational throughput and framework overhead based on concurrency and deployment requirements.",
+      "lang": "en"
     }
   ]
 }
