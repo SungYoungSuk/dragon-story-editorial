@@ -2289,6 +2289,16 @@
       "summary": "VRAM Bottleneck Resolution: Serving 30B-class models with 128k context windows on 16GB GPUs requires combining low-bit weight quantization with aggressive Key-Value (KV) cache compression. vLLM…",
       "description": "VRAM Bottleneck Resolution: Serving 30B-class models with 128k context windows on 16GB GPUs requires combining low-bit weight quantization with aggressive Key-Value (KV) cache compression. vLLM Production Architecture: vLLM leverages PagedAttention, continuous batching, and native low-precision KV cache formats to maximize multi-user serving throughput. llama.cpp Local Efficiency: llama.cpp offers a lightweight, dependency-free runtime optimized for single-user latency and sub-byte integer weight formats on consumer hardware. Attention Kernel Scaling: FlashAttention and paged memory structures mitigate quadratic memory expansion, keeping activation footprints linear across long sequences. KV Cache Quantization Gains: Compressing attention states into FP8 or INT4 formats reduces per-token memory overhead by up to 75%, unlocking extreme context lengths in memory-constrained environments. Engine Selection Trade-offs: The choice between vLLM and llama.cpp balances operational throughput and framework overhead based on concurrency and deployment requirements.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-10-05T21:27:49+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Automated-Audiovisual-Synthesis-Integrating-FoleyCrafter-Meta-AudioCraft-and-Demucs-v4",
+      "title": "Automated Audiovisual Synthesis: Integrating FoleyCrafter, Meta AudioCraft, and Demucs v4",
+      "summary": "Automated Foley Synthesis: Frameworks like FoleyCrafter translate silent visual frames into realistic, temporally aligned sound effects driven directly by video motion cues. Unified Generative Audio…",
+      "description": "Automated Foley Synthesis: Frameworks like FoleyCrafter translate silent visual frames into realistic, temporally aligned sound effects driven directly by video motion cues. Unified Generative Audio: Meta's AudioCraft suite integrates foundational models such as MusicGen and AudioGen to produce tailored background scores and contextual acoustic elements. Hybrid Transformer Separation: Modern source separation engines like Demucs utilize dual-domain transformer encoders to isolate drums, bass, vocals, and instruments with minimal acoustic bleed. Flexible Inference Configurations: Optimized processing parameters allow stem extraction pipelines to scale from lightweight local GPU setups to high-throughput post-production batch rendering. Temporal Latent Dynamics: Advanced video diffusion architectures provide the visual temporal stability required for downstream acoustic feature mapping and sound matching. Cross-Modal Lip and Motion Sync: Multimodal alignment pipelines leverage symmetric attention and landmark conditioning to achieve tight synchronization between speech, environmental audio, and video frames. Modern Audio Architecture Migration: Industry workflows have shifted away from legacy convolutional splitters toward hybrid spectrogram-waveform transformers embedded directly in production environments.",
+      "lang": "en"
     }
   ]
 }
