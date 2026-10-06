@@ -2318,6 +2318,16 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-10-06T19:04:25+09:00"
+    },
+    {
+      "published_at": "2026-10-06T19:07:50+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/End-to-End-Pipeline-for-3D-Gaussian-Splatting-and-Unreal-Engine-5-Integration",
+      "title": "End-to-End Pipeline for 3D Gaussian Splatting and Unreal Engine 5 Integration",
+      "summary": "Automated Video-to-3DGS Conversion: Monocular video sequences can be transformed into dense volumetric radiance fields through streamlined Structure-from-Motion tracking and Gaussian point…",
+      "description": "Automated Video-to-3DGS Conversion: Monocular video sequences can be transformed into dense volumetric radiance fields through streamlined Structure-from-Motion tracking and Gaussian point calibration. Robust Scene Optimization: Modern 3D Gaussian pipelines leverage spatial priors and exposure adaptation to synthesize clean, artifact-free environments from uncalibrated camera captures. Precise Trajectory Conditioning: Dedicated camera trajectory architectures parameterize viewpoint motion paths, establishing seamless coordination between physical footage and virtual cameras. Mesh-Free Dynamic Physics: Continuum mechanics applied directly to Gaussian primitives enable natural material deformation without relying on polygonal meshes or proxy cages. Interactive Unreal Engine 5 Integration: Specialized Niagara workflows and Sequencer tooling allow technical artists to light, animate, and composite multi-million splat scenes within real-time virtual production timelines.",
+      "lang": "en"
     }
   ]
 }
