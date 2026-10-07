@@ -2348,6 +2348,16 @@
       "summary": "Radical Acceleration of R&D: Generative AI collapsed a traditionally decade-long discovery timeline into under 30 months from initial hypothesis to early clinical validation. Dual-Stage Computational…",
       "description": "Radical Acceleration of R&D: Generative AI collapsed a traditionally decade-long discovery timeline into under 30 months from initial hypothesis to early clinical validation. Dual-Stage Computational Discovery: The candidate represents a true end-to-end AI breakthrough, utilizing algorithms to discover both the biological target and the chemical molecule. Tackling Intractable Fibrosis: ISM001-055 specifically inhibits TNIK to halt debilitating pro-fibrotic signaling in idiopathic pulmonary fibrosis. Demonstrated Clinical Efficacy: Phase 2a clinical results confirmed solid safety and tolerability along with dose-dependent gains in forced vital capacity. A Precedent for Algorithmic Medicine: Successful human trials have transformed AI-driven molecular generation from theoretical ambition into clinically validated science.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-10-07T23:03:01+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/BitNet-b1.58-Ternary-Quantization-CPU-Native-Inference-and-Hardware-Efficiency",
+      "title": "BitNet b1.58 Ternary Quantization: CPU-Native Inference and Hardware Efficiency",
+      "summary": "Radical Architectural Shift: Native 1.58-bit models replace floating-point matrix multiplications with simple integer addition and subtraction, shrinking memory requirements by up to tenfold…",
+      "description": "Radical Architectural Shift: Native 1.58-bit models replace floating-point matrix multiplications with simple integer addition and subtraction, shrinking memory requirements by up to tenfold. Severing Cloud GPU Dependencies: Highly optimized ternary execution enables enterprise workloads to run directly on commodity CPUs and consumer hardware without requiring discrete accelerators. Over 90% Cost Evaporation: Shifting recurring token workloads from cloud GPU clusters to local CPU environments eliminates massive monthly cloud bills and shortens infrastructure break-even cycles. Preserved Algorithmic Accuracy: Quantization-aware training ensures ternary architectures maintain reasoning and comprehension parity comparable to standard full-precision baselines. High-Speed On-Device Intelligence: Consumer laptops and smartphones can now run multi-billion-parameter edge models locally at over a hundred tokens per second with total data sovereignty. Specialized Kernel Prerequisite: Capturing these performance and thermal gains requires purpose-built ternary execution runtimes rather than legacy deep learning framework stacks.",
+      "lang": "en"
     }
   ]
 }
