@@ -2328,6 +2328,16 @@
       "summary": "Automated Video-to-3DGS Conversion: Monocular video sequences can be transformed into dense volumetric radiance fields through streamlined Structure-from-Motion tracking and Gaussian point…",
       "description": "Automated Video-to-3DGS Conversion: Monocular video sequences can be transformed into dense volumetric radiance fields through streamlined Structure-from-Motion tracking and Gaussian point calibration. Robust Scene Optimization: Modern 3D Gaussian pipelines leverage spatial priors and exposure adaptation to synthesize clean, artifact-free environments from uncalibrated camera captures. Precise Trajectory Conditioning: Dedicated camera trajectory architectures parameterize viewpoint motion paths, establishing seamless coordination between physical footage and virtual cameras. Mesh-Free Dynamic Physics: Continuum mechanics applied directly to Gaussian primitives enable natural material deformation without relying on polygonal meshes or proxy cages. Interactive Unreal Engine 5 Integration: Specialized Niagara workflows and Sequencer tooling allow technical artists to light, animate, and composite multi-million splat scenes within real-time virtual production timelines.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-10-07T22:52:43+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/On-Device-Deliberative-Reasoning-and-Mobile-Heterogeneous-SoC-Architecture",
+      "title": "On-Device Deliberative Reasoning and Mobile Heterogeneous SoC Architecture",
+      "summary": "Deliberative Reasoning at the Edge: Compact reasoning architectures bring multi-step, internal chain-of-thought deliberation directly to mobile devices without constant cloud reliance. Heterogeneous…",
+      "description": "Deliberative Reasoning at the Edge: Compact reasoning architectures bring multi-step, internal chain-of-thought deliberation directly to mobile devices without constant cloud reliance. Heterogeneous SoC Synergy: Modern mobile chipsets integrate specialized CPU, GPU, and NPU cores on a single die to handle intensive neural workloads within strict smartphone thermal budgets. Overcoming Memory Bandwidth Limits: Dedicated neural processing units leverage localized on-chip memory architectures to alleviate data transfer bottlenecks during token generation. Concurrent Multi-Model Partitioning: Complex edge assistants divide multi-modal pipelines across distinct hardware blocks to sustain concurrent perception and response workflows. Extreme Quantization Efficiency: Native hardware support for ultra-low integer precision dramatically compresses deep models while preserving operational accuracy on edge silicon.",
+      "lang": "en"
     }
   ]
 }
