@@ -2338,6 +2338,16 @@
       "summary": "Deliberative Reasoning at the Edge: Compact reasoning architectures bring multi-step, internal chain-of-thought deliberation directly to mobile devices without constant cloud reliance. Heterogeneous…",
       "description": "Deliberative Reasoning at the Edge: Compact reasoning architectures bring multi-step, internal chain-of-thought deliberation directly to mobile devices without constant cloud reliance. Heterogeneous SoC Synergy: Modern mobile chipsets integrate specialized CPU, GPU, and NPU cores on a single die to handle intensive neural workloads within strict smartphone thermal budgets. Overcoming Memory Bandwidth Limits: Dedicated neural processing units leverage localized on-chip memory architectures to alleviate data transfer bottlenecks during token generation. Concurrent Multi-Model Partitioning: Complex edge assistants divide multi-modal pipelines across distinct hardware blocks to sustain concurrent perception and response workflows. Extreme Quantization Efficiency: Native hardware support for ultra-low integer precision dramatically compresses deep models while preserving operational accuracy on edge silicon.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-10-07T22:58:33+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/AI-Driven-Drug-Discovery-The-Clinical-Validation-and-Development-of-ISM001-055-for-Idiopathic-Pulmonary-Fibrosis",
+      "title": "AI-Driven Drug Discovery: The Clinical Validation and Development of ISM001-055 for Idiopathic Pulmonary Fibrosis",
+      "summary": "Radical Acceleration of R&D: Generative AI collapsed a traditionally decade-long discovery timeline into under 30 months from initial hypothesis to early clinical validation. Dual-Stage Computational…",
+      "description": "Radical Acceleration of R&D: Generative AI collapsed a traditionally decade-long discovery timeline into under 30 months from initial hypothesis to early clinical validation. Dual-Stage Computational Discovery: The candidate represents a true end-to-end AI breakthrough, utilizing algorithms to discover both the biological target and the chemical molecule. Tackling Intractable Fibrosis: ISM001-055 specifically inhibits TNIK to halt debilitating pro-fibrotic signaling in idiopathic pulmonary fibrosis. Demonstrated Clinical Efficacy: Phase 2a clinical results confirmed solid safety and tolerability along with dose-dependent gains in forced vital capacity. A Precedent for Algorithmic Medicine: Successful human trials have transformed AI-driven molecular generation from theoretical ambition into clinically validated science.",
+      "lang": "en"
     }
   ]
 }
