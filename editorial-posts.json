@@ -2377,6 +2377,16 @@
       "summary": "Trillion-Parameter MoE Architecture: Mistral Large 4 delivers massive model capacity with efficient per-token compute across an expansive 1-million-token context window. Immediate API Preview Access…",
       "description": "Trillion-Parameter MoE Architecture: Mistral Large 4 delivers massive model capacity with efficient per-token compute across an expansive 1-million-token context window. Immediate API Preview Access: Engineers can integrate the model directly through Mistral Studio endpoints prior to the open-weight release scheduled for late October 2026. Cost-Effective Token Economics: Public preview pricing offers an immediate 50% discount alongside dramatic cost reductions for cached input tokens. Native Multimodal Comprehension: An integrated vision encoder enables seamless parsing of document images, complex diagrams, and mixed-format payloads. Controllable Reasoning Depth: Configurable reasoning parameters allow applications to dynamically toggle between rapid generation and step-by-step chain-of-thought traces. Breaking Payload Response Structure: Enabling high reasoning returns structured content chunk arrays rather than standard strings, requiring updated client-side parser logic. Enterprise Hardware Demands: Self-hosting requires high-density multi-GPU infrastructure, making managed API integration the fastest path to production.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-10-08T23:45:50+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Building-a-Dual-Tier-Multi-Agent-Orchestration-Architecture-with-Claude-Opus-5.5-and-Claude-Haiku-5.5-on-Amazon-Bedrock",
+      "title": "Building a Dual-Tier Multi-Agent Orchestration Architecture with Claude Opus 5.5 and Claude Haiku 5.5 on Amazon Bedrock",
+      "summary": "Role-Specialized Orchestration: Claude Opus 5.5 handles high-level strategic reasoning and planning, while Claude Haiku 5.5 operates as a rapid, cost-efficient subagent execution layer. Scalable…",
+      "description": "Role-Specialized Orchestration: Claude Opus 5.5 handles high-level strategic reasoning and planning, while Claude Haiku 5.5 operates as a rapid, cost-efficient subagent execution layer. Scalable Worker Efficiency: Haiku 5.5 provides massive context handling and fast throughput to execute repetitive, well-defined operational tasks at scale. Dynamic Effort Tuning: Native model effort parameters enable teams to trade off reasoning depth against latency and cost without switching model families. Enterprise Cloud Readiness: Deploying the dual-agent architecture on Amazon Bedrock provides cross-region availability, granular IAM security, and automated observability.",
+      "lang": "en"
     }
   ]
 }
