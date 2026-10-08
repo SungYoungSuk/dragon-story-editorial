@@ -2358,6 +2358,15 @@
       "summary": "Radical Architectural Shift: Native 1.58-bit models replace floating-point matrix multiplications with simple integer addition and subtraction, shrinking memory requirements by up to tenfold…",
       "description": "Radical Architectural Shift: Native 1.58-bit models replace floating-point matrix multiplications with simple integer addition and subtraction, shrinking memory requirements by up to tenfold. Severing Cloud GPU Dependencies: Highly optimized ternary execution enables enterprise workloads to run directly on commodity CPUs and consumer hardware without requiring discrete accelerators. Over 90% Cost Evaporation: Shifting recurring token workloads from cloud GPU clusters to local CPU environments eliminates massive monthly cloud bills and shortens infrastructure break-even cycles. Preserved Algorithmic Accuracy: Quantization-aware training ensures ternary architectures maintain reasoning and comprehension parity comparable to standard full-precision baselines. High-Speed On-Device Intelligence: Consumer laptops and smartphones can now run multi-billion-parameter edge models locally at over a hundred tokens per second with total data sovereignty. Specialized Kernel Prerequisite: Capturing these performance and thermal gains requires purpose-built ternary execution runtimes rather than legacy deep learning framework stacks.",
       "lang": "en"
+    },
+    {
+      "title": "Mistral Large 4 공개: 1.05조 파라미터와 5% 희소 MoE 아키텍처 도입",
+      "url": "https://dragon-story.com/entry/Mistral-Large-4-%EA%B3%B5%EA%B0%9C-1.05%EC%A1%B0-%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0%EC%99%80-5pct-%ED%9D%AC%EC%86%8C-MoE-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EB%8F%84%EC%9E%85",
+      "description": "Mistral AI가 공개한 Mistral Large 4는 1.05조 파라미터와 약 5%의 희소 활성화를 적용한 MoE 아키텍처 기반의 범용 오픈웨이트 멀티모달 모델입니다. 16억 비전 인코더, 100만 토큰 컨텍스트 및 유럽 주권 인프라 학습 특징을 담고 있습니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-10-08T20:46:30+09:00"
     }
   ]
 }
