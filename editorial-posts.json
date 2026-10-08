@@ -2367,6 +2367,16 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-10-08T20:46:30+09:00"
+    },
+    {
+      "published_at": "2026-10-08T21:06:29+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Mistral-Large-4-API-Integration-Guide-1M-Token-Context-MoE-Architecture-and-Token-Economics",
+      "title": "Mistral Large 4 API Integration Guide: 1M Token Context, MoE Architecture, and Token Economics",
+      "summary": "Trillion-Parameter MoE Architecture: Mistral Large 4 delivers massive model capacity with efficient per-token compute across an expansive 1-million-token context window. Immediate API Preview Access…",
+      "description": "Trillion-Parameter MoE Architecture: Mistral Large 4 delivers massive model capacity with efficient per-token compute across an expansive 1-million-token context window. Immediate API Preview Access: Engineers can integrate the model directly through Mistral Studio endpoints prior to the open-weight release scheduled for late October 2026. Cost-Effective Token Economics: Public preview pricing offers an immediate 50% discount alongside dramatic cost reductions for cached input tokens. Native Multimodal Comprehension: An integrated vision encoder enables seamless parsing of document images, complex diagrams, and mixed-format payloads. Controllable Reasoning Depth: Configurable reasoning parameters allow applications to dynamically toggle between rapid generation and step-by-step chain-of-thought traces. Breaking Payload Response Structure: Enabling high reasoning returns structured content chunk arrays rather than standard strings, requiring updated client-side parser logic. Enterprise Hardware Demands: Self-hosting requires high-density multi-GPU infrastructure, making managed API integration the fastest path to production.",
+      "lang": "en"
     }
   ]
 }
