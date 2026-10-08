@@ -2406,6 +2406,15 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-10-08T23:59:33+09:00"
+    },
+    {
+      "title": "환자 없는 임상시험의 탄생: 컴퓨터 속 가상 환자가 신약 실패를 막는 법",
+      "url": "https://dragon-story.com/entry/%ED%99%98%EC%9E%90-%EC%97%86%EB%8A%94-%EC%9E%84%EC%83%81%EC%8B%9C%ED%97%98%EC%9D%98-%ED%83%84%EC%83%9D-%EC%BB%B4%ED%93%A8%ED%84%B0-%EC%86%8D-%EA%B0%80%EC%83%81-%ED%99%98%EC%9E%90%EA%B0%80-%EC%8B%A0%EC%95%BD-%EC%8B%A4%ED%8C%A8%EB%A5%BC-%EB%A7%89%EB%8A%94-%EB%B2%95",
+      "description": "컴퓨터 시뮬레이션을 통해 신약 개발과 의료기기 검증의 임상 3상 실패 리스크를 낮추는 인실리코 임상시험과 가상 환자 모델의 동작 메커니즘, 글로벌 실증 사례 및 규제 동향을 살펴봅니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-10-09T00:03:51+09:00"
     }
   ]
 }
