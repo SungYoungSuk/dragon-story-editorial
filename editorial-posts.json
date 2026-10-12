@@ -2443,6 +2443,16 @@
       "summary": "Rethinking Disruption Benchmarks: Autonomous mobility disruption models must be measured against the fully loaded operating overhead of commercial human rideshare rather than private commuter…",
       "description": "Rethinking Disruption Benchmarks: Autonomous mobility disruption models must be measured against the fully loaded operating overhead of commercial human rideshare rather than private commuter vehicles. Empirical Price Pressure: Early metropolitan commercial data demonstrates that autonomous robotaxis are already undercutting conventional ride-hailing fares and eliminating dynamic surge pricing. Early Labor Displacement: High-density autonomous vehicle operating zones are registering visible declines in human driver trip frequency, vehicle utilization, and net hourly compensation. Institutional Expansion Hurdles: Regulatory scrutiny and broad societal adoption anxieties have surpassed core manufacturing unit economics as the primary limiting constraints to scaling. Divergent Fleet Architectures: The competition between pure vision-based platforms and multi-sensor fusion stacks introduces vastly different operational expenditure, depot infrastructure, and maintenance demands.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-10-12T22:18:57+09:00",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "url": "https://dragon-story.com/entry/Transformers.js-v3-%EC%9B%90%EB%A6%AC-WebGPU%EC%99%80-ONNX-Runtime%EC%9C%BC%EB%A1%9C-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EB%A1%9C%EC%BB%AC-AI-%EC%B6%94%EB%A1%A0-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/",
+      "title": "Transformers.js v3 원리: WebGPU와 ONNX Runtime으로 브라우저 로컬 AI 추론 구현하기",
+      "summary": "WebGPU 하드웨어 가속: ONNX Runtime Web 연동을 통해 기존 WASM 방식 대비 최대 100배 빠른 온디바이스 추론 속도를 실현합니다. 정밀한 양자화 제어: fp16부터 4비트(q4)까지 다양한 데이터 타입을 지원하며 모듈별 최적화로 네트워크 대역폭 부담을 최소화합니다. 방대한 모델 생태계: 120개 머신러닝 아키텍처와 1,200개 이상의…",
+      "description": "WebGPU 하드웨어 가속: ONNX Runtime Web 연동을 통해 기존 WASM 방식 대비 최대 100배 빠른 온디바이스 추론 속도를 실현합니다.\n정밀한 양자화 제어: fp16부터 4비트(q4)까지 다양한 데이터 타입을 지원하며 모듈별 최적화로 네트워크 대역폭 부담을 최소화합니다.\n방대한 모델 생태계: 120개 머신러닝 아키텍처와 1,200개 이상의 사전 변환 모델을 웹 브라우저 및 서버사이드 자바스크립트 런타임에서 즉시 활용할 수 있습니다.\n완전한 제로 서버 아키텍처: 백엔드 서버 구축이나 토큰당 API 요금 없이 브라우저 캐시와 로컬 GPU 자원만으로 독립적인 인공지능 기능을 완성합니다.",
+      "lang": "ko"
     }
   ]
 }
