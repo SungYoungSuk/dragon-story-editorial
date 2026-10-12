@@ -2433,6 +2433,16 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-10-12T21:15:32+09:00"
+    },
+    {
+      "published_at": "2026-10-12T21:35:43+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Autonomous-Mobility-Disruption-Economics-Metro-Fare-Dynamics-and-Labor-Impacts",
+      "title": "Autonomous Mobility Disruption: Economics, Metro Fare Dynamics, and Labor Impacts",
+      "summary": "Rethinking Disruption Benchmarks: Autonomous mobility disruption models must be measured against the fully loaded operating overhead of commercial human rideshare rather than private commuter…",
+      "description": "Rethinking Disruption Benchmarks: Autonomous mobility disruption models must be measured against the fully loaded operating overhead of commercial human rideshare rather than private commuter vehicles. Empirical Price Pressure: Early metropolitan commercial data demonstrates that autonomous robotaxis are already undercutting conventional ride-hailing fares and eliminating dynamic surge pricing. Early Labor Displacement: High-density autonomous vehicle operating zones are registering visible declines in human driver trip frequency, vehicle utilization, and net hourly compensation. Institutional Expansion Hurdles: Regulatory scrutiny and broad societal adoption anxieties have surpassed core manufacturing unit economics as the primary limiting constraints to scaling. Divergent Fleet Architectures: The competition between pure vision-based platforms and multi-sensor fusion stacks introduces vastly different operational expenditure, depot infrastructure, and maintenance demands.",
+      "lang": "en"
     }
   ]
 }
