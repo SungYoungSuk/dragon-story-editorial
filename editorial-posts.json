@@ -2462,6 +2462,15 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-10-13T19:38:18+09:00"
+    },
+    {
+      "title": "마이크로소프트, 3세대 AI 가속기 'Azure Maia 300' 발표 및 2027년 배포 로드맵 공개",
+      "url": "https://dragon-story.com/entry/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8-3%EC%84%B8%EB%8C%80-AI-%EA%B0%80%EC%86%8D%EA%B8%B0-Azure-Maia-300-%EB%B0%9C%ED%91%9C-%EB%B0%8F-2027%EB%85%84-%EB%B0%B0%ED%8F%AC-%EB%A1%9C%EB%93%9C%EB%A7%B5-%EA%B3%B5%EA%B0%9C/",
+      "description": "마이크로소프트가 엔비디아 의존도를 낮추기 위해 3세대 AI 가속기 'Azure Maia 300'을 발표했습니다. TSMC N2P 공정과 HBM4를 탑재한 추론 우선 아키텍처로 2027년부터 멀티 기가와트 규모로 배포될 예정입니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-10-13T19:39:36+09:00"
     }
   ]
 }
