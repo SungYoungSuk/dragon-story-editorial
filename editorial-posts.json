@@ -2471,6 +2471,16 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-10-13T19:39:36+09:00"
+    },
+    {
+      "published_at": "2026-10-13T19:45:45+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Azure-Maia-Architecture-Engineering-Vertical-Co-Design-and-Liquid-Cooled-Inference-Infrastructure",
+      "title": "Azure Maia Architecture: Engineering Vertical Co-Design and Liquid-Cooled Inference Infrastructure",
+      "summary": "Full-Stack Vertical Co-Design: The Azure Maia architecture represents a generational shift toward vertically co-engineered inference infrastructure, integrating custom silicon, host compute…",
+      "description": "Full-Stack Vertical Co-Design: The Azure Maia architecture represents a generational shift toward vertically co-engineered inference infrastructure, integrating custom silicon, host compute, high-density trays, and facility-level liquid cooling. Open Networking Over Proprietary Fabrics: Interconnect topologies discard proprietary scale-up switches in favor of an Ultra Ethernet-aligned, two-tier network unified under the Microsoft Collective Communication Library (MCCL). Compiler-Driven Software Abstraction: Workloads bypass CUDA dependencies through PyTorch and ONNX Runtime hooks, leveraging a purpose-built Triton compilation backend and the Nested Parallel Language (NPL) for explicit memory management. Thermal and Power Density Engineering: High-density tray architectures employ specialized liquid cooling to capture over eighty percent of thermal dissipation across accelerators, voltage regulators, and network ASICs. First-Party Workload Specialization: Production deployments focus exclusively on optimizing latency and cost-per-token for hyperscale services like Azure OpenAI, Copilot, and Azure AI Foundry rather than standard public cloud virtual machines.",
+      "lang": "en"
     }
   ]
 }
