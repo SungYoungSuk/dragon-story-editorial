@@ -2518,6 +2518,16 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-10-14T21:35:02+09:00"
+    },
+    {
+      "published_at": "2026-10-14T21:41:35+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/European-Automotive-Industry-Adopts-Open-Source-Paradigm-for-Software-Defined-Vehicles-and-Physical-AI",
+      "title": "European Automotive Industry Adopts Open-Source Paradigm for Software-Defined Vehicles and Physical AI",
+      "summary": "European industrial leaders and research labs are pursuing an open-source paradigm shift to prevent Big Tech monopolies from dominating autonomous vehicle platforms. Initiatives like Eclipse SDV…",
+      "description": "European industrial leaders and research labs are pursuing an open-source paradigm shift to prevent Big Tech monopolies from dominating autonomous vehicle platforms. Initiatives like Eclipse SDV deliver vendor-neutral, code-first architectures that unify core middleware and vehicle orchestration frameworks. Strategic research collaborations, including Valeo and KE:SAI, aim to democratize frontier physical AI by releasing models, weights, and datasets publicly. Backed by the German VDA and the European Commission's ECAVA, cross-industry alliances are co-developing non-differentiating software layers to drastically reduce R&D overhead.",
+      "lang": "en"
     }
   ]
 }
