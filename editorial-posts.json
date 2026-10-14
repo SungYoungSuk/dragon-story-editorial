@@ -2491,6 +2491,15 @@
       "summary": "Contractual IP Indemnification: Adobe absorbs legal liabilities by contractually defending enterprise customers against copyright, trademark, and privacy infringement claims on eligible Firefly…",
       "description": "Contractual IP Indemnification: Adobe absorbs legal liabilities by contractually defending enterprise customers against copyright, trademark, and privacy infringement claims on eligible Firefly outputs. Automated Compliance via Content Credentials: Built-in C2PA metadata transparently tracks AI provenance across all asset exports, satisfying advertising standards without manual logging. Native Creative Cloud Timeline Integration: Direct integration within Premiere Pro and After Effects accelerates video workflows, enabling instant B-roll generation directly on editing timelines. Brand-Safe Customization at Scale: Enterprises can train private Custom Brand Models on proprietary assets while preserving core IP protections and prompt-level governance. Commercial Viability Over Raw Novelty: While competing models focus heavily on unrestricted artistic generation, Adobe prioritizes the legal certainty and workflow cohesion required for corporate production.",
       "lang": "en"
+    },
+    {
+      "title": "발레오와 KE:SAI, 프랑스-독일 연합 오픈소스 자율주행 파운데이션 모델 프로젝트 출범",
+      "url": "https://dragon-story.com/entry/%EB%B0%9C%EB%A0%88%EC%98%A4%EC%99%80-KESAI-%ED%94%84%EB%9E%91%EC%8A%A4-%EB%8F%85%EC%9D%BC-%EC%97%B0%ED%95%A9-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89-%ED%8C%8C%EC%9A%B4%EB%8D%B0%EC%9D%B4%EC%85%98-%EB%AA%A8%EB%8D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%B6%9C%EB%B2%94/",
+      "description": "글로벌 전장 기업 발레오와 오픈AI 연구소 KE:SAI가 전면 오픈소스 자율주행 파운데이션 모델 개발을 위한 프랑스-독일 연합 프로젝트를 출범했습니다. 신경망 가중치와 데이터셋을 전면 공개하여 독점형 생태계에 대응합니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-10-14T21:24:15+09:00"
     }
   ]
 }
