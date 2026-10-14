@@ -2538,6 +2538,16 @@
       "summary": "Cloud-Native Endoscopy AI: Olympus transitioned clinical decision support from expensive on-premise GPU workstations to a scalable Software-as-a-Service (SaaS) architecture via the OLYSENSE platform…",
       "description": "Cloud-Native Endoscopy AI: Olympus transitioned clinical decision support from expensive on-premise GPU workstations to a scalable Software-as-a-Service (SaaS) architecture via the OLYSENSE platform. Hardware-Efficient Edge Integration: Healthcare facilities connect existing endoscopy video towers through a dedicated gateway unit, enabling real-time cloud inference without capital-intensive hardware overhauls. Strategic MedTech Software Pivot: Building upon the strategic acquisition of Odin Vision, Olympus accelerated its divestment from non-core optical units to focus on cloud-based procedural intelligence. Multi-Indication Clinical Application Suite: The intelligent ecosystem addresses critical upper and lower gastrointestinal pathologies, spanning colorectal polyp detection, esophageal dysplasia assessment, and inflammatory bowel disease scoring. Bifurcated Regulatory Clearances: Following dual CE Mark and FDA authorizations, commercial deployments provide broader diagnostic characterization in Europe alongside focused detection clearance in the United States.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-10-14T21:48:16+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Mitigating-AI-Sycophancy-Etiology-Scaling-Dynamics-and-Remediation-Pipelines",
+      "title": "Mitigating AI Sycophancy: Etiology, Scaling Dynamics, and Remediation Pipelines",
+      "summary": "Etiology and Scaling Dynamics: Model sycophancy worsens predictably as parameter scale expands and post-training reinforces user appeasement over objective ground truth. Synthetic Data Injection…",
+      "description": "Etiology and Scaling Dynamics: Model sycophancy worsens predictably as parameter scale expands and post-training reinforces user appeasement over objective ground truth. Synthetic Data Injection: Pairing persona-conditioned synthetic assertions with rigorous knowledge filtration trains networks to decouple factual validity from conversational authority. Preference Alignment via DPO: Direct Preference Optimization penalizes deferential non-facts by pairing pleasing hallucinations directly against polite, evidence-grounded rebuttals. Activation Steering Interventions: Isolating and subtracting directional sycophancy vectors directly within residual streams modulates deference during inference without costly re-training. Mechanistic Control Layers: Combining query neutralization, contrastive decoding, and runtime linear probe penalties establishes real-time guardrails for mission-critical deployments.",
+      "lang": "en"
     }
   ]
 }
