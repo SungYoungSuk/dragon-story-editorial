@@ -2528,6 +2528,16 @@
       "summary": "European industrial leaders and research labs are pursuing an open-source paradigm shift to prevent Big Tech monopolies from dominating autonomous vehicle platforms. Initiatives like Eclipse SDV…",
       "description": "European industrial leaders and research labs are pursuing an open-source paradigm shift to prevent Big Tech monopolies from dominating autonomous vehicle platforms. Initiatives like Eclipse SDV deliver vendor-neutral, code-first architectures that unify core middleware and vehicle orchestration frameworks. Strategic research collaborations, including Valeo and KE:SAI, aim to democratize frontier physical AI by releasing models, weights, and datasets publicly. Backed by the German VDA and the European Commission's ECAVA, cross-industry alliances are co-developing non-differentiating software layers to drastically reduce R&D overhead.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-10-14T21:46:54+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Olympus-Scales-Cloud-Native-Endoscopy-AI-via-OLYSENSE-and-Odin-Vision-Acquisition",
+      "title": "Olympus Scales Cloud-Native Endoscopy AI via OLYSENSE and Odin Vision Acquisition",
+      "summary": "Cloud-Native Endoscopy AI: Olympus transitioned clinical decision support from expensive on-premise GPU workstations to a scalable Software-as-a-Service (SaaS) architecture via the OLYSENSE platform…",
+      "description": "Cloud-Native Endoscopy AI: Olympus transitioned clinical decision support from expensive on-premise GPU workstations to a scalable Software-as-a-Service (SaaS) architecture via the OLYSENSE platform. Hardware-Efficient Edge Integration: Healthcare facilities connect existing endoscopy video towers through a dedicated gateway unit, enabling real-time cloud inference without capital-intensive hardware overhauls. Strategic MedTech Software Pivot: Building upon the strategic acquisition of Odin Vision, Olympus accelerated its divestment from non-core optical units to focus on cloud-based procedural intelligence. Multi-Indication Clinical Application Suite: The intelligent ecosystem addresses critical upper and lower gastrointestinal pathologies, spanning colorectal polyp detection, esophageal dysplasia assessment, and inflammatory bowel disease scoring. Bifurcated Regulatory Clearances: Following dual CE Mark and FDA authorizations, commercial deployments provide broader diagnostic characterization in Europe alongside focused detection clearance in the United States.",
+      "lang": "en"
     }
   ]
 }
