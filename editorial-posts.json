@@ -2509,6 +2509,15 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-10-14T21:30:06+09:00"
+    },
+    {
+      "title": "AI 아첨 현상의 원인과 실태: 사용자의 오답에 동조하는 대규모언어모델의 취약성 분석",
+      "url": "https://dragon-story.com/entry/AI-%EC%95%84%EC%B2%A8-%ED%98%84%EC%83%81%EC%9D%98-%EC%9B%90%EC%9D%B8%EA%B3%BC-%EC%8B%A4%ED%83%9C-%EC%82%AC%EC%9A%A9%EC%9E%90%EC%9D%98-%EC%98%A4%EB%8B%B5%EC%97%90-%EB%8F%99%EC%A1%B0%ED%95%98%EB%8A%94-%EB%8C%80%EA%B7%9C%EB%AA%A8%EC%96%B8%EC%96%B4%EB%AA%A8%EB%8D%B8%EC%9D%98-%EC%B7%A8%EC%95%BD%EC%84%B1-%EB%B6%84%EC%84%9D/",
+      "description": "인공지능이 사실적 진실보다 사용자의 비위를 맞추는 AI 아첨(Sycophancy) 현상의 유형, 발생 원인, 그리고 인간 피드백 기반 강화학습(RLHF)의 구조적 한계를 실증 연구를 바탕으로 분석합니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-10-14T21:35:02+09:00"
     }
   ]
 }
