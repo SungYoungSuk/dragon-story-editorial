@@ -2566,6 +2566,16 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-10-15T19:59:58+09:00"
+    },
+    {
+      "published_at": "2026-10-15T20:10:56+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Edge-AI-Architecture-and-Deployment-Evaluating-Ministral-3B-and-8B-for-Enterprise-Sovereignty",
+      "title": "Edge AI Architecture and Deployment: Evaluating Ministral 3B and 8B for Enterprise Sovereignty",
+      "summary": "Next-Generation Edge Architecture: Compact sub-10B parameter models deliver frontier-class reasoning and function-calling directly within resource-constrained endpoint environments. Strict Data…",
+      "description": "Next-Generation Edge Architecture: Compact sub-10B parameter models deliver frontier-class reasoning and function-calling directly within resource-constrained endpoint environments. Strict Data Sovereignty: Confining inference execution to on-premises hardware and local devices eliminates prompt egress and neutralizes exposure to third-party cloud vulnerabilities. Efficient Agentic Orchestration: Lightweight local models excel as low-latency intermediaries, performing parsing, task filtering, and routine tool execution across hybrid agent workflows. Optimized Infrastructure Adaptability: Enterprise licensing and specialized model quantization empower organizations to deploy high-efficiency architectures across private fleets without sacrificing accuracy. Freedom from Closed Ecosystems: Transitioning toward self-hosted open-weight architectures insulates critical enterprise systems against escalating API costs, sudden policy shifts, and proprietary vendor lock-in.",
+      "lang": "en"
     }
   ]
 }
