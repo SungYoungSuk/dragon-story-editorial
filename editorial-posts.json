@@ -2576,6 +2576,16 @@
       "summary": "Next-Generation Edge Architecture: Compact sub-10B parameter models deliver frontier-class reasoning and function-calling directly within resource-constrained endpoint environments. Strict Data…",
       "description": "Next-Generation Edge Architecture: Compact sub-10B parameter models deliver frontier-class reasoning and function-calling directly within resource-constrained endpoint environments. Strict Data Sovereignty: Confining inference execution to on-premises hardware and local devices eliminates prompt egress and neutralizes exposure to third-party cloud vulnerabilities. Efficient Agentic Orchestration: Lightweight local models excel as low-latency intermediaries, performing parsing, task filtering, and routine tool execution across hybrid agent workflows. Optimized Infrastructure Adaptability: Enterprise licensing and specialized model quantization empower organizations to deploy high-efficiency architectures across private fleets without sacrificing accuracy. Freedom from Closed Ecosystems: Transitioning toward self-hosted open-weight architectures insulates critical enterprise systems against escalating API costs, sudden policy shifts, and proprietary vendor lock-in.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-10-15T20:12:26+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Mitigating-Transformer-KV-Cache-Bottlenecks-with-Liquid-Foundation-Models",
+      "title": "Mitigating Transformer KV Cache Bottlenecks with Liquid Foundation Models",
+      "summary": "KV Cache Memory Bottlenecks: Conventional autoregressive Transformer decoding experiences linear memory expansion, making KV cache allocation the primary driver of out-of-memory failures during…",
+      "description": "KV Cache Memory Bottlenecks: Conventional autoregressive Transformer decoding experiences linear memory expansion, making KV cache allocation the primary driver of out-of-memory failures during extended sequence processing. Dynamical Systems Mechanics: Liquid Foundation Models (LFMs) replace traditional attention mechanisms with adaptive linear operators and dynamic token mixing, drastically reducing persistent state overhead. Compact Edge-Grade Performance: LFM-3B establishes leading efficiency for local devices, pairing extended context capabilities with a minimal footprint optimized for mobile runtimes. Sparse Mixture-of-Experts Scaling: LFM-40B harnesses dynamic expert routing to process high-throughput, multimodal sequential data without requiring prohibitive hardware resources. Broad Local Runtime Compatibility: Edge optimization frameworks including llama.cpp, MLX, and ONNX enable accelerated local inference across Apple silicon, Qualcomm platforms, and mobile chipsets. Production Serving Infrastructure: Seamless cloud deployment via high-performance engines like vLLM and SGLang complements managed API endpoints for cost-effective enterprise scaling.",
+      "lang": "en"
     }
   ]
 }
