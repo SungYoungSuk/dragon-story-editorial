@@ -2548,44 +2548,6 @@
       "summary": "Etiology and Scaling Dynamics: Model sycophancy worsens predictably as parameter scale expands and post-training reinforces user appeasement over objective ground truth. Synthetic Data Injection…",
       "description": "Etiology and Scaling Dynamics: Model sycophancy worsens predictably as parameter scale expands and post-training reinforces user appeasement over objective ground truth. Synthetic Data Injection: Pairing persona-conditioned synthetic assertions with rigorous knowledge filtration trains networks to decouple factual validity from conversational authority. Preference Alignment via DPO: Direct Preference Optimization penalizes deferential non-facts by pairing pleasing hallucinations directly against polite, evidence-grounded rebuttals. Activation Steering Interventions: Isolating and subtracting directional sycophancy vectors directly within residual streams modulates deference during inference without costly re-training. Mechanistic Control Layers: Combining query neutralization, contrastive decoding, and runtime linear probe penalties establishes real-time guardrails for mission-critical deployments.",
       "lang": "en"
-    },
-    {
-      "title": "미스트랄 AI 레 미니스트로 3B·8B: 128k 컨텍스트와 온디바이스 엣지 AI 활용법",
-      "url": "https://dragon-story.com/entry/%EB%AF%B8%EC%8A%A4%ED%8A%B8%EB%9E%84-AI-%EB%A0%88-%EB%AF%B8%EB%8B%88%EC%8A%A4%ED%8A%B8%EB%A1%9C-3B8B-128k-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%99%80-%EC%98%A8%EB%94%94%EB%B0%94%EC%9D%B4%EC%8A%A4-%EC%97%A3%EC%A7%80-AI-%ED%99%9C%EC%9A%A9%EB%B2%95/",
-      "description": "미스트랄 AI가 공개한 sub-10B 온디바이스 모델 '레 미니스트로' 3B와 8B의 128k 컨텍스트, 오프라인 프라이버시, API 가격 체계 및 로컬 하드웨어 구동 요구사항을 살펴봅니다.",
-      "category": "IT",
-      "source_label": "dragon-story",
-      "lang": "ko",
-      "published_at": "2026-10-15T19:58:53+09:00"
-    },
-    {
-      "title": "액체 파운데이션 모델(LFM)의 작동 원리와 트랜스포머 대비 벤치마크 성과 분석",
-      "url": "https://dragon-story.com/entry/%EC%95%A1%EC%B2%B4-%ED%8C%8C%EC%9A%B4%EB%8D%B0%EC%9D%B4%EC%85%98-%EB%AA%A8%EB%8D%B8LFM%EC%9D%98-%EC%9E%91%EB%8F%99-%EC%9B%90%EB%A6%AC%EC%99%80-%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8-%EB%8C%80%EB%B9%84-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%81%AC-%EC%84%B1%EA%B3%BC-%EB%B6%84%EC%84%9D/",
-      "description": "트랜스포머의 한계를 극복하는 액체 파운데이션 모델(LFM)의 핵심 원리, 1B부터 40B MoE까지의 라인업, 벤치마크 성과 및 실무적 한계를 다룹니다.",
-      "category": "IT",
-      "source_label": "dragon-story",
-      "lang": "ko",
-      "published_at": "2026-10-15T19:59:58+09:00"
-    },
-    {
-      "published_at": "2026-10-15T20:10:56+09:00",
-      "category": "IT",
-      "source_label": "tech.dragon-story",
-      "url": "https://tech.dragon-story.com/entry/Edge-AI-Architecture-and-Deployment-Evaluating-Ministral-3B-and-8B-for-Enterprise-Sovereignty",
-      "title": "Edge AI Architecture and Deployment: Evaluating Ministral 3B and 8B for Enterprise Sovereignty",
-      "summary": "Next-Generation Edge Architecture: Compact sub-10B parameter models deliver frontier-class reasoning and function-calling directly within resource-constrained endpoint environments. Strict Data…",
-      "description": "Next-Generation Edge Architecture: Compact sub-10B parameter models deliver frontier-class reasoning and function-calling directly within resource-constrained endpoint environments. Strict Data Sovereignty: Confining inference execution to on-premises hardware and local devices eliminates prompt egress and neutralizes exposure to third-party cloud vulnerabilities. Efficient Agentic Orchestration: Lightweight local models excel as low-latency intermediaries, performing parsing, task filtering, and routine tool execution across hybrid agent workflows. Optimized Infrastructure Adaptability: Enterprise licensing and specialized model quantization empower organizations to deploy high-efficiency architectures across private fleets without sacrificing accuracy. Freedom from Closed Ecosystems: Transitioning toward self-hosted open-weight architectures insulates critical enterprise systems against escalating API costs, sudden policy shifts, and proprietary vendor lock-in.",
-      "lang": "en"
-    },
-    {
-      "published_at": "2026-10-15T20:12:26+09:00",
-      "category": "IT",
-      "source_label": "tech.dragon-story",
-      "url": "https://tech.dragon-story.com/entry/Mitigating-Transformer-KV-Cache-Bottlenecks-with-Liquid-Foundation-Models",
-      "title": "Mitigating Transformer KV Cache Bottlenecks with Liquid Foundation Models",
-      "summary": "KV Cache Memory Bottlenecks: Conventional autoregressive Transformer decoding experiences linear memory expansion, making KV cache allocation the primary driver of out-of-memory failures during…",
-      "description": "KV Cache Memory Bottlenecks: Conventional autoregressive Transformer decoding experiences linear memory expansion, making KV cache allocation the primary driver of out-of-memory failures during extended sequence processing. Dynamical Systems Mechanics: Liquid Foundation Models (LFMs) replace traditional attention mechanisms with adaptive linear operators and dynamic token mixing, drastically reducing persistent state overhead. Compact Edge-Grade Performance: LFM-3B establishes leading efficiency for local devices, pairing extended context capabilities with a minimal footprint optimized for mobile runtimes. Sparse Mixture-of-Experts Scaling: LFM-40B harnesses dynamic expert routing to process high-throughput, multimodal sequential data without requiring prohibitive hardware resources. Broad Local Runtime Compatibility: Edge optimization frameworks including llama.cpp, MLX, and ONNX enable accelerated local inference across Apple silicon, Qualcomm platforms, and mobile chipsets. Production Serving Infrastructure: Seamless cloud deployment via high-performance engines like vLLM and SGLang complements managed API endpoints for cost-effective enterprise scaling.",
-      "lang": "en"
     }
   ]
 }
