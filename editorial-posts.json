@@ -2576,6 +2576,16 @@
       "summary": "Executive Announcement: Replit CEO Amjad Masad announced onstage at TechCrunch Disrupt that the development platform has moved away from its primary partnership with Anthropic. OpenAI Alignment: The…",
       "description": "Executive Announcement: Replit CEO Amjad Masad announced onstage at TechCrunch Disrupt that the development platform has moved away from its primary partnership with Anthropic. OpenAI Alignment: The strategic shift favors OpenAI, citing superior performance in generating applications from scratch, favorable pricing, and collaborative terms. Contested Status: Despite Masad's public remarks, sources close to the partnership indicate underlying contractual ties remain active, with Anthropic models still visible across Replit's catalog. Free Mode Launch: The collaboration launched earlier this quarter introduces an OpenAI-powered Free Mode, allowing Core subscribers significantly higher creation limits without consuming standard credits. Advanced Architecture: Replit's automated agent routing coordinates complex subagent execution workflows across proprietary benchmarks while dynamically balancing cost and reasoning depth. Enterprise Expansion: Rapid enterprise adoption has fueled sharp B2B revenue growth and strong retention metrics as Replit targets operational profitability and a potential public offering.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-10-17T16:27:16+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/How-EnvHarness-Adapts-Training-Environments-for-Agents",
+      "title": "How EnvHarness Adapts Training Environments for Agents",
+      "summary": "Non-Invasive Wrapper Architecture: EnvHarness dynamically modifies task difficulty through modular plug-ins while preserving original simulator logic and gold-standard benchmark verifiers…",
+      "description": "Non-Invasive Wrapper Architecture: EnvHarness dynamically modifies task difficulty through modular plug-ins while preserving original simulator logic and gold-standard benchmark verifiers. Closed-Loop Diagnostic Co-Evolution: The autonomous EnvRigger designer analyzes interaction trajectories to synthesize, validate, and execute targeted Python rules addressing agent failure modes. Cross-Model Performance Acceleration: Adapting interactive training curricula delivers consistent success-rate improvements across frontier models while reducing unnecessary interaction steps. Standardized Actionable Interface: Benchmarks connect via an extensible state-aware contract that enables seamless stacking of multiple harness layers across leading LLM providers.",
+      "lang": "en"
     }
   ]
 }
