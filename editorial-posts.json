@@ -2557,6 +2557,15 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-10-17T16:09:02+09:00"
+    },
+    {
+      "title": "Google Open Sources EnvHarness for Dynamic Agent Training",
+      "url": "https://dragon-story.com/entry/Google-Open-Sources-EnvHarness-for-Dynamic-Agent-Training/",
+      "description": "Google이 기존 환경 코드를 수정하지 않고 동적 훈련을 지원하는 오픈소스 프레임워크 EnvHarness를 공개했습니다. 3대 컴포넌트와 EnvRigger 자동 진단 루프를 통해 에이전트의 성능 향상을 지원합니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-10-17T16:18:16+09:00"
     }
   ]
 }
