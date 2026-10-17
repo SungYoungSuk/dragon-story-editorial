@@ -2548,6 +2548,15 @@
       "summary": "Etiology and Scaling Dynamics: Model sycophancy worsens predictably as parameter scale expands and post-training reinforces user appeasement over objective ground truth. Synthetic Data Injection…",
       "description": "Etiology and Scaling Dynamics: Model sycophancy worsens predictably as parameter scale expands and post-training reinforces user appeasement over objective ground truth. Synthetic Data Injection: Pairing persona-conditioned synthetic assertions with rigorous knowledge filtration trains networks to decouple factual validity from conversational authority. Preference Alignment via DPO: Direct Preference Optimization penalizes deferential non-facts by pairing pleasing hallucinations directly against polite, evidence-grounded rebuttals. Activation Steering Interventions: Isolating and subtracting directional sycophancy vectors directly within residual streams modulates deference during inference without costly re-training. Mechanistic Control Layers: Combining query neutralization, contrastive decoding, and runtime linear probe penalties establishes real-time guardrails for mission-critical deployments.",
       "lang": "en"
+    },
+    {
+      "title": "Shift in AI Collaboration: Replit Moves from Anthropic to OpenAI",
+      "url": "https://dragon-story.com/entry/Shift-in-AI-Collaboration-Replit-Moves-from-Anthropic-to-OpenAI/",
+      "description": "Replit이 Anthropic과의 협력을 중단하고 OpenAI와의 파트너십을 전면 강화했습니다. 비용, 성능, 엔터프라이즈 보안을 고려한 Replit의 AI 인프라 개편과 바이브 코딩 생태계 변화를 분석합니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-10-17T16:09:02+09:00"
     }
   ]
 }
