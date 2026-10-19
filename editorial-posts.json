@@ -2586,6 +2586,16 @@
       "summary": "Non-Invasive Wrapper Architecture: EnvHarness dynamically modifies task difficulty through modular plug-ins while preserving original simulator logic and gold-standard benchmark verifiers…",
       "description": "Non-Invasive Wrapper Architecture: EnvHarness dynamically modifies task difficulty through modular plug-ins while preserving original simulator logic and gold-standard benchmark verifiers. Closed-Loop Diagnostic Co-Evolution: The autonomous EnvRigger designer analyzes interaction trajectories to synthesize, validate, and execute targeted Python rules addressing agent failure modes. Cross-Model Performance Acceleration: Adapting interactive training curricula delivers consistent success-rate improvements across frontier models while reducing unnecessary interaction steps. Standardized Actionable Interface: Benchmarks connect via an extensible state-aware contract that enables seamless stacking of multiple harness layers across leading LLM providers.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-10-19T20:09:49+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/How-Pyrefly-Speeds-Up-Python-Type-Checking-With-Rust",
+      "title": "How Pyrefly Speeds Up Python Type Checking With Rust",
+      "summary": "Unprecedented Execution Speed: Engineered in Rust, Pyrefly processes code at massive throughput and enables sub-second incremental rechecks that eliminate developer turnaround bottlenecks. Enterprise…",
+      "description": "Unprecedented Execution Speed: Engineered in Rust, Pyrefly processes code at massive throughput and enables sub-second incremental rechecks that eliminate developer turnaround bottlenecks. Enterprise Monorepo Adoption: Tech leaders including Google and Meta have transitioned mission-critical systems to Pyrefly, replacing legacy checkers to dramatically streamline developer edit-and-test loops. Strict Typing Conformance: Pyrefly combines near-complete alignment with official Python typing standards, sound union validation, and Rust-style diagnostic messages pinpointing exact root causes. Intelligent Framework Integration: Native support for tools like Pydantic, Django, and PyTorch—alongside automated migration utilities—ensures rapid onboarding without disrupting existing configurations.",
+      "lang": "en"
     }
   ]
 }
