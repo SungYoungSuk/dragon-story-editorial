@@ -2606,6 +2606,15 @@
       "summary": "Dual-Mode Agent Architecture: Hybrid reasoning agents bridge unconstrained continuous latent thinking with structured text interaction in an integrated generative process. Dynamic Latent Switching…",
       "description": "Dual-Mode Agent Architecture: Hybrid reasoning agents bridge unconstrained continuous latent thinking with structured text interaction in an integrated generative process. Dynamic Latent Switching: The lightweight HybridLink adapter dynamically shifts LLMs into latent mode for fast internal reasoning and exits back to natural text for tool invocation and outputs. Specialized Post-Training: A unified training pipeline pairs phased supervised fine-tuning with outcome-based reinforcement learning to align latent representations without degrading text mastery. Superior Efficiency and Performance: Shifting intermediate thoughts out of tokenized text slashes token overhead and inference costs while boosting accuracy across reasoning benchmarks. Preserved Auditability: Built-in inspection mechanisms translate continuous latent representations into readable pseudo-text, maintaining agent accountability for critical operations.",
       "lang": "en"
+    },
+    {
+      "title": "구글, 14년 만에 Pytype 지원 종료하고 고성능 Pyrefly 전격 도입",
+      "url": "https://dragon-story.com/entry/%EA%B5%AC%EA%B8%80-14%EB%85%84-%EB%A7%8C%EC%97%90-Pytype-%EC%A7%80%EC%9B%90-%EC%A2%85%EB%A3%8C%ED%95%98%EA%B3%A0-%EA%B3%A0%EC%84%B1%EB%8A%A5-Pyrefly-%EC%A0%84%EA%B2%A9-%EB%8F%84%EC%9E%85/",
+      "description": "구글이 14년간 사용해 온 사내 파이썬 타입 체커 Pytype 지원을 종료하고, Rust 기반의 고성능 오픈소스 엔진인 Pyrefly를 공식 채택하여 빌드 속도와 인프라 효율을 대폭 개선한 내용을 다룹니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-10-19T21:22:31+09:00"
     }
   ]
 }
