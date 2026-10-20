@@ -2653,6 +2653,15 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-10-20T22:06:59+09:00"
+    },
+    {
+      "title": "AI의 시스템 재구현 능력, COBOL과 SQLite 벤치마크로 본 변화",
+      "url": "https://dragon-story.com/entry/AI%EC%9D%98-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%9E%AC%EA%B5%AC%ED%98%84-%EB%8A%A5%EB%A0%A5-COBOL%EA%B3%BC-SQLite-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%81%AC%EB%A1%9C-%EB%B3%B8-%EB%B3%80%ED%99%94/",
+      "description": "MultiLangBench와 최신 인공지능 모델을 통한 SQLite 바닐라 스크래치 구현 및 COBOL 레거시 코드의 바이트 단위 현대화 성능 평가를 분석합니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-10-20T22:12:00+09:00"
     }
   ]
 }
