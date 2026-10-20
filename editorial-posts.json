@@ -2634,6 +2634,16 @@
       "summary": "JDK 28 feature set expands: Structured Concurrency reaches finalization status alongside major ZGC enhancements targeting adaptive heap allocation and faster warmup times. Azul Payara releases…",
       "description": "JDK 28 feature set expands: Structured Concurrency reaches finalization status alongside major ZGC enhancements targeting adaptive heap allocation and faster warmup times. Azul Payara releases critical updates: Maintenance builds deliver developer tooling like CDI DevMode while remediating high-impact remote code execution flaws across enterprise branches. Apache Camel patches mass vulnerabilities: The project addressed 38 security advisories across integration components, highlighting automated remediation via Project Glasswing. Gatherers4j advances stream analytics: Version 0.15.0 introduces moving and running statistical gatherers to enrich Java custom intermediate stream operations. Google ADK enhances workflow orchestration: Java and Kotlin agent development libraries rolled out graph-based structures and broader model endpoint support. Yupiik Fusion ships bug fixes and tweaks: The lightweight framework updated its CLI tooling generators and introduced template rendering adjustments in version 1.2.0.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-10-20T21:40:05+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/OpenAI-Expands-ChatGPT-Support-for-COBOL-and-Legacy-Programming-Languages",
+      "title": "OpenAI Expands ChatGPT Support for COBOL and Legacy Programming Languages",
+      "summary": "Expanded Legacy Support: OpenAI has enhanced ChatGPT and frontier reasoning models to support low-resource legacy languages, notably COBOL, Fortran, and Visual Basic. MultiLangBench Evaluation: An…",
+      "description": "Expanded Legacy Support: OpenAI has enhanced ChatGPT and frontier reasoning models to support low-resource legacy languages, notably COBOL, Fortran, and Visual Basic. MultiLangBench Evaluation: An open-source benchmark focused on complex software reimplementation now provides a standardized environment to measure legacy code generation across diverse languages. Automated Modernization Capabilities: Successive model iterations demonstrate major gains in porting antiquated procedural logic to modern target languages under strict functional parity requirements. Critical Infrastructure Focus: Upgraded capabilities specifically target institutional backbones—such as financial networks and scientific analysis pipelines—facing shrinking pools of qualified maintainers. Mandatory Verification Boundaries: While internal benchmarks reveal high translation fidelity, real-world deployment still necessitates strict expert review to catch subtle numerical anomalies and hidden dependencies.",
+      "lang": "en"
     }
   ]
 }
