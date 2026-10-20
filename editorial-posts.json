@@ -2644,6 +2644,15 @@
       "summary": "Expanded Legacy Support: OpenAI has enhanced ChatGPT and frontier reasoning models to support low-resource legacy languages, notably COBOL, Fortran, and Visual Basic. MultiLangBench Evaluation: An…",
       "description": "Expanded Legacy Support: OpenAI has enhanced ChatGPT and frontier reasoning models to support low-resource legacy languages, notably COBOL, Fortran, and Visual Basic. MultiLangBench Evaluation: An open-source benchmark focused on complex software reimplementation now provides a standardized environment to measure legacy code generation across diverse languages. Automated Modernization Capabilities: Successive model iterations demonstrate major gains in porting antiquated procedural logic to modern target languages under strict functional parity requirements. Critical Infrastructure Focus: Upgraded capabilities specifically target institutional backbones—such as financial networks and scientific analysis pipelines—facing shrinking pools of qualified maintainers. Mandatory Verification Boundaries: While internal benchmarks reveal high translation fidelity, real-world deployment still necessitates strict expert review to catch subtle numerical anomalies and hidden dependencies.",
       "lang": "en"
+    },
+    {
+      "title": "2026년 10월 자바 생태계 주요 업데이트: JDK 28 JEP와 보안 패치 소식",
+      "url": "https://dragon-story.com/entry/2026%EB%85%84-10%EC%9B%94-%EC%9E%90%EB%B0%94-%EC%83%9D%ED%83%9C%EA%B3%84-%EC%A3%BC%EC%9A%94-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-JDK-28-JEP%EC%99%80-%EB%B3%B4%EC%95%88-%ED%8C%A8%EC%B9%98-%EC%86%8C%EC%8B%9D/",
+      "description": "2026년 10월 자바 생태계의 주요 업데이트를 정리했습니다. JDK 28의 ZGC 및 구조적 동시성 JEP 확정, Apache Camel 대규모 보안 패치, Azul Payara RCE 패치 및 CDI DevMode, Google ADK 워크플로우 그래프 도입 소식을 확인하세요.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-10-20T22:06:59+09:00"
     }
   ]
 }
