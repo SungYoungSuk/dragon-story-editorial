@@ -2682,6 +2682,15 @@
       "summary": "Dual Critical RCE Flaws: Upstream maintainers released emergency patches for two critical remote code execution vulnerabilities deep in PHP core, both rated CVSS 9.2. Massive Ecosystem Exposure: The…",
       "description": "Dual Critical RCE Flaws: Upstream maintainers released emergency patches for two critical remote code execution vulnerabilities deep in PHP core, both rated CVSS 9.2. Massive Ecosystem Exposure: The leaked PHP2Shell exploit tool threatens millions of Internet-facing installations across CMS platforms, e-commerce stores, and enterprise appliances. Infrastructure-Level Remediation: Fixes require direct runtime upgrades, as application-level changes cannot neutralize flaws embedded within the PHP engine itself. Upstream Support Limits: Official releases cover only supported modern branches, leaving older legacy versions dependent on distribution backports or network-level isolation. Immediate Defense Strategies: Development and operations teams must rely on temporary request filtering, edge firewalls, and runtime child-process inspection to combat incoming exploits.",
       "lang": "en"
+    },
+    {
+      "title": "구글 딥마인드, 오픈AI·엔비디아까지 아우르는 SynthID AI 탐지 생태계 전면 공개",
+      "url": "https://dragon-story.com/entry/%EA%B5%AC%EA%B8%80-%EB%94%A5%EB%A7%88%EC%9D%B8%EB%93%9C-%EC%98%A4%ED%94%88AI%EC%97%94%EB%B9%84%EB%94%94%EC%95%84%EA%B9%8C%EC%A7%80-%EC%95%84%EC%9A%B0%EB%A5%B4%EB%8A%94-SynthID-AI-%ED%83%90%EC%A7%80-%EC%83%9D%ED%83%9C%EA%B3%84-%EC%A0%84%EB%A9%B4-%EA%B3%B5%EA%B0%9C/",
+      "description": "Google DeepMind가 OpenAI, NVIDIA, Kakao 등 주요 파트너사의 생성형 AI 미디어를 한곳에서 판별할 수 있는 SynthID Detector 글로벌 웹사이트를 공개했습니다. 비가시적 워터마킹 기술과 C2PA 메타데이터의 상호보완적 검증 방식을 상세히 알아봅니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-10-21T22:20:47+09:00"
     }
   ]
 }
