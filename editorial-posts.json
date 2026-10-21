@@ -2672,6 +2672,16 @@
       "summary": "Cross-Ecosystem Expansion: SynthID Detector now verifies watermarked content across a growing coalition of external industry partners, including OpenAI and NVIDIA. Centralized Public Scanning: The…",
       "description": "Cross-Ecosystem Expansion: SynthID Detector now verifies watermarked content across a growing coalition of external industry partners, including OpenAI and NVIDIA. Centralized Public Scanning: The public tool at synthid.com provides browser-based verification for supported image, audio, and video files under a single workflow. Multi-Modal Protection: The underlying architecture embeds imperceptible statistical patterns directly into pixels, audio frequencies, and text generation sequences. Defined Scope: SynthID is not a universal synthetic media detector and only identifies content from generative platforms that actively implement the standard. Complementary Provenance: Watermarking functions alongside cryptographic standards like C2PA, remaining resilient against casual edits while facing ongoing adversarial challenges.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-10-21T22:07:54+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/How-PHPs-Emergency-Patches-Affect-Developers-and-Infrastructure-Security",
+      "title": "How PHP's Emergency Patches Affect Developers and Infrastructure Security",
+      "summary": "Dual Critical RCE Flaws: Upstream maintainers released emergency patches for two critical remote code execution vulnerabilities deep in PHP core, both rated CVSS 9.2. Massive Ecosystem Exposure: The…",
+      "description": "Dual Critical RCE Flaws: Upstream maintainers released emergency patches for two critical remote code execution vulnerabilities deep in PHP core, both rated CVSS 9.2. Massive Ecosystem Exposure: The leaked PHP2Shell exploit tool threatens millions of Internet-facing installations across CMS platforms, e-commerce stores, and enterprise appliances. Infrastructure-Level Remediation: Fixes require direct runtime upgrades, as application-level changes cannot neutralize flaws embedded within the PHP engine itself. Upstream Support Limits: Official releases cover only supported modern branches, leaving older legacy versions dependent on distribution backports or network-level isolation. Immediate Defense Strategies: Development and operations teams must rely on temporary request filtering, edge firewalls, and runtime child-process inspection to combat incoming exploits.",
+      "lang": "en"
     }
   ]
 }
