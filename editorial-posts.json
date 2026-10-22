@@ -2700,6 +2700,16 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-10-21T22:26:24+09:00"
+    },
+    {
+      "published_at": "2026-10-22T21:18:38+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Inside-dotnetup-Microsofts-New-Toolchain-Manager-for-.NET-SDKs",
+      "title": "Inside dotnetup: Microsoft's New Toolchain Manager for .NET SDKs",
+      "summary": "User-Level Non-Admin Management: Operates in a local directory without elevated permissions, leaving system-wide framework directories untouched. Ecosystem Inspiration: Modeled after modern toolchain…",
+      "description": "User-Level Non-Admin Management: Operates in a local directory without elevated permissions, leaving system-wide framework directories untouched. Ecosystem Inspiration: Modeled after modern toolchain tools like rustup and nvm to streamline installation, updates, and side-by-side versions. Flexible Access Modes: Offers three isolation strategies— none , shell , and everywhere —to control how command-line environments discover toolchains. Automated Channel Tracking: Smoothly switches between stable channels, preview bands, and daily builds while respecting pinned global.json boundaries. Public Preview Boundaries: Designed for modern local workflows and ephemeral CI pipelines, while enterprise production workloads remain on standard system installers.",
+      "lang": "en"
     }
   ]
 }
