@@ -2710,6 +2710,16 @@
       "summary": "User-Level Non-Admin Management: Operates in a local directory without elevated permissions, leaving system-wide framework directories untouched. Ecosystem Inspiration: Modeled after modern toolchain…",
       "description": "User-Level Non-Admin Management: Operates in a local directory without elevated permissions, leaving system-wide framework directories untouched. Ecosystem Inspiration: Modeled after modern toolchain tools like rustup and nvm to streamline installation, updates, and side-by-side versions. Flexible Access Modes: Offers three isolation strategies— none , shell , and everywhere —to control how command-line environments discover toolchains. Automated Channel Tracking: Smoothly switches between stable channels, preview bands, and daily builds while respecting pinned global.json boundaries. Public Preview Boundaries: Designed for modern local workflows and ephemeral CI pipelines, while enterprise production workloads remain on standard system installers.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-10-22T21:19:31+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/How-Hugging-Face-SimReady-Central-Delivers-Simulation-Ready-3D-Assets",
+      "title": "How Hugging Face SimReady Central Delivers Simulation-Ready 3D Assets",
+      "summary": "Centralized OpenUSD Ecosystem: SimReady Central provides an open, community-accessible repository on Hugging Face featuring standardized 3D assets contributed by leading industrial robotics and…",
+      "description": "Centralized OpenUSD Ecosystem: SimReady Central provides an open, community-accessible repository on Hugging Face featuring standardized 3D assets contributed by leading industrial robotics and automation manufacturers. Beyond Visual Meshes: Unlike conventional 3D models that only depict visual shape, SimReady assets embed physical dynamics, friction coefficients, collision boundaries, and semantic annotations required for physical AI training. Three-Layer Foundation Architecture: The framework organizes simulation requirements across standards, authoring toolsets, and validated capability profiles to ensure cross-platform runtime interoperability. AI-Assisted Search and Scene Assembly: Deep integration with USD Search APIs and frontier AI models enables natural-language discovery, procedural scene generation, and automated asset compliance checking. Empirical Physics Validation: Assets undergo standardized dynamic stability, articulation, and contact testing to guarantee reliable simulation fidelity across robot workcells and digital twin facilities.",
+      "lang": "en"
     }
   ]
 }
