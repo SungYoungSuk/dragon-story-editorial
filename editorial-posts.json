@@ -2748,6 +2748,15 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-10-22T21:40:23+09:00"
+    },
+    {
+      "title": "AI가 찾아낸 10년 묵은 PHP 제로데이, 전 세계 웹 인프라 흔든 취약점 사태",
+      "url": "https://dragon-story.com/entry/AI%EA%B0%80-%EC%B0%BE%EC%95%84%EB%82%B8-10%EB%85%84-%EB%AC%B5%EC%9D%80-PHP-%EC%A0%9C%EB%A1%9C%EB%8D%B0%EC%9D%B4-%EC%A0%84-%EC%84%B8%EA%B3%84-%EC%9B%B9-%EC%9D%B8%ED%94%84%EB%9D%BC-%ED%9D%94%EB%93%A0-%EC%B7%A8%EC%95%BD%EC%A0%90-%EC%82%AC%ED%83%9C/",
+      "description": "인공지능 도구에 의해 10년 만에 발견된 PHP 핵심 런타임의 치명적 메모리 안전성 결함과 전 세계 웹 인프라에 미친 파장, 긴급 패치 및 완화 조치 지침을 다룹니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-10-22T21:52:27+09:00"
     }
   ]
 }
