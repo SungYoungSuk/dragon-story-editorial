@@ -2730,6 +2730,15 @@
       "summary": "AI-Driven Discovery Breakthrough: Advanced reasoning models successfully identified decade-old memory-safety vulnerabilities deep within the PHP core that long eluded legacy static analysis and…",
       "description": "AI-Driven Discovery Breakthrough: Advanced reasoning models successfully identified decade-old memory-safety vulnerabilities deep within the PHP core that long eluded legacy static analysis and manual code audits. Critical Engine-Level Flaws: The dual vulnerabilities known as PHP2Shell involve out-of-memory handling errors and use-after-free states capable of arbitrary remote code execution before application scripts even execute. Accelerated Zero-Day Exploitation: Premature public leaks sparked widespread automated attack campaigns across the internet, compressing the standard coordinated disclosure window into an emergency response. Broad Ecosystem Exposure: As the engine powering the vast majority of web content management platforms, the flaw exposed millions of organizations and unmaintained legacy web servers worldwide. Upstream Runtime Patching Required: Application-level mitigations and content management updates cannot resolve engine-layer memory corruption, mandating immediate PHP runtime binaries and container rebuilds. Historic Global Government Response: International cyber authorities and national leadership took the extraordinary step of instructing administrators to pull unpatched web services entirely offline. Fragile Temporary Mitigations: Web application firewall rules and server configuration workarounds provide partial friction against common exploits, but complete remediation requires upgrading the underlying interpreter.",
       "lang": "en"
+    },
+    {
+      "title": ".NET 툴체인 관리자 dotnetup 공개 프리뷰, 개발 환경 파편화 해결할까",
+      "url": "https://dragon-story.com/entry/NET-%ED%88%B4%EC%B2%B4%EC%9D%B8-%EA%B4%80%EB%A6%AC%EC%9E%90-dotnetup-%EA%B3%B5%EA%B0%9C-%ED%94%84%EB%A6%AC%EB%B7%B0-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%ED%8C%8C%ED%8E%B8%ED%99%94-%ED%95%B4%EA%B2%B0%ED%95%A0%EA%B9%8C/",
+      "description": "마이크로소프트가 공개한 .NET 크로스 플랫폼 툴체인 관리자 dotnetup의 프리뷰 발표 내용을 다룹니다. rustup과 nvm을 벤치마킹한 비관리자 모드, 채널 기반 버전 관리, 3가지 액세스 모드와 커뮤니티 피드백을 정리했습니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-10-22T21:39:19+09:00"
     }
   ]
 }
