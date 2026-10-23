@@ -2775,6 +2775,15 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-10-23T20:27:08+09:00"
+    },
+    {
+      "title": "화웨이와 딥시크의 AI 하드웨어 동맹, 어센드 칩 최적화와 탈 쿠다 전략",
+      "url": "https://dragon-story.com/entry/%ED%99%94%EC%9B%A8%EC%9D%B4%EC%99%80-%EB%94%A5%EC%8B%9C%ED%81%AC%EC%9D%98-AI-%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4-%EB%8F%99%EB%A7%B9-%EC%96%B4%EC%84%BC%EB%93%9C-%EC%B9%A9-%EC%B5%9C%EC%A0%81%ED%99%94%EC%99%80-%ED%83%88-%EC%BF%A0%EB%8B%A4-%EC%A0%84%EB%9E%B5/",
+      "description": "화웨이와 딥시크의 차세대 AI 하드웨어 공동 설계 및 어센드 칩 최적화 성과를 분석합니다. TileLang과 DeepEP 등 독자 소프트웨어 생태계 구축과 엔비디아 종속 탈피를 위한 풀스택 최적화 전략을 심층적으로 다룹니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-10-23T20:28:33+09:00"
     }
   ]
 }
