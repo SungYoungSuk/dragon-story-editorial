@@ -2793,6 +2793,16 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-10-23T20:32:59+09:00"
+    },
+    {
+      "published_at": "2026-10-23T20:49:12+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Google-Cloud-Brings-OpenAI-Models-to-Model-Garden-in-Major-Hyperscaler-Shift",
+      "title": "Google Cloud Brings OpenAI Models to Model Garden in Major Hyperscaler Shift",
+      "summary": "Unprecedented Hyperscaler Breadth: Google Cloud is now the only hyperscale cloud provider offering native access to all three dominant closed-source LLM families: Gemini, Claude, and GPT. Targeted…",
+      "description": "Unprecedented Hyperscaler Breadth: Google Cloud is now the only hyperscale cloud provider offering native access to all three dominant closed-source LLM families: Gemini, Claude, and GPT. Targeted Frontier Model Lineup: The catalog expansion introduces three specialized OpenAI models—GPT-6 Astra, GPT-6.1 Sol, and GPT-6 Luna—designed for varying operational budgets and computational demands. Staged Rollout Timeline: Private preview access opened on October 21, 2026, for select enterprise accounts, with broader general availability slated for the coming weeks. Frictionless Developer Workflows: Teams can bridge local Codex tooling and upcoming Google productivity environments directly into Google Cloud inference endpoints. Unified Enterprise Procurement: Deployments route through Google Cloud Marketplace, consolidating billing onto existing invoices while counting against pre-negotiated customer spend commitments. Isolated Cloud Governance: Prompts and completions remain strictly confined within dedicated enterprise perimeters and are never used to train underlying foundational models.",
+      "lang": "en"
     }
   ]
 }
