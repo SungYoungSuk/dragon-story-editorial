@@ -2803,6 +2803,16 @@
       "summary": "Unprecedented Hyperscaler Breadth: Google Cloud is now the only hyperscale cloud provider offering native access to all three dominant closed-source LLM families: Gemini, Claude, and GPT. Targeted…",
       "description": "Unprecedented Hyperscaler Breadth: Google Cloud is now the only hyperscale cloud provider offering native access to all three dominant closed-source LLM families: Gemini, Claude, and GPT. Targeted Frontier Model Lineup: The catalog expansion introduces three specialized OpenAI models—GPT-6 Astra, GPT-6.1 Sol, and GPT-6 Luna—designed for varying operational budgets and computational demands. Staged Rollout Timeline: Private preview access opened on October 21, 2026, for select enterprise accounts, with broader general availability slated for the coming weeks. Frictionless Developer Workflows: Teams can bridge local Codex tooling and upcoming Google productivity environments directly into Google Cloud inference endpoints. Unified Enterprise Procurement: Deployments route through Google Cloud Marketplace, consolidating billing onto existing invoices while counting against pre-negotiated customer spend commitments. Isolated Cloud Governance: Prompts and completions remain strictly confined within dedicated enterprise perimeters and are never used to train underlying foundational models.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-10-23T20:50:30+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/How-DeepSeek-and-Huawei-Co-Design-Ascend-AI-Hardware-and-Kernels",
+      "title": "How DeepSeek and Huawei Co-Design Ascend AI Hardware and Kernels",
+      "summary": "Symbiotic Hardware-Software Co-Design: Huawei provides silicon and baseline toolchains while DeepSeek develops tailored kernel infrastructure to maximize native Ascend performance. Open-Source…",
+      "description": "Symbiotic Hardware-Software Co-Design: Huawei provides silicon and baseline toolchains while DeepSeek develops tailored kernel infrastructure to maximize native Ascend performance. Open-Source Toolchain Expansion: DeepSeek introduced Ascend-optimized support across key infrastructure repositories, including TileLang, DeepGEMM, DeepEP, and custom FlashMLA kernels. Microarchitectural Adaptation: Algorithmic implementations adapt directly to Ascend's decoupled Vector and Cube pipelines, working around specialized buffer constraints and tailoring memory layouts. Interconnect and Supernode Scaling: High-bandwidth superpod topologies leverage unified communication primitives to overlap distributed expert routing directly with computational stages. Ecosystem and Architecture Friction: Toolchains remain heavily optimized for domestic ARM-based configurations, encountering software compatibility barriers when ported across standard x86 environments. Strategic Infrastructure Realities: Substantial accelerator deployments target massive inference facilities, even as frontier foundation training still balances ongoing gaps in raw hardware throughput.",
+      "lang": "en"
     }
   ]
 }
