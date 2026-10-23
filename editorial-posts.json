@@ -2757,6 +2757,15 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-10-22T21:52:27+09:00"
+    },
+    {
+      "title": "Vercel Labs, Zig 기반 초경량 코딩 에이전트 CLI 'fx' 공개",
+      "url": "https://dragon-story.com/entry/Vercel-Labs-Zig-%EA%B8%B0%EB%B0%98-%EC%B4%88%EA%B2%BD%EB%9F%89-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-CLI-fx-%EA%B3%B5%EA%B0%9C/",
+      "description": "Vercel Labs가 시스템 프로그래밍 언어 Zig로 개발한 7.8MB 초경량 네이티브 코딩 에이전트 CLI 'fx'의 아키텍처, 모델 비의존적 생태계 연동, CI 자동화 및 보안 권한 제어 기능을 소개합니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-10-23T20:25:56+09:00"
     }
   ]
 }
