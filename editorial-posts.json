@@ -2784,6 +2784,15 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-10-23T20:28:33+09:00"
+    },
+    {
+      "title": "허깅페이스 카본-X 공개, 단일 GPU로 DNA와 대화하는 오픈소스 바이오 모델",
+      "url": "https://dragon-story.com/entry/%ED%97%88%EA%B9%85%ED%8E%98%EC%9D%B4%EC%8A%A4-%EC%B9%B4%EB%B3%B8-X-%EA%B3%B5%EA%B0%9C-%EB%8B%A8%EC%9D%BC-GPU%EB%A1%9C-DNA%EC%99%80-%EB%8C%80%ED%99%94%ED%95%98%EB%8A%94-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EB%B0%94%EC%9D%B4%EC%98%A4-%EB%AA%A8%EB%8D%B8/",
+      "description": "허깅페이스가 공개한 14.8B 규모의 바이오 특화 오픈소스 모델 Carbon-X는 자연어와 DNA 서열을 직접 통합 분석하며, 단일 80GB GPU에서 로컬 구동이 가능해 추론 비용을 획기적으로 낮추고 연구 데이터 보호를 강화합니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-10-23T20:32:59+09:00"
     }
   ]
 }
