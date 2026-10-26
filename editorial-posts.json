@@ -2889,6 +2889,16 @@
       "summary": "State and Municipal Moratoria: State legislatures and local zoning authorities are increasingly enacting construction pauses and statutory guardrails to insulate residential ratepayers from rising…",
       "description": "State and Municipal Moratoria: State legislatures and local zoning authorities are increasingly enacting construction pauses and statutory guardrails to insulate residential ratepayers from rising utility costs. Heightened Water and Resource Scrutiny: Intensifying regional water resource constraints have driven new state permitting frameworks, federal cooling standards, and mandatory consumption reporting laws. Federal Grid Interconnection Reforms: The Federal Energy Regulatory Commission is overhauling transmission queues and co-location tariffs to manage unprecedented industrial loads without destabilizing regional power grids. Air Quality and On-Site Power Oversight: Extended utility interconnection delays have led to expanded behind-the-meter gas and backup generation, triggering strict federal environmental enforcement under the Clean Air Act. Bipartisan Political and Community Pushback: Public concern regarding municipal nondisclosure agreements and infrastructure strain has transformed data center siting into a prominent bipartisan electoral issue.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-10-26T21:58:27+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Google-and-Meta-Open-Source-TorchTPU-as-Native-PyTorch-TPU-Backend",
+      "title": "Google and Meta Open-Source TorchTPU as Native PyTorch TPU Backend",
+      "summary": "First-Class Hardware Support: TorchTPU establishes native Google TPU execution within standard PyTorch, elevating TPUs alongside CPUs and GPUs. Deprecation of PyTorch/XLA: The legacy lazy-tensor…",
+      "description": "First-Class Hardware Support: TorchTPU establishes native Google TPU execution within standard PyTorch, elevating TPUs alongside CPUs and GPUs. Deprecation of PyTorch/XLA: The legacy lazy-tensor bridge is formally superseded by TorchTPU and is scheduled for repository archival on November 15, 2026. Flexible Execution Engine: The backend integrates via PyTorch's extension dispatcher, supporting Strict Eager, DeferAndFuse, and TorchDynamo graph compilation. Massive Cluster Scalability: Validated across TPU v5 through v7 (Ironwood), maintaining high hardware utilization and near-linear scaling up to 8,192 chips. Unified Inference Stack: Native production serving integrations are immediately available across vLLM, SGLang, llm-d, and Hugging Face Transformers. End-to-End Training & Alignment: TorchTitan and VeRL provide validated distributed pre-training and reinforcement learning workflows on TPU clusters. Agent-Assisted Tooling: An integrated TPU agent suite automates developer onboarding, diagnostics, and kernel performance optimization in modern coding harnesses.",
+      "lang": "en"
     }
   ]
 }
