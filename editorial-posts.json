@@ -2833,6 +2833,15 @@
       "summary": "Native Sub-8 MiB Footprint: Engineered in Zig, fx compiles ahead-of-time into a standalone binary that bypasses heavy virtual machines and runtime dependencies. Unix-First CLI Integration: Avoids…",
       "description": "Native Sub-8 MiB Footprint: Engineered in Zig, fx compiles ahead-of-time into a standalone binary that bypasses heavy virtual machines and runtime dependencies. Unix-First CLI Integration: Avoids full-screen terminal takeovers by streaming directly into standard shell scrollback while preserving native multiplexer bindings and shell environments. Provider Independence: Interfaces seamlessly with cloud backends through the Vercel AI Gateway alongside zero-proxy local authentication for proprietary models and custom local endpoints. Deterministic State and Compaction: Manages session lifecycles on disk with resilient recovery tools and automatic context window compaction during extended coding workflows. Standardized Tool Interoperability: Ingests modular markdown skills on demand and implements Model Context Protocol clients for local and remote server interactions. Cross-Platform Embeddability: Extends beyond terminal shells through libfx , delivering native Node.js addons and experimental WebAssembly harnesses for browser environments.",
       "lang": "en"
+    },
+    {
+      "title": "SK텔레콤 자회사 'SK하이퍼' 출범, 2035년까지 15GW AI 데이터센터 구축 나선다",
+      "url": "https://dragon-story.com/entry/SK%ED%85%94%EB%A0%88%EC%BD%A4-%EC%9E%90%ED%9A%8C%EC%82%AC-SK%ED%95%98%EC%9D%B4%ED%8D%BC-%EC%B6%9C%EB%B2%94-2035%EB%85%84%EA%B9%8C%EC%A7%80-15GW-AI-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EA%B5%AC%EC%B6%95-%EB%82%98%EC%84%A0%EB%8B%A4/",
+      "description": "SK텔레콤이 지분 100%를 보유한 AI 데이터센터 전담 법인 'SK하이퍼'를 출범하고, 2035년까지 15GW 규모의 초대형 AIDC 허브를 구축하기 위한 본격적인 로드맵과 자금 조달 계획을 공개했습니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-10-26T21:27:59+09:00"
     }
   ]
 }
