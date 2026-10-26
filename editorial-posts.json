@@ -2879,6 +2879,16 @@
       "summary": "Dedicated Infrastructure Vehicle: SK Telecom has established wholly owned subsidiary SK Hyper to spearhead the deployment of next-generation gigawatt-scale AI data centers across South Korea. Phased…",
       "description": "Dedicated Infrastructure Vehicle: SK Telecom has established wholly owned subsidiary SK Hyper to spearhead the deployment of next-generation gigawatt-scale AI data centers across South Korea. Phased Co-Investment Framework: The initial buildout leverages a collaborative financing model alongside tenants and institutional partners to prudently deploy capital in step with verified customer commitments. Staged Multi-Gigawatt Expansion: Development plans focus on activating multi-gigawatt capacity hubs over the coming years before scaling toward a comprehensive national network by the mid-2030s. Cross-Industry Conglomerate Synergies: SK Hyper integrates group-wide semiconductor, clean energy, and connectivity strengths to power high-density computing workloads across Asia and global sovereign markets.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-10-26T21:57:35+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/How-US-Data-Center-Regulations-Are-Reshaping-Grid-and-Water-Oversight",
+      "title": "How US Data Center Regulations Are Reshaping Grid and Water Oversight",
+      "summary": "State and Municipal Moratoria: State legislatures and local zoning authorities are increasingly enacting construction pauses and statutory guardrails to insulate residential ratepayers from rising…",
+      "description": "State and Municipal Moratoria: State legislatures and local zoning authorities are increasingly enacting construction pauses and statutory guardrails to insulate residential ratepayers from rising utility costs. Heightened Water and Resource Scrutiny: Intensifying regional water resource constraints have driven new state permitting frameworks, federal cooling standards, and mandatory consumption reporting laws. Federal Grid Interconnection Reforms: The Federal Energy Regulatory Commission is overhauling transmission queues and co-location tariffs to manage unprecedented industrial loads without destabilizing regional power grids. Air Quality and On-Site Power Oversight: Extended utility interconnection delays have led to expanded behind-the-meter gas and backup generation, triggering strict federal environmental enforcement under the Clean Air Act. Bipartisan Political and Community Pushback: Public concern regarding municipal nondisclosure agreements and infrastructure strain has transformed data center siting into a prominent bipartisan electoral issue.",
+      "lang": "en"
     }
   ]
 }
