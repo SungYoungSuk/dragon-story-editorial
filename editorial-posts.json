@@ -2869,6 +2869,16 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-10-26T21:37:23+09:00"
+    },
+    {
+      "published_at": "2026-10-26T21:56:06+09:00",
+      "category": "IT",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Inside-SK-Hypers-350B-Plan-to-Build-15GW-of-AI-Data-Centers-by-2035",
+      "title": "Inside SK Hyper's $350B Plan to Build 15GW of AI Data Centers by 2035",
+      "summary": "Dedicated Infrastructure Vehicle: SK Telecom has established wholly owned subsidiary SK Hyper to spearhead the deployment of next-generation gigawatt-scale AI data centers across South Korea. Phased…",
+      "description": "Dedicated Infrastructure Vehicle: SK Telecom has established wholly owned subsidiary SK Hyper to spearhead the deployment of next-generation gigawatt-scale AI data centers across South Korea. Phased Co-Investment Framework: The initial buildout leverages a collaborative financing model alongside tenants and institutional partners to prudently deploy capital in step with verified customer commitments. Staged Multi-Gigawatt Expansion: Development plans focus on activating multi-gigawatt capacity hubs over the coming years before scaling toward a comprehensive national network by the mid-2030s. Cross-Industry Conglomerate Synergies: SK Hyper integrates group-wide semiconductor, clean energy, and connectivity strengths to power high-density computing workloads across Asia and global sovereign markets.",
+      "lang": "en"
     }
   ]
 }
