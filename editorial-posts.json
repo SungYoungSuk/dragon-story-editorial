@@ -2947,6 +2947,15 @@
       "summary": "From Prompting to Autonomy: Dots marks a fundamental evolution from turn-by-turn chat prompts to a persistent entity holding ongoing responsibility for codebases. End-to-End Task Ownership: The…",
       "description": "From Prompting to Autonomy: Dots marks a fundamental evolution from turn-by-turn chat prompts to a persistent entity holding ongoing responsibility for codebases. End-to-End Task Ownership: The assistant autonomously handles complex engineering workflows, including multi-file API migrations, test execution, and proactive bug diagnosis. Hybrid Compute Architecture: Isolated cloud virtual environments ensure continuous background execution even when physical developer machines are disconnected. Granular Security Controls: Configurable rules and strict read-only modes protect mission-critical repositories while allowing autonomous maintenance tasks. Cross-Platform Collaboration: Engineers can interact with their Dot across terminals, shared digital spaces, and workplace communication tools like Slack and Teams. Bundled Subscription Model: Primary personal agents are integrated directly into premium developer tiers with delegated task computing.",
       "lang": "en"
+    },
+    {
+      "title": "클라우드플레어가 공개한 AI 주도 TypeScript Rust 포트 'tsrs' 핵심 정리",
+      "url": "https://dragon-story.com/entry/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%ED%94%8C%EB%A0%88%EC%96%B4%EA%B0%80-%EA%B3%B5%EA%B0%9C%ED%95%9C-AI-%EC%A3%BC%EB%8F%84-TypeScript-Rust-%ED%8F%AC%ED%8A%B8-tsrs-%ED%95%B5%EC%8B%AC-%EC%A0%95%EB%A6%AC/",
+      "description": "Cloudflare와 VoidZero가 공개한 TypeScript의 Rust 포트 'tsrs'를 조명합니다. Claude Opus 5.5 AI 에이전트로 구현되어 성능과 메모리를 대폭 개선한 차세대 툴링 생태계를 확인하세요.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-10-28T01:41:02+09:00"
     }
   ]
 }
