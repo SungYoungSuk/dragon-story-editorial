@@ -2909,6 +2909,15 @@
       "summary": "Unified Cross-Platform Acceleration: Google AI Edge launched ML Drift as an open-source GPU compute engine that serves as the core acceleration layer powering LiteRT across edge ecosystems…",
       "description": "Unified Cross-Platform Acceleration: Google AI Edge launched ML Drift as an open-source GPU compute engine that serves as the core acceleration layer powering LiteRT across edge ecosystems. Architectural Decoupling: The framework introduces tensor virtualization to separate logical tensor representations from physical GPU memory objects, backed by native out-of-the-box 5D tensor support. Stage-Aware Generative Workloads: Custom execution paths dynamically tune shader layouts and kernel execution between compute-heavy prompt prefill and memory-bandwidth-constrained token decode stages. Broad Graphics API Abstraction: ML Drift spans diverse client operating systems by targeting OpenCL on Android, Metal on Apple silicon, and standalone native WebGPU via Dawn on Windows and Linux. Silicon Partner Co-Engineering: Architectural optimizations engineered in collaboration with Arm, Intel, and Qualcomm extract peak compute throughput across modern mobile and PC graphics hardware. Battle-Tested Scale: The compute engine actively powers millions of daily user interactions across Google Chrome, YouTube Shorts, Google Photos, and Google Meet. Modern Migration Path: As the definitive successor to the deprecated TensorFlow Lite GPU delegate, ML Drift offers drop-in runtime upgrades through LiteRT alongside modular C++ APIs.",
       "lang": "en"
+    },
+    {
+      "title": "앤스로픽, AI 코딩 에이전트 시대 대응 위해 자체 버전 관리 시스템 Scion 전격 도입",
+      "url": "https://dragon-story.com/entry/%EC%95%A4%EC%8A%A4%EB%A1%9C%ED%94%BD-AI-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EC%8B%9C%EB%8C%80-%EB%8C%80%EC%9D%91-%EC%9C%84%ED%95%B4-%EC%9E%90%EC%B2%B4-%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC-%EC%8B%9C%EC%8A%A4%ED%85%9C-Scion-%EC%A0%84%EA%B2%A9-%EB%8F%84%EC%9E%85/",
+      "description": "앤스로픽이 AI 에이전트 확산으로 인한 Git 인프라 한계를 극복하기 위해 자체 분산 버전 관리 시스템인 Scion으로 모노레포를 마이그레이션한 아키텍처와 성과를 분석합니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-10-28T00:15:58+09:00"
     }
   ]
 }
