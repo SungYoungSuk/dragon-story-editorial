@@ -2975,6 +2975,16 @@
       "summary": "AI-Driven Systems Port: Built by directing frontier AI models with zero manual code authorship, tsrs relies entirely on TypeScript’s comprehensive test suite as its formal behavioral specification…",
       "description": "AI-Driven Systems Port: Built by directing frontier AI models with zero manual code authorship, tsrs relies entirely on TypeScript’s comprehensive test suite as its formal behavioral specification. Ecosystem Alignment: Incubated within the Oxc JavaScript toolchain alongside Cloudflare, VoidZero, and Owner.com, the project operates in direct alignment with the official TypeScript team rather than acting as a competing fork. Order-of-Magnitude Performance: Migrating to Rust’s concurrent, arena-allocated memory model unlocks dramatic throughput accelerations and slashes peak memory consumption across large enterprise codebases. Edge-Ready WebAssembly: Compiling directly to WASI without an embedded runtime garbage collector enables sandboxed execution across Cloudflare Workers, browser playgrounds, and agentic workflows. Two-Way Upstream Innovation: In achieving near-complete baseline test parity, architectural optimizations discovered during tsrs development are actively upstreamed back into the core TypeScript compiler.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-10-28T01:43:39+09:00",
+      "category": "ai",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Apple-Upgrades-iOS-27.2-and-macOS-with-Conversational-Siri-AI-Features",
+      "title": "Apple Upgrades iOS 27.2 and macOS with Conversational Siri AI Features",
+      "summary": "Next-Generation Conversational Intelligence: Siri now leverages conversational memory, onscreen awareness, and cross-application indexing to handle contextual multi-step requests. Cross-Platform Beta…",
+      "description": "Next-Generation Conversational Intelligence: Siri now leverages conversational memory, onscreen awareness, and cross-application indexing to handle contextual multi-step requests. Cross-Platform Beta Deployment: The upgraded assistant has officially arrived across major system updates, including iOS 27.2 and macOS Golden Gate 27.2, on supported Apple Intelligence hardware. Expanded Multilingual Support: Apple has broadened global availability to include five new spoken languages, with several additional dialects slated to arrive before the end of the year. Refined Privacy and Computation Policies: Built-in app exclusion settings and age gates provide deeper user control, while high-compute cloud queries operate under daily usage parameters. Ecosystem-Wide Feature Additions: Accompanying system updates introduce context-aware Messages suggestions, AI image watermarking verification, and refreshed application aesthetics.",
+      "lang": "en"
     }
   ]
 }
