@@ -3032,6 +3032,16 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-10-30T00:10:47+09:00"
+    },
+    {
+      "published_at": "2026-10-30T00:12:22+09:00",
+      "category": "ai",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Datadogs-Scout-AI-Brings-Continuous-SRE-Incident-Triage-to-Production",
+      "title": "Datadog’s Scout AI Brings Continuous SRE Incident Triage to Production",
+      "summary": "Purpose-Built Diagnostic Model: Scout is Datadog's specialized AI model, post-trained via reinforcement learning to autonomously investigate alerts and identify root causes across production…",
+      "description": "Purpose-Built Diagnostic Model: Scout is Datadog's specialized AI model, post-trained via reinforcement learning to autonomously investigate alerts and identify root causes across production environments. Frugal Inference Economics: Scout delivers diagnostic benchmark performance rivaling leading frontier models while operating at substantially reduced inference costs, enabling continuous analysis for every alert. Parallel Telemetry Exploration: Operating within Bits Investigation, the engine simultaneously tests multiple causal hypotheses across logs, traces, and metrics the moment an incident fires. Human-in-the-Loop Remediation: While Scout formulates verified root-cause summaries and suggested code fixes, human site reliability engineers retain decisive control over applying production system changes.",
+      "lang": "en"
     }
   ]
 }
