@@ -3013,6 +3013,16 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-10-29T23:54:05+09:00"
+    },
+    {
+      "published_at": "2026-10-29T23:55:11+09:00",
+      "category": "security",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Google-Gemini-4-Carbon-Advanced-AI-Security-and-Code-Remediation",
+      "title": "Google Gemini 4 Carbon: Advanced AI Security and Code Remediation",
+      "summary": "Frontier Benchmark Leadership: Google has introduced Gemini 4 Carbon as its most capable flagship model to date, securing top positions across complex reasoning and multi-agent intelligence rankings…",
+      "description": "Frontier Benchmark Leadership: Google has introduced Gemini 4 Carbon as its most capable flagship model to date, securing top positions across complex reasoning and multi-agent intelligence rankings. End-to-End Cyber Defense: The architecture covers the full defensive spectrum, demonstrating advanced proficiency in automated vulnerability discovery, exploit verification, and direct code remediation. Long-Horizon Agent Reliability: DeepMind engineered the system to sustain multi-day problem-solving cycles across large repositories while dramatically curbing hallucinations and operational misalignment. Hardened Safety Framework: Integrated alignment techniques and live execution monitoring provide unprecedented resilience against indirect prompt injections and agent shortcut exploits. Controlled Defensive Access: Initial deployment is deliberately staged through the Fairwind Program, restricting early access to vetted defenders and critical infrastructure partners under strict governance protocols.",
+      "lang": "en"
     }
   ]
 }
