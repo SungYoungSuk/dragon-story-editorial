@@ -3023,6 +3023,15 @@
       "summary": "Frontier Benchmark Leadership: Google has introduced Gemini 4 Carbon as its most capable flagship model to date, securing top positions across complex reasoning and multi-agent intelligence rankings…",
       "description": "Frontier Benchmark Leadership: Google has introduced Gemini 4 Carbon as its most capable flagship model to date, securing top positions across complex reasoning and multi-agent intelligence rankings. End-to-End Cyber Defense: The architecture covers the full defensive spectrum, demonstrating advanced proficiency in automated vulnerability discovery, exploit verification, and direct code remediation. Long-Horizon Agent Reliability: DeepMind engineered the system to sustain multi-day problem-solving cycles across large repositories while dramatically curbing hallucinations and operational misalignment. Hardened Safety Framework: Integrated alignment techniques and live execution monitoring provide unprecedented resilience against indirect prompt injections and agent shortcut exploits. Controlled Defensive Access: Initial deployment is deliberately staged through the Fairwind Program, restricting early access to vetted defenders and critical infrastructure partners under strict governance protocols.",
       "lang": "en"
+    },
+    {
+      "title": "데이터독, SRE 장애 조사 전문 AI 모델 Scout 1.0 공개",
+      "url": "https://dragon-story.com/entry/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%8F%85-SRE-%EC%9E%A5%EC%95%A0-%EC%A1%B0%EC%82%AC-%EC%A0%84%EB%AC%B8-AI-%EB%AA%A8%EB%8D%B8-Scout-1.0-%EA%B3%B5%EA%B0%9C/",
+      "description": "데이터독이 프로덕션 장애 조사에 특화된 경량 AI 모델 Scout 1.0을 공개했습니다. Bits Investigation에 연동되어 온콜 엔지니어를 돕는 상시 가동 최초 대응자 역할을 수행하며, 강화학습을 통한 추론 비용 절감과 정밀한 진단 역량을 제공합니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-10-30T00:10:47+09:00"
     }
   ]
 }
