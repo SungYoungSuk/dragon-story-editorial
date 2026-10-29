@@ -3042,6 +3042,15 @@
       "summary": "Purpose-Built Diagnostic Model: Scout is Datadog's specialized AI model, post-trained via reinforcement learning to autonomously investigate alerts and identify root causes across production…",
       "description": "Purpose-Built Diagnostic Model: Scout is Datadog's specialized AI model, post-trained via reinforcement learning to autonomously investigate alerts and identify root causes across production environments. Frugal Inference Economics: Scout delivers diagnostic benchmark performance rivaling leading frontier models while operating at substantially reduced inference costs, enabling continuous analysis for every alert. Parallel Telemetry Exploration: Operating within Bits Investigation, the engine simultaneously tests multiple causal hypotheses across logs, traces, and metrics the moment an incident fires. Human-in-the-Loop Remediation: While Scout formulates verified root-cause summaries and suggested code fixes, human site reliability engineers retain decisive control over applying production system changes.",
       "lang": "en"
+    },
+    {
+      "title": "클라우드플레어, AI 에이전트용 웹 검색 API 오픈 베타 출시",
+      "url": "https://dragon-story.com/entry/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%ED%94%8C%EB%A0%88%EC%96%B4-AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%9A%A9-%EC%9B%B9-%EA%B2%80%EC%83%89-API-%EC%98%A4%ED%94%88-%EB%B2%A0%ED%83%80-%EC%B6%9C%EC%8B%9C/",
+      "description": "클라우드플레어가 실시간 웹 정보를 AI 모델에 주입하는 Web Search API 오픈 베타를 출시했습니다. Ceramic, Exa, Linkup 등 다중 검색 제공업체 통합과 엔터프라이즈 보안 체계를 제공합니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-10-30T00:23:09+09:00"
     }
   ]
 }
