@@ -3051,6 +3051,16 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-10-30T00:23:09+09:00"
+    },
+    {
+      "published_at": "2026-10-30T00:26:01+09:00",
+      "category": "ai",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Inside-Cloudflares-Web-Search-API-Real-Time-Grounding-for-AI-Agents",
+      "title": "Inside Cloudflare's Web Search API: Real-Time Grounding for AI Agents",
+      "summary": "Unified Web Search Layer: Delivers dynamic real-time grounding for AI agents directly through Cloudflare AI Gateway, removing the need for manual scraping pipelines or URL guesswork. Normalized…",
+      "description": "Unified Web Search Layer: Delivers dynamic real-time grounding for AI agents directly through Cloudflare AI Gateway, removing the need for manual scraping pipelines or URL guesswork. Normalized Multi-Provider Schema: Standardizes query outputs across diverse search providers into a consistent structure, enabling provider switching without altering application parsing logic. Frictionless Developer Access: Offers immediate edge execution via Cloudflare Workers AI bindings alongside standard REST endpoints for external backend architectures. Consolidated Billing and Observability: Aggregates search requests, runtime latency, and provider costs into the same unified gateway dashboard alongside model inference logs. Publisher Transparency Standards: Enforces verified bot protocols, robots.txt compliance, and mandatory source attribution to maintain web indexing integrity. Enterprise Security & Data Privacy: Incorporates prompt injection defenses and supports Zero Data Retention compliance to protect proprietary workflows and sensitive user queries.",
+      "lang": "en"
     }
   ]
 }
