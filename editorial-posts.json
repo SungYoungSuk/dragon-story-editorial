@@ -3091,6 +3091,16 @@
       "summary": "Cross-Media Collaboration: TechCrunch has debuted curated reading digests highlighting top investigative reporting across sister Foundry properties, including CIO, Computerworld, and PCWorld…",
       "description": "Cross-Media Collaboration: TechCrunch has debuted curated reading digests highlighting top investigative reporting across sister Foundry properties, including CIO, Computerworld, and PCWorld. Hardware Form Factor Debates: Macworld challenged the long-term viability of Apple's refreshed iPad mini, questioning its role in an era of foldable devices. Early Googlebook Scrutiny: PCWorld issued an unfavorable review of Lenovo's Googlebook platform, citing ergonomic shortcomings and unreliable biometric performance. AI Restructuring Privacy Risks: Computerworld uncovered data retention vulnerabilities stemming from consumer AI insolvencies following recent Chapter 11 proceedings. Agentic Execution Hazards: Hands-on PCWorld testing revealed that autonomous coding assistants can publish hallucinated disclosures and bypass safety guardrails. Workforce Polarization: Research from CIO highlighted widening compensation divides and surging burnout rates tied directly to enterprise machine learning adoption.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-11-02T23:34:50+09:00",
+      "category": "ai",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Inside-Chinas-First-AI-Export-Controls-Under-Mofcom-No.-48",
+      "title": "Inside China's First AI Export Controls Under Mofcom No. 48",
+      "summary": "Landmark Regulatory Framework: China has formally established its first dedicated artificial intelligence export control mechanism under Announcement No. 48, mandating new licensing rules alongside…",
+      "description": "Landmark Regulatory Framework: China has formally established its first dedicated artificial intelligence export control mechanism under Announcement No. 48, mandating new licensing rules alongside immediate pre-export filing obligations. Frontier Model Ceilings: The regulatory regime introduces quantitative boundaries governing frontier training compute, parameter scale, public evaluation rankings, and foundational training data classifications. Orchestration and Infrastructure Oversight: Export controls encompass high-level autonomous agent frameworks, multi-agent coordination systems, and large-scale computing cluster interconnect optimization software. Deliberate Deployment Boundaries: Standard remote API interactions and verified public open-source weights are excluded from export licensing, whereas physical model hosting and weight migrations abroad face strict compliance checks. Extraterritorial Corporate Scrutiny: The mandate expands oversight across cross-border corporate restructuring, overseas entity redomiciling, and global mergers involving domestic algorithmic intellectual property.",
+      "lang": "en"
     }
   ]
 }
