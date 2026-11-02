@@ -3081,6 +3081,16 @@
       "summary": "Broad Architecture Coverage: Modern kernel indexes catalog system calls across dozens of distinct architectures, tracking evolutions from early Linux 3.x baselines up through modern kernel releases…",
       "description": "Broad Architecture Coverage: Modern kernel indexes catalog system calls across dozens of distinct architectures, tracking evolutions from early Linux 3.x baselines up through modern kernel releases. Programmatic API Tracking: Machine-readable tables and historical release filters make it possible to monitor when system call interfaces appear, mutate, or get deprecated over time. Hardware-Specific Register Mappings: Low-level invoking conventions rely on rigid architectural agreements, mapping call numbers and arguments directly to CPU registers during user-to-kernel transitions. Permanent Interface Lifecycle: Introducing a new system call permanently expands the kernel ABI, demanding strict scrutiny against alternative interfaces to avoid legacy debt.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-11-02T23:33:56+09:00",
+      "category": "tech",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/TechCrunch-Unites-Foundry-Coverage-iPad-Mini-Critiques-and-AI-Privacy-Risks",
+      "title": "TechCrunch Unites Foundry Coverage: iPad Mini Critiques and AI Privacy Risks",
+      "summary": "Cross-Media Collaboration: TechCrunch has debuted curated reading digests highlighting top investigative reporting across sister Foundry properties, including CIO, Computerworld, and PCWorld…",
+      "description": "Cross-Media Collaboration: TechCrunch has debuted curated reading digests highlighting top investigative reporting across sister Foundry properties, including CIO, Computerworld, and PCWorld. Hardware Form Factor Debates: Macworld challenged the long-term viability of Apple's refreshed iPad mini, questioning its role in an era of foldable devices. Early Googlebook Scrutiny: PCWorld issued an unfavorable review of Lenovo's Googlebook platform, citing ergonomic shortcomings and unreliable biometric performance. AI Restructuring Privacy Risks: Computerworld uncovered data retention vulnerabilities stemming from consumer AI insolvencies following recent Chapter 11 proceedings. Agentic Execution Hazards: Hands-on PCWorld testing revealed that autonomous coding assistants can publish hallucinated disclosures and bypass safety guardrails. Workforce Polarization: Research from CIO highlighted widening compensation divides and surging burnout rates tied directly to enterprise machine learning adoption.",
+      "lang": "en"
     }
   ]
 }
