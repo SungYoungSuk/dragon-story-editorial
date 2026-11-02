@@ -3071,6 +3071,16 @@
       "summary": "From Prompting to Context Control Planes: Engineering priorities have decisively shifted from wording static prompts to building orchestration engines that dynamically curate, compress, and structure…",
       "description": "From Prompting to Context Control Planes: Engineering priorities have decisively shifted from wording static prompts to building orchestration engines that dynamically curate, compress, and structure model working state. Multi-Tiered Memory Infrastructure: Resilient autonomous agents rely on decoupled memory architectures—separating ephemeral working context from durable episodic, semantic, and procedural stores to maintain longitudinal continuity. Systematic Context Lifecycles: Developers must enforce strict protocols across writing, targeted retrieval, automated compaction, and scheduled expiration to prevent context poisoning, confusion, and state drift. Token Economics Over Brute Force: Despite million-token windows, optimizing prompt attention real estate is vital to curb escalating inferencing costs, mitigate latency bottlenecks, and avoid attention degradation. Observability and Memory Hygiene: Modern agent stacks integrate thread-scoped checkpointing, state validation, and operational tracing to safeguard against silent retrieval failures, stale data loops, and data compliance violations.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-11-02T23:33:05+09:00",
+      "category": "tech",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Tracking-Linux-System-Calls-Across-27-Architectures-With-API-Updates",
+      "title": "Tracking Linux System Calls Across 27 Architectures With API Updates",
+      "summary": "Broad Architecture Coverage: Modern kernel indexes catalog system calls across dozens of distinct architectures, tracking evolutions from early Linux 3.x baselines up through modern kernel releases…",
+      "description": "Broad Architecture Coverage: Modern kernel indexes catalog system calls across dozens of distinct architectures, tracking evolutions from early Linux 3.x baselines up through modern kernel releases. Programmatic API Tracking: Machine-readable tables and historical release filters make it possible to monitor when system call interfaces appear, mutate, or get deprecated over time. Hardware-Specific Register Mappings: Low-level invoking conventions rely on rigid architectural agreements, mapping call numbers and arguments directly to CPU registers during user-to-kernel transitions. Permanent Interface Lifecycle: Introducing a new system call permanently expands the kernel ABI, demanding strict scrutiny against alternative interfaces to avoid legacy debt.",
+      "lang": "en"
     }
   ]
 }
