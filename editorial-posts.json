@@ -3101,6 +3101,15 @@
       "summary": "Landmark Regulatory Framework: China has formally established its first dedicated artificial intelligence export control mechanism under Announcement No. 48, mandating new licensing rules alongside…",
       "description": "Landmark Regulatory Framework: China has formally established its first dedicated artificial intelligence export control mechanism under Announcement No. 48, mandating new licensing rules alongside immediate pre-export filing obligations. Frontier Model Ceilings: The regulatory regime introduces quantitative boundaries governing frontier training compute, parameter scale, public evaluation rankings, and foundational training data classifications. Orchestration and Infrastructure Oversight: Export controls encompass high-level autonomous agent frameworks, multi-agent coordination systems, and large-scale computing cluster interconnect optimization software. Deliberate Deployment Boundaries: Standard remote API interactions and verified public open-source weights are excluded from export licensing, whereas physical model hosting and weight migrations abroad face strict compliance checks. Extraterritorial Corporate Scrutiny: The mandate expands oversight across cross-border corporate restructuring, overseas entity redomiciling, and global mergers involving domestic algorithmic intellectual property.",
       "lang": "en"
+    },
+    {
+      "title": "에이전틱 AI 아키텍처의 핵심: 컨텍스트, 메모리, 지식의 삼원 분리와 제어 평면",
+      "url": "https://dragon-story.com/entry/%EC%97%90%EC%9D%B4%EC%A0%84%ED%8B%B1-AI-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EC%9D%98-%ED%95%B5%EC%8B%AC-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%A7%80%EC%8B%9D%EC%9D%98-%EC%82%BC%EC%9B%90-%EB%B6%84%EB%A6%AC%EC%99%80-%EC%A0%9C%EC%96%B4-%ED%8F%89%EB%A9%B4/",
+      "description": "거대 언어 모델의 한계를 극복하기 위해 에이전틱 AI 시스템이 컨텍스트, 메모리, 지식을 분리하고 제어 평면과 TTL 거버넌스를 통해 최적화하는 구조적 아키텍처를 해설합니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-11-02T23:36:25+09:00"
     }
   ]
 }
