@@ -3110,6 +3110,15 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-11-02T23:36:25+09:00"
+    },
+    {
+      "title": "리눅스 시스템 콜 참조 플랫폼 대규모 개편, 27개 아키텍처 DB와 JSON API 전격 공개",
+      "url": "https://dragon-story.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%BD%9C-%EC%B0%B8%EC%A1%B0-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EA%B0%9C%ED%8E%B8-27%EA%B0%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-DB%EC%99%80-JSON-API-%EC%A0%84%EA%B2%A9-%EA%B3%B5%EA%B0%9C/",
+      "description": "광범위한 리눅스 커널 버전에 걸쳐 27개 주요 아키텍처의 시스템 콜 명세를 통합 제공하는 syscall.sh 프로젝트의 대규모 개편 소식과 JSON API, 레지스터 바인딩 내부 구조를 다룹니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-11-02T23:37:07+09:00"
     }
   ]
 }
