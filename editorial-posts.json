@@ -3146,6 +3146,16 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-11-03T21:08:21+09:00"
+    },
+    {
+      "published_at": "2026-11-03T21:10:34+09:00",
+      "category": "tech",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/OpenAirInterface-vs.-srsRAN-Putting-Open-Source-5G-RAN-to-the-Test",
+      "title": "OpenAirInterface vs. srsRAN: Putting Open-Source 5G RAN to the Test",
+      "summary": "Architectural Maturity: OpenAirInterface provides extensive 3GPP release compliance and millimeter-wave support, whereas srsRAN emphasizes streamlined deployment and higher-order multi-antenna…",
+      "description": "Architectural Maturity: OpenAirInterface provides extensive 3GPP release compliance and millimeter-wave support, whereas srsRAN emphasizes streamlined deployment and higher-order multi-antenna capability. Operational Usability: Setting up srsRAN involves substantially lower configuration friction, while OpenAirInterface demands deeper protocol expertise due to complex parameter structures. Signaling Performance: Both open-source stacks maintain comparable connection establishment latency during simultaneous multi-device radio access procedures. Bandwidth and Stability Dynamics: Each platform achieves strong spectral efficiency across software-defined radios, though advanced multi-antenna modes highlight physical-layer stability challenges. Interactive Workload Resilience: In latency-critical workloads such as live streaming and cloud gaming, srsRAN provides superior temporal consistency, while OpenAirInterface is more prone to jitter. Production Ecosystem Integration: Expanding hardware acceleration options and formal alignment under open networking consortia solidify open-source RAN as an enterprise-grade cellular framework.",
+      "lang": "en"
     }
   ]
 }
