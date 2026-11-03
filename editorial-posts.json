@@ -3137,6 +3137,15 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-11-02T23:39:22+09:00"
+    },
+    {
+      "title": "오픈소스 5G RAN 플랫폼 성능 분석: OAI와 srsRAN의 아키텍처 및 실측 비교",
+      "url": "https://dragon-story.com/entry/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-5G-RAN-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EC%84%B1%EB%8A%A5-%EB%B6%84%EC%84%9D-OAI%EC%99%80-srsRAN%EC%9D%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EB%B0%8F-%EC%8B%A4%EC%B8%A1-%EB%B9%84%EA%B5%90/",
+      "description": "오픈소스 5G RAN 플랫폼인 OpenAirInterface(OAI)와 srsRAN의 아키텍처, 제어 평면 응답성, 데이터 평면 처리량, 그리고 실제 서비스 체감 품질을 비교 분석합니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-11-03T21:08:21+09:00"
     }
   ]
 }
