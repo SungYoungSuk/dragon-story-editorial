@@ -3204,6 +3204,15 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-11-05T22:12:41+09:00"
+    },
+    {
+      "title": "바이두 ERNIE 5.5 Flash Base 아키텍처와 성능 특징 분석",
+      "url": "https://dragon-story.com/entry/%EB%B0%94%EC%9D%B4%EB%91%90-ERNIE-5.5-Flash-Base-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EC%99%80-%EC%84%B1%EB%8A%A5-%ED%8A%B9%EC%A7%95-%EB%B6%84%EC%84%9D/",
+      "description": "바이두가 공개한 ERNIE 5.5 Flash Base 모델의 280B MoE 아키텍처, 하이브리드 어텐션, 잠재 공간 라우터, 그리고 코딩 및 추론 벤치마크 성과를 심층 분석합니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-11-05T22:13:24+09:00"
     }
   ]
 }
