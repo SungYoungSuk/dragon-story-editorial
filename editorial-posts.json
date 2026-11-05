@@ -3195,6 +3195,15 @@
       "summary": "Next-Generation Open Base Model: Baidu has officially launched ERNIE-5.5-Flash-Base, a massive 280-billion-parameter mixture-of-experts foundation model built explicitly as an unaligned starting…",
       "description": "Next-Generation Open Base Model: Baidu has officially launched ERNIE-5.5-Flash-Base, a massive 280-billion-parameter mixture-of-experts foundation model built explicitly as an unaligned starting point for specialized post-training. Extreme Sparse Activation: By activating just 14 billion parameters per token through fine-grained expert routing, the architecture delivers ultra-low latency while sustaining context lengths up to 128K tokens. Novel Hybrid Attention Topology: The network combines Heavily Compressed Attention with dynamic sparse latent attention to drastically reduce memory footprint without degrading retrieval fidelity. Massive Pre-Training Scale: Pre-trained from scratch on 33.5 trillion diverse tokens using the distributed Muon optimizer, the checkpoint achieves exceptional mathematical, code synthesis, and analytical capabilities. Frontier Benchmark Results: The model consistently outpaces competitive open-weight base checkpoints—including DeepSeek-V4-Flash-Base—across core evaluations like HumanEval+ and MMLU-Pro. Optimized Serving Ecosystem: Deployments are immediately compatible with vLLM and SGLang, featuring production recipes calibrated for modern acceleration platforms including NVIDIA Blackwell systems. Tiered Open Licensing: Distributed under a custom agreement that provides royalty-free commercial utility for ventures generating under $50 million annually, subject to regional and distillation terms.",
       "lang": "en"
+    },
+    {
+      "title": "AI 데이터센터 건설 잇단 부결, 텍사스·오하이오 규제 태풍 직면한 빅테크",
+      "url": "https://dragon-story.com/entry/AI-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%84%BC%ED%84%B0-%EA%B1%B4%EC%84%A4-%EC%9E%87%EB%8B%A8-%EB%B6%80%EA%B2%B0-%ED%85%8D%EC%82%AC%EC%8A%A4%EC%98%A4%ED%95%98%EC%9D%B4%EC%98%A4-%EA%B7%9C%EC%A0%9C-%ED%83%9C%ED%92%8D-%EC%A7%81%EB%A9%B4%ED%95%9C-%EB%B9%85%ED%85%8C%ED%81%AC/",
+      "description": "2026년 중간선거에서 AI 데이터센터 건립 안건이 대거 부결되며 텍사스와 오하이오 등 주요 거점에 모라토리엄 규제가 확산되고 있습니다. 빅테크 기업들의 상생 대책과 연방 의회의 입법 리스크를 분석합니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-11-05T22:12:41+09:00"
     }
   ]
 }
