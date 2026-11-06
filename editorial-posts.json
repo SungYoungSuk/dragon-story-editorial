@@ -3240,6 +3240,16 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-11-06T21:45:46+09:00"
+    },
+    {
+      "published_at": "2026-11-06T21:46:57+09:00",
+      "category": "tech",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/OpenBao-2.7-Adds-External-Keys-Quantum-TLS-and-PostgreSQL-Scaling",
+      "title": "OpenBao 2.7 Adds External Keys, Quantum TLS, and PostgreSQL Scaling",
+      "summary": "PostgreSQL Horizontal Read Scaling: Standby instances can now process read requests directly, bringing relational backend performance in line with Raft-based clusters. External HSM and Cloud Key…",
+      "description": "PostgreSQL Horizontal Read Scaling: Standby instances can now process read requests directly, bringing relational backend performance in line with Raft-based clusters. External HSM and Cloud Key Management: Sensitive root cryptographic operations can be delegated to hardware appliances and cloud KMS providers via a modular plugin architecture. Post-Quantum Cryptographic Readiness: Native integration of ML-DSA and ML-KEM across listeners and secret engines prepares enterprises for impending post-quantum compliance timelines. Multi-Party Access Governance: Flexible control group stanzas require secondary peer authorization for high-risk operations to prevent single-operator privilege abuse. Architectural Decoupling: Cloud-native auto-unseal providers and select identity backends have transitioned into standalone plugins, retiring monolithic dependencies and insecure file storage. Neutral Open-Source Governance: Developed under the Linux Foundation’s OpenSSF with MPL 2.0 licensing, the platform maintains active commercial backing and Vault API compatibility.",
+      "lang": "en"
     }
   ]
 }
