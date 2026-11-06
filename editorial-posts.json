@@ -3260,6 +3260,16 @@
       "summary": "Native Apple Silicon Architecture: Built from the ground up for macOS to deliver fluid 3D planetary rendering, textured elevations, and vector labeling. Heritage and Community Buzz: Generates…",
       "description": "Native Apple Silicon Architecture: Built from the ground up for macOS to deliver fluid 3D planetary rendering, textured elevations, and vector labeling. Heritage and Community Buzz: Generates widespread attention among technical communities with direct development roots tracing back to early digital earth pioneers. Comprehensive 3D Cartography: Seamlessly displays cloud-free satellite imagery, urban building volumes, and custom terrain exaggeration on a responsive digital globe. Dual Globe and Atlas Projections: Switches smoothly between spherical planetary views and flat, unlit historical atlas projections suitable for print and image exports. Multi-Body Solar System Exploration: Extends exploration beyond Earth to planetary bodies, probe-mapped surfaces, and dynamic multi-millennium astronomical simulations. Frictionless Open Geodata: Streams global OpenStreetMap layers and public geoportals instantly without user account hurdles or mandatory batch downloads. Spatial Hardware Support: Integrates driverless six-degree-of-freedom controllers and broadcasts real-time 3D environments wirelessly into spatial computing headsets.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-11-06T21:48:52+09:00",
+      "category": "tech",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Inside-Cult.fit-How-OpenAI-Codex-Powers-Citizen-Development",
+      "title": "Inside Cult.fit: How OpenAI Codex Powers Citizen Development",
+      "summary": "SDLC Standardization: Cult.fit unified its software engineering lifecycle around OpenAI Codex, dismantling an uncoordinated sprawl of isolated coding tools. Citizen Development Across Operations…",
+      "description": "SDLC Standardization: Cult.fit unified its software engineering lifecycle around OpenAI Codex, dismantling an uncoordinated sprawl of isolated coding tools. Citizen Development Across Operations: Non-engineering teams in marketing, customer support, and field operations now translate natural language instructions into functional scripts and internal tools. Structured Engineering Guardrails: User-generated automations operate safely through sandboxed execution environments, standardized template libraries, and mandatory peer code review gates. SaaS Tooling Consolidation: Rapid in-house software development powered by Codex has enabled the company to build proprietary internal apps and phase out costly commercial SaaS subscriptions. Enterprise Operational Leverage: The initiative unlocks faster data transformations and custom ticket workflows to support Cult.fit's expansive hybrid fitness operations nationwide.",
+      "lang": "en"
     }
   ]
 }
