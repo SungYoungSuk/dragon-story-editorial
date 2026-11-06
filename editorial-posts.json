@@ -3231,6 +3231,15 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-11-06T21:44:59+09:00"
+    },
+    {
+      "title": "엔지니어링 병목을 없앤 Cult.fit의 OpenAI Codex 활용법",
+      "url": "https://dragon-story.com/entry/%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EB%B3%91%EB%AA%A9%EC%9D%84-%EC%97%86%EC%95%A4-Cult.fit%EC%9D%98-OpenAI-Codex-%ED%99%9C%EC%9A%A9%EB%B2%95/",
+      "description": "인도의 헬스케어 기업 Cult.fit이 OpenAI Codex를 도입하여 엔지니어링 병목을 해소하고 현업 부서가 직접 업무 자동화 도구를 구축한 사례를 살펴봅니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-11-06T21:45:46+09:00"
     }
   ]
 }
