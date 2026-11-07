@@ -3270,6 +3270,15 @@
       "summary": "SDLC Standardization: Cult.fit unified its software engineering lifecycle around OpenAI Codex, dismantling an uncoordinated sprawl of isolated coding tools. Citizen Development Across Operations…",
       "description": "SDLC Standardization: Cult.fit unified its software engineering lifecycle around OpenAI Codex, dismantling an uncoordinated sprawl of isolated coding tools. Citizen Development Across Operations: Non-engineering teams in marketing, customer support, and field operations now translate natural language instructions into functional scripts and internal tools. Structured Engineering Guardrails: User-generated automations operate safely through sandboxed execution environments, standardized template libraries, and mandatory peer code review gates. SaaS Tooling Consolidation: Rapid in-house software development powered by Codex has enabled the company to build proprietary internal apps and phase out costly commercial SaaS subscriptions. Enterprise Operational Leverage: The initiative unlocks faster data transformations and custom ticket workflows to support Cult.fit's expansive hybrid fitness operations nationwide.",
       "lang": "en"
+    },
+    {
+      "title": "Changesets 대안 제시하는 모노레포 버전 관리 도구 Bumpy 출시",
+      "url": "https://dragon-story.com/entry/Changesets-%EB%8C%80%EC%95%88-%EC%A0%9C%EC%8B%9C%ED%95%98%EB%8A%94-%EB%AA%A8%EB%85%B8%EB%A0%88%ED%8F%AC-%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC-%EB%8F%84%EA%B5%AC-Bumpy-%EC%B6%9C%EC%8B%9C/",
+      "description": "Varlock이 Changesets의 대안으로 공개한 파일 기반 모노레포 버전 관리 도구 Bumpy의 주요 특징을 소개합니다. 마크다운 기반 bump 파일, workspace 및 catalog 자체 해석, 3단계 의존성 전파, AI 에이전트 연동 스킬까지 상세히 다룹니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-11-08T00:00:35+09:00"
     }
   ]
 }
