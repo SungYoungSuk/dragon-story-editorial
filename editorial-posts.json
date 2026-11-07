@@ -3317,6 +3317,16 @@
       "summary": "C ABI Modernization: Production-grade foundations like libghostty-vt demonstrate that strict, opaque C ABI designs can eliminate brittle C++ standard library dependencies while delivering portable…",
       "description": "C ABI Modernization: Production-grade foundations like libghostty-vt demonstrate that strict, opaque C ABI designs can eliminate brittle C++ standard library dependencies while delivering portable performance across diverse platforms. Static Binary Recompilation: Automated translation toolchains that convert legacy machine instructions directly into readable, portable C enable complex native binaries to execute seamlessly inside modern web runtimes and non-native environments. Low-Level Architectural Virtualization: Upstream kernel breakthroughs, such as per-process page size emulation and lightweight hypervisor isolation, dismantle hardware constraints by allowing 4 KiB workloads to coexist smoothly on 16 KiB architectures. Accessible Bare-Metal Toolchains: Modern compilation workflows targeting UEFI firmware facilitate direct hardware interaction and self-contained execution without the overhead or complexity of a full operating system kernel. Ergonomic Systems Languages: Emerging platforms and frameworks—including Zig, asynchronous embedded Rust, and Mojo—unify ergonomic developer ergonomics with fine-grained register, memory, and accelerator control.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-11-08T00:04:27+09:00",
+      "category": "tech",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Inside-Windows-11-Why-Electron-Apps-Face-Performance-Bottlenecks",
+      "title": "Inside Windows 11: Why Electron Apps Face Performance Bottlenecks",
+      "summary": "Native Engine Migrations: Flagship desktop platforms are increasingly piloting native rewrites in languages like Rust to eliminate the persistent overhead of bundled web runtimes. Shared Host…",
+      "description": "Native Engine Migrations: Flagship desktop platforms are increasingly piloting native rewrites in languages like Rust to eliminate the persistent overhead of bundled web runtimes. Shared Host Efficiencies: Shifting to shared system web hosts like Edge WebView2 has enabled major apps to drastically cut redundant process footprints. Rendering Pipeline Limits: JavaScript garbage collection pauses and DOM reflow cycles make it difficult for web-based rendering stacks to reliably meet tight display refresh deadlines. Windows I/O Sensitivity: The recursive module resolution model in Node.js creates measurable disk access penalties that delay application startup on Windows file systems. Compositor and Power Friction: Windows 11 Desktop Window Manager features and OS-level background throttling frequently clash with multi-process Chromium rendering layers.",
+      "lang": "en"
     }
   ]
 }
