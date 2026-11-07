@@ -3307,6 +3307,16 @@
       "summary": "Modern File-Based Monorepo Versioning: Bumpy uses localized markdown bump files to declare release intent, bump levels, and changelogs directly inside standard pull request reviews. Native Workspace…",
       "description": "Modern File-Based Monorepo Versioning: Bumpy uses localized markdown bump files to declare release intent, bump levels, and changelogs directly inside standard pull request reviews. Native Workspace and Catalog Support: The engine resolves modern package manager protocols such as catalog: and workspace: across npm, pnpm, Yarn, and Bun without manual hacks. Multi-Target Artifact Publishing: In addition to standard npm registries, teams can define custom publish lifecycles for non-npm artifacts such as Docker images, VS Code extensions, and JSR packages. Git-Clean Prerelease Channels: Ephemeral branch-based prerelease channels compute version strings dynamically at publish time, eliminating dirty commit states and painful git rollbacks. First-Class AI Agent Integration: Out-of-the-box agent skills enable LLMs and developer assistants to inspect workspace diffs, assign semver bump levels, and update release declarations automatically.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-11-08T00:03:34+09:00",
+      "category": "tech",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Inside-libghostty-vt-1.0-Modern-C-ABI-Design-and-Low-Level-Tools",
+      "title": "Inside libghostty-vt 1.0: Modern C ABI Design and Low-Level Tools",
+      "summary": "C ABI Modernization: Production-grade foundations like libghostty-vt demonstrate that strict, opaque C ABI designs can eliminate brittle C++ standard library dependencies while delivering portable…",
+      "description": "C ABI Modernization: Production-grade foundations like libghostty-vt demonstrate that strict, opaque C ABI designs can eliminate brittle C++ standard library dependencies while delivering portable performance across diverse platforms. Static Binary Recompilation: Automated translation toolchains that convert legacy machine instructions directly into readable, portable C enable complex native binaries to execute seamlessly inside modern web runtimes and non-native environments. Low-Level Architectural Virtualization: Upstream kernel breakthroughs, such as per-process page size emulation and lightweight hypervisor isolation, dismantle hardware constraints by allowing 4 KiB workloads to coexist smoothly on 16 KiB architectures. Accessible Bare-Metal Toolchains: Modern compilation workflows targeting UEFI firmware facilitate direct hardware interaction and self-contained execution without the overhead or complexity of a full operating system kernel. Ergonomic Systems Languages: Emerging platforms and frameworks—including Zig, asynchronous embedded Rust, and Mojo—unify ergonomic developer ergonomics with fine-grained register, memory, and accelerator control.",
+      "lang": "en"
     }
   ]
 }
