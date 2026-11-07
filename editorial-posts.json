@@ -3297,6 +3297,16 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-11-08T00:01:56+09:00"
+    },
+    {
+      "published_at": "2026-11-08T00:03:03+09:00",
+      "category": "tech",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/How-Bumpy-Modernizes-Monorepo-Versioning-as-a-Changesets-Alternative",
+      "title": "How Bumpy Modernizes Monorepo Versioning as a Changesets Alternative",
+      "summary": "Modern File-Based Monorepo Versioning: Bumpy uses localized markdown bump files to declare release intent, bump levels, and changelogs directly inside standard pull request reviews. Native Workspace…",
+      "description": "Modern File-Based Monorepo Versioning: Bumpy uses localized markdown bump files to declare release intent, bump levels, and changelogs directly inside standard pull request reviews. Native Workspace and Catalog Support: The engine resolves modern package manager protocols such as catalog: and workspace: across npm, pnpm, Yarn, and Bun without manual hacks. Multi-Target Artifact Publishing: In addition to standard npm registries, teams can define custom publish lifecycles for non-npm artifacts such as Docker images, VS Code extensions, and JSR packages. Git-Clean Prerelease Channels: Ephemeral branch-based prerelease channels compute version strings dynamically at publish time, eliminating dirty commit states and painful git rollbacks. First-Class AI Agent Integration: Out-of-the-box agent skills enable LLMs and developer assistants to inspect workspace diffs, assign semver bump levels, and update release declarations automatically.",
+      "lang": "en"
     }
   ]
 }
