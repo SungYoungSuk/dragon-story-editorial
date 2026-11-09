@@ -3373,6 +3373,16 @@
       "summary": "Server-first architecture: Topcoat generates HTML directly on the server through async Rust functions, bypassing WebAssembly bundles in favor of a lean, checked-in browser runtime. Tokio ecosystem…",
       "description": "Server-first architecture: Topcoat generates HTML directly on the server through async Rust functions, bypassing WebAssembly bundles in favor of a lean, checked-in browser runtime. Tokio ecosystem pedigree: Spearheaded by Tokio creator Carl Lerche and Julien Scholz, the project provides a cohesive full-stack web framework geared toward database-driven applications. Hybrid client reactivity: The engine renders type-checked Rust expressions on the server and cross-compiles them into minimal JavaScript, pairing local event handling with server-rendered dynamic shards. Node-free asset workflows: Out-of-the-box support for module-based routing, native Tailwind CSS processing, and content-hashed asset bundling eliminates external JavaScript toolchains. Early-stage evolutionary design: While offering an alternative to WASM-centric frameworks like Leptos and Dioxus, Topcoat remains in active 0.x development with specific syntactic boundaries and ongoing coherence refinements.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-11-09T21:52:22+09:00",
+      "category": "tech",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Inside-Snaps-New-Specs-Lighter-More-Comfortable-and-Still-Expensive",
+      "title": "Inside Snap's New Specs: Lighter, More Comfortable, and Still Expensive",
+      "summary": "Dramatic Ergonomic Overhaul: The redesigned chassis sheds nearly half the bulk of earlier developer prototypes, using Swiss TR90 polymer and flexible spring hinges for genuine wearable comfort. Dual…",
+      "description": "Dramatic Ergonomic Overhaul: The redesigned chassis sheds nearly half the bulk of earlier developer prototypes, using Swiss TR90 polymer and flexible spring hinges for genuine wearable comfort. Dual Sizing and Cool Operation: Releasing in two tailored frame sizes resolves individual fit challenges while advanced thermal dissipation eliminates previous facial heating issues. Adaptive Electrochromic Optics: Waveguide displays providing a 51-degree field of view integrate transition lenses that adjust tint dynamically in seconds. Untethered Dual-Processor Architecture: Twin Qualcomm Snapdragon chips handle computer vision and spatial rendering natively without external compute pucks or phone cables. Frontier Multi-AI Software: Powered by an evolving Snap OS, the system natively pairs OpenAI and Google Gemini intelligence with interactive spatial hand-tracking. Enterprise and Pioneer Focus: Positioned at a premium $2,195 retail tier, the hardware prioritizes developers and creative professionals while establishing long-term spatial computing utility.",
+      "lang": "en"
     }
   ]
 }
