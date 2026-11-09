@@ -3354,6 +3354,15 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-11-09T21:49:49+09:00"
+    },
+    {
+      "title": "구글 클라우드, 루트 권한 제공하는 자체 관리형 VMware 베어메탈 출시",
+      "url": "https://dragon-story.com/entry/%EA%B5%AC%EA%B8%80-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EB%A3%A8%ED%8A%B8-%EA%B6%8C%ED%95%9C-%EC%A0%9C%EA%B3%B5%ED%95%98%EB%8A%94-%EC%9E%90%EC%B2%B4-%EA%B4%80%EB%A6%AC%ED%98%95-VMware-%EB%B2%A0%EC%96%B4%EB%A9%94%ED%83%88-%EC%B6%9C%EC%8B%9C/",
+      "description": "구글 클라우드가 전용 베어메탈 인프라에서 VMware Cloud Foundation(VCF) 9.x를 직접 구동하는 자체 관리형 모델을 출시했습니다. 전체 스택에 대한 완전한 루트 권한과 BYOL 라이선스 이식을 지원하며, 엔터프라이즈 하이브리드 클라우드 운영의 새로운 대안을 제시합니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-11-09T21:50:36+09:00"
     }
   ]
 }
