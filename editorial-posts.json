@@ -3345,6 +3345,15 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-11-09T21:48:58+09:00"
+    },
+    {
+      "title": "AI 에이전트와 개발자 협업을 위한 전용 Git 포지 'Entire' 출시",
+      "url": "https://dragon-story.com/entry/AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%99%80-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%98%91%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%A0%84%EC%9A%A9-Git-%ED%8F%AC%EC%A7%80-Entire-%EC%B6%9C%EC%8B%9C/",
+      "description": "전 GitHub CEO Thomas Dohmke가 이끄는 Entire가 AI 코딩 에이전트와 개발자의 협업에 특화된 독립형 Git 포지를 정식 출시했습니다. 리전 분산 아키텍처, HUD 방식의 Trails 검토 체계, 지속적 메모리 계층 등을 제공합니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-11-09T21:49:49+09:00"
     }
   ]
 }
