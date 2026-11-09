@@ -3363,6 +3363,16 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-11-09T21:50:36+09:00"
+    },
+    {
+      "published_at": "2026-11-09T21:51:42+09:00",
+      "category": "tech",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Inside-Topcoat-The-New-Full-Stack-Rust-Web-Framework-Without-WASM",
+      "title": "Inside Topcoat: The New Full-Stack Rust Web Framework Without WASM",
+      "summary": "Server-first architecture: Topcoat generates HTML directly on the server through async Rust functions, bypassing WebAssembly bundles in favor of a lean, checked-in browser runtime. Tokio ecosystem…",
+      "description": "Server-first architecture: Topcoat generates HTML directly on the server through async Rust functions, bypassing WebAssembly bundles in favor of a lean, checked-in browser runtime. Tokio ecosystem pedigree: Spearheaded by Tokio creator Carl Lerche and Julien Scholz, the project provides a cohesive full-stack web framework geared toward database-driven applications. Hybrid client reactivity: The engine renders type-checked Rust expressions on the server and cross-compiles them into minimal JavaScript, pairing local event handling with server-rendered dynamic shards. Node-free asset workflows: Out-of-the-box support for module-based routing, native Tailwind CSS processing, and content-hashed asset bundling eliminates external JavaScript toolchains. Early-stage evolutionary design: While offering an alternative to WASM-centric frameworks like Leptos and Dioxus, Topcoat remains in active 0.x development with specific syntactic boundaries and ongoing coherence refinements.",
+      "lang": "en"
     }
   ]
 }
