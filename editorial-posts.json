@@ -3393,6 +3393,16 @@
       "summary": "Agent-first source control arrives: Entire launches a dedicated Git forge founded by former GitHub CEO Thomas Dohmke to support autonomous coding agents working alongside humans. High-throughput…",
       "description": "Agent-first source control arrives: Entire launches a dedicated Git forge founded by former GitHub CEO Thomas Dohmke to support autonomous coding agents working alongside humans. High-throughput distributed hosting: Modern object-store architectures dramatically accelerate Git push speeds to handle high-frequency, multi-agent commit bursts. Trails replace traditional pull requests: Diff-heavy timelines give way to heads-up evaluation dashboards that evaluate code quality, security posture, and intent drift in sandboxed environments. Persistent repository memory: Continuous memory frameworks index structural maps and developer prompts directly in the repo, eliminating repeated context losses between agent runs. Frictionless CI and repo migration: Native compatibility with platforms like Buildkite and Depot pairs with live GitHub mirroring to prevent lock-in and workflow disruptions. Hybrid open-core licensing: Developer CLI utilities and structural graph parsers are open-sourced under permissive licenses, backed by token-metered cloud verification sandboxes. The rise of agentic version control: An emerging ecosystem of specialized source control platforms is fundamentally rethinking collaboration models to eliminate multi-agent merge bottlenecks.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-11-09T21:53:42+09:00",
+      "category": "tech",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Inside-Google-Clouds-Self-Managed-Bare-Metal-VMware-Architecture",
+      "title": "Inside Google Cloud's Self-Managed Bare Metal VMware Architecture",
+      "summary": "Full Root Governance: Organizations retain complete administrative control across ESXi, vCenter, and NSX Manager using portable Broadcom VCF software licenses. Dedicated Bare-Metal Compute: Workloads…",
+      "description": "Full Root Governance: Organizations retain complete administrative control across ESXi, vCenter, and NSX Manager using portable Broadcom VCF software licenses. Dedicated Bare-Metal Compute: Workloads run on dedicated physical Compute Engine instances deployed directly inside consumer Google Cloud projects alongside native services. Advanced Underlay Networking: High-bandwidth host uplinks pair with Google's Andromeda network virtualization to dynamically emulate Layer 2 broadcast domains over Layer 3 VPCs. Scalable Edge Topologies: VMware NSX overlays connect seamlessly to Google Cloud networking fabrics through active-active BGP peering and Network Connectivity Center integration. Modern Hyperconverged Storage: Clusters utilize all-NVMe vSAN Express Storage Architecture supplemented by memory tiering and enterprise external datastores. Turnkey Automated Provisioning: Deployments are orchestrated rapidly via infrastructure-as-code toolkits with extensive operational support from global systems integration partners.",
+      "lang": "en"
     }
   ]
 }
