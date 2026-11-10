@@ -3423,6 +3423,15 @@
       "summary": "Sparse Trillion-Parameter Scale: LongCat-2.5 employs a Mixture-of-Experts (MoE) backbone totaling 1.6 trillion parameters while dynamically routing only 48 billion parameters per token across a…",
       "description": "Sparse Trillion-Parameter Scale: LongCat-2.5 employs a Mixture-of-Experts (MoE) backbone totaling 1.6 trillion parameters while dynamically routing only 48 billion parameters per token across a 1-million-token context window. Unified Multimodal Processing: Visual inputs—including full-resolution screenshots, charts, and video streams—are converted directly into discrete tokens within a shared semantic space rather than pre-compressed into generic thumbnails. Agent-Centric Reinforcement Learning: Training incorporates real-world software pull requests, strict multi-turn execution penalties, and multi-teacher distillation to eliminate repetitive reasoning loops during long-horizon workflows. Major Benchmark Advancements: The model delivers generational performance jumps over LongCat-2.0 across multi-step terminal challenges, automated browsing, and comprehensive repository-level code maintenance benchmarks. Optimized INT4 Inference: Tailored W4A4 quantization, learnable transformations, and custom grouped GEMM kernels allow efficient deployment and higher throughput across enterprise accelerator clusters. Permissive Open-Source Licensing: Released under the MIT license with complete weights and an OpenAI-compatible API endpoint, the model directly supports leading agent harnesses and IDE extensions.",
       "lang": "en"
+    },
+    {
+      "title": "앤스로픽 Fable 5.2, 하드웨어 해킹과 3D 월드 생성으로 본 인간 수준 게임 디자인 역량",
+      "url": "https://dragon-story.com/entry/%EC%95%A4%EC%8A%A4%EB%A1%9C%ED%94%BD-Fable-5.2-%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4-%ED%95%B4%ED%82%B9%EA%B3%BC-3D-%EC%9B%94%EB%93%9C-%EC%83%9D%EC%84%B1%EC%9C%BC%EB%A1%9C-%EB%B3%B8-%EC%9D%B8%EA%B0%84-%EC%88%98%EC%A4%80-%EA%B2%8C%EC%9E%84-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%97%AD%EB%9F%89/",
+      "description": "앤스로픽 Fable 5.2가 코드 분석만으로 하드웨어를 제어하고 에셋 없이 수백 개의 3D 월드를 생성한 게임 디자인 역량과, 자율 에이전트 협업 과정에서 드러난 관료제화 한계를 분석합니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-11-10T21:18:16+09:00"
     }
   ]
 }
