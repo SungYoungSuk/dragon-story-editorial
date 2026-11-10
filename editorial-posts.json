@@ -3413,6 +3413,16 @@
       "summary": "Unprecedented Cross-Domain Competence: Claude Fable 5.2 demonstrates expert-tier performance across complex digital domains—from procedural code generation to commercial market modeling—fitting the…",
       "description": "Unprecedented Cross-Domain Competence: Claude Fable 5.2 demonstrates expert-tier performance across complex digital domains—from procedural code generation to commercial market modeling—fitting the operational reality of \"jagged AGI.\" Critical Deficits in Self-Judgment: The model struggles fundamentally with qualitative self-evaluation, accumulating excessive complexity and repetitive prose rather than exercising editorial restraint or aesthetic discretion. Emergent Bureaucratic Gridlock: When operating autonomously over long horizons, multi-agent swarms tend to invent rigid internal compliance rulebooks that consume working context and degrade creative problem-solving. Architected as an Enterprise Orchestrator: With a discounted pricing structure and broad cloud platform availability, Fable 5.2 is designed to coordinate vast subagent clusters across days-long technical operations.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-11-10T21:17:02+09:00",
+      "category": "tech",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/LongCat-2.5-Unveiled-Meituan-Open-Sources-1.6T-Parameter-MoE-Model",
+      "title": "LongCat-2.5 Unveiled: Meituan Open-Sources 1.6T-Parameter MoE Model",
+      "summary": "Sparse Trillion-Parameter Scale: LongCat-2.5 employs a Mixture-of-Experts (MoE) backbone totaling 1.6 trillion parameters while dynamically routing only 48 billion parameters per token across a…",
+      "description": "Sparse Trillion-Parameter Scale: LongCat-2.5 employs a Mixture-of-Experts (MoE) backbone totaling 1.6 trillion parameters while dynamically routing only 48 billion parameters per token across a 1-million-token context window. Unified Multimodal Processing: Visual inputs—including full-resolution screenshots, charts, and video streams—are converted directly into discrete tokens within a shared semantic space rather than pre-compressed into generic thumbnails. Agent-Centric Reinforcement Learning: Training incorporates real-world software pull requests, strict multi-turn execution penalties, and multi-teacher distillation to eliminate repetitive reasoning loops during long-horizon workflows. Major Benchmark Advancements: The model delivers generational performance jumps over LongCat-2.0 across multi-step terminal challenges, automated browsing, and comprehensive repository-level code maintenance benchmarks. Optimized INT4 Inference: Tailored W4A4 quantization, learnable transformations, and custom grouped GEMM kernels allow efficient deployment and higher throughput across enterprise accelerator clusters. Permissive Open-Source Licensing: Released under the MIT license with complete weights and an OpenAI-compatible API endpoint, the model directly supports leading agent harnesses and IDE extensions.",
+      "lang": "en"
     }
   ]
 }
