@@ -3432,6 +3432,15 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-11-10T21:18:16+09:00"
+    },
+    {
+      "title": "메이투안 LongCat-2.5 공개, MIT 라이선스와 1.6T MoE 아키텍처 분석",
+      "url": "https://dragon-story.com/entry/%EB%A9%94%EC%9D%B4%ED%88%AC%EC%95%88-LongCat-2.5-%EA%B3%B5%EA%B0%9C-MIT-%EB%9D%BC%EC%9D%B4%EC%84%A0%EC%8A%A4%EC%99%80-1.6T-MoE-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EB%B6%84%EC%84%9D/",
+      "description": "메이투안이 1.6조 파라미터 규모의 멀티모달 MoE 모델 'LongCat-2.5' 가중치를 MIT 라이선스로 전격 공개했습니다. 100만 토큰 컨텍스트와 에이전트 강화학습, W4A4 양자화 등 주요 스펙을 상세히 알아봅니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-11-10T21:19:00+09:00"
     }
   ]
 }
