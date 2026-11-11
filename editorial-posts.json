@@ -3468,6 +3468,16 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-11-11T23:09:50+09:00"
+    },
+    {
+      "published_at": "2026-11-11T23:11:10+09:00",
+      "category": "ai",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Inside-Helsings-Clarity-The-European-AI-Rival-to-Palantir-Maven",
+      "title": "Inside Helsing's Clarity: The European AI Rival to Palantir Maven",
+      "summary": "Sovereign Defense Intelligence: Helsing has unveiled Clarity, an AI-native operational software platform engineered specifically for European defense autonomy and deployed entirely on customer-owned…",
+      "description": "Sovereign Defense Intelligence: Helsing has unveiled Clarity, an AI-native operational software platform engineered specifically for European defense autonomy and deployed entirely on customer-owned infrastructure. Parallel Agentic Analysis: The platform leverages hundreds of specialized AI agents working concurrently to synthesize multi-sensor streams into an actionable operational picture within seconds. Enforced Human Oversight: Doctrinal verification gates require consensus across independent intelligence sources and mandate explicit human authorization before any effector engagement can proceed. Vendor-Agnostic Munition Pairing: Aligned with NATO and modular open architecture standards, the system interfaces with legacy military hardware to tailor targeting parameters to specific weapon systems. Strategic Counterweight to Foreign Systems: Clarity establishes an indigenous European software capability designed to address critical data-processing bottlenecks without relying on non-European commercial defense platforms.",
+      "lang": "en"
     }
   ]
 }
