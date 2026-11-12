@@ -3546,6 +3546,15 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-11-12T23:19:52+09:00"
+    },
+    {
+      "title": "Azure Logic Apps Standard, 이제 터미널 중심의 로컬 CLI 개발 지원",
+      "url": "https://dragon-story.com/entry/Azure-Logic-Apps-Standard-%EC%9D%B4%EC%A0%9C-%ED%84%B0%EB%AF%B8%EB%84%90-%EC%A4%91%EC%8B%AC%EC%9D%98-%EB%A1%9C%EC%BB%AC-CLI-%EA%B0%9C%EB%B0%9C-%EC%A7%80%EC%9B%90/",
+      "description": "Azure Logic Apps Standard가 로컬 CLI 퍼블릭 프리뷰를 지원합니다. 터미널 기반의 프로젝트 초기화, 격리된 의존성 관리, AI 코딩 에이전트 연동 및 3단계 테스트 자동화 체계를 상세히 알아봅니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-11-12T23:20:46+09:00"
     }
   ]
 }
