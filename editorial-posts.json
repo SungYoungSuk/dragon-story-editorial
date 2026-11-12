@@ -3508,6 +3508,16 @@
       "summary": "Unified Memory Architecture: TPU Sync binds accelerator High Bandwidth Memory, pinned host DRAM, and data center fabrics into a single continuous memory hierarchy. Zero-Copy Physical Tiling: Retains…",
       "description": "Unified Memory Architecture: TPU Sync binds accelerator High Bandwidth Memory, pinned host DRAM, and data center fabrics into a single continuous memory hierarchy. Zero-Copy Physical Tiling: Retains native TPU tensor layouts across memory tiers and wire protocols, feeding Matrix Multiply Units directly without host CPU translation. Drastic Transfer Latency Reduction: High-bandwidth direct memory streaming slashes key-value migration delays by more than 90%, dramatically shortening time-to-first-token. Disaggregated Prefill and Decode: Decouples computational prefill from token generation by streaming multi-turn contexts asynchronously over network links without stalling active decode steps. Resilient Host DRAM Persistence: Leverages POSIX shared memory to retain terabytes of cached attention contexts through process crashes, worker upgrades, and container restarts. Accelerated RL Weight Synchronization: Employs low-level streaming primitives and automated resharding to synchronize active weights between distributed trainers and inference rollout engines. Turnkey Ecosystem Support: Plugs directly into modern serving runtimes including vLLM and SGLang alongside cluster-wide prefix routing across modern TPU generations.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-11-12T23:16:43+09:00",
+      "category": "tech",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Inside-Darlings-Q4-2026-Update-ARM64-Support-and-AI-Rules",
+      "title": "Inside Darling's Q4 2026 Update: ARM64 Support and AI Rules",
+      "summary": "Formal AI Contribution Guidelines: Darling adopted structured governance for AI-assisted code submissions, requiring human contributors to understand and remain accountable for all submitted code…",
+      "description": "Formal AI Contribution Guidelines: Darling adopted structured governance for AI-assisted code submissions, requiring human contributors to understand and remain accountable for all submitted code. Initial ARM64 Architecture Support: Foundational support for 64-bit ARM was integrated to align the compatibility layer with Apple Silicon's hardware dominance. Automated Fork Merging: Maintainers implemented agent-driven workflows to systematically reconcile and backport breakthroughs from fast-moving community forks into upstream Darling. Expanded Application Viability: External branch testing proved significant compatibility milestones, successfully launching demanding native macOS applications and gaming titles. AppKit and Native Tooling Roadmap: Future development focuses on stabilizing graphical desktop frameworks, paired with dedicated utilities for configuration and system log inspection.",
+      "lang": "en"
     }
   ]
 }
