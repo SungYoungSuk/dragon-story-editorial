@@ -3518,6 +3518,16 @@
       "summary": "Formal AI Contribution Guidelines: Darling adopted structured governance for AI-assisted code submissions, requiring human contributors to understand and remain accountable for all submitted code…",
       "description": "Formal AI Contribution Guidelines: Darling adopted structured governance for AI-assisted code submissions, requiring human contributors to understand and remain accountable for all submitted code. Initial ARM64 Architecture Support: Foundational support for 64-bit ARM was integrated to align the compatibility layer with Apple Silicon's hardware dominance. Automated Fork Merging: Maintainers implemented agent-driven workflows to systematically reconcile and backport breakthroughs from fast-moving community forks into upstream Darling. Expanded Application Viability: External branch testing proved significant compatibility milestones, successfully launching demanding native macOS applications and gaming titles. AppKit and Native Tooling Roadmap: Future development focuses on stabilizing graphical desktop frameworks, paired with dedicated utilities for configuration and system log inspection.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-11-12T23:17:18+09:00",
+      "category": "tech",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Azure-CLI-Brings-Local-Management-and-Runtime-to-Logic-Apps-Standard",
+      "title": "Azure CLI Brings Local Management and Runtime to Logic Apps Standard",
+      "summary": "Terminal-First Authoring: The Azure CLI extension allows engineers to scaffold, configure, and inspect Logic Apps Standard projects directly from the console without relying on Visual Studio Code…",
+      "description": "Terminal-First Authoring: The Azure CLI extension allows engineers to scaffold, configure, and inspect Logic Apps Standard projects directly from the console without relying on Visual Studio Code. Automated Dependency Isolation: Local runtime components and emulators install into isolated directories backed by cryptographic integrity manifests to protect host environments from corruption. Offline Validation and Hosting: Developers can spin up local runtime processes on demand and perform static workflow schema verification without an active cloud or host connection. Hybrid Connection Discovery: Built-in connectors and cloud-hosted API connections can be queried and bound to local environments while respecting Azure security boundaries. Actionable Diagnostics and Testing: Granular commands enable developers to monitor run states, replay triggers, download action payloads, and scaffold native test suites directly from scripts. Deterministic AI Integration: Structured terminal commands and dedicated Copilot skills give autonomous agents an authoritative feedback loop rather than forcing them to guess workflow configurations.",
+      "lang": "en"
     }
   ]
 }
