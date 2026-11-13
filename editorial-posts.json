@@ -3555,6 +3555,16 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-11-12T23:20:46+09:00"
+    },
+    {
+      "published_at": "2026-11-13T21:28:24+09:00",
+      "category": "security",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/How-OpenAI-Daybreak-Defense-Factory-Automates-Web-App-Security",
+      "title": "How OpenAI Daybreak Defense Factory Automates Web App Security",
+      "summary": "Automated Defensive Remediation: Daybreak Defense Factory scans source repositories, generates candidate security patches, and opens merge-ready pull requests with automated test verification while…",
+      "description": "Automated Defensive Remediation: Daybreak Defense Factory scans source repositories, generates candidate security patches, and opens merge-ready pull requests with automated test verification while enforcing human engineer approval. Continuous Pipeline Integration: The system connects directly to GitHub repositories through Codex cloud environments to provide automated commit monitoring, scheduled scans, and targeted directory analysis. Active Threat Validation: Deployed alongside the remediation engine, the Daybreak Red Team agent fleet simulates real-world attack vectors in isolated environments to confirm exploitability and validate applied fixes. Strategic Shift and Scrutiny: OpenAI positions frontier defensive agents as an enterprise necessity, even as developers face mounting legal challenges and safety debates surrounding highly capable autonomous systems.",
+      "lang": "en"
     }
   ]
 }
