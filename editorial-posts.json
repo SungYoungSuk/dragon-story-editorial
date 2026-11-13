@@ -3565,6 +3565,15 @@
       "summary": "Automated Defensive Remediation: Daybreak Defense Factory scans source repositories, generates candidate security patches, and opens merge-ready pull requests with automated test verification while…",
       "description": "Automated Defensive Remediation: Daybreak Defense Factory scans source repositories, generates candidate security patches, and opens merge-ready pull requests with automated test verification while enforcing human engineer approval. Continuous Pipeline Integration: The system connects directly to GitHub repositories through Codex cloud environments to provide automated commit monitoring, scheduled scans, and targeted directory analysis. Active Threat Validation: Deployed alongside the remediation engine, the Daybreak Red Team agent fleet simulates real-world attack vectors in isolated environments to confirm exploitability and validate applied fixes. Strategic Shift and Scrutiny: OpenAI positions frontier defensive agents as an enterprise necessity, even as developers face mounting legal challenges and safety debates surrounding highly capable autonomous systems.",
       "lang": "en"
+    },
+    {
+      "title": "오픈아이의 웹 앱 모의해킹 자동화 'Daybreak Red Team'과 자동 패치 체계",
+      "url": "https://dragon-story.com/entry/%EC%98%A4%ED%94%88%EC%95%84%EC%9D%B4%EC%9D%98-%EC%9B%B9-%EC%95%B1-%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B9-%EC%9E%90%EB%8F%99%ED%99%94-Daybreak-Red-Team%EA%B3%BC-%EC%9E%90%EB%8F%99-%ED%8C%A8%EC%B9%98-%EC%B2%B4%EA%B3%84/",
+      "description": "OpenAI가 발표한 웹 애플리케이션 모의해킹 자동화 도구 'Daybreak Red Team'과 GPT-6 Cyber 기반의 방어 패치 루프 체계 'Daybreak Defense Factory'의 주요 기능과 보안 패러다임 전환을 살펴봅니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-11-13T21:29:52+09:00"
     }
   ]
 }
