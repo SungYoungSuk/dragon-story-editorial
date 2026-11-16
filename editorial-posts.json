@@ -3603,6 +3603,16 @@
       "summary": "Protracted Cloud Disruption: A nearly day-long global outage severely crippled Microsoft 365 and Exchange Online, leaving the vast majority of core network gateway infrastructure unresponsive at its…",
       "description": "Protracted Cloud Disruption: A nearly day-long global outage severely crippled Microsoft 365 and Exchange Online, leaving the vast majority of core network gateway infrastructure unresponsive at its height. Dormant Gateway Defect: The root cause traced back to a latent Windows-level flaw deployed months earlier in July 2026, which escaped detection due to pre-deployment load tests conducted on lower-core hardware. Compounding Cascading Triggers: Unplanned capacity losses, scheduled internal traffic shifts, and automated failover routing converged during peak usage hours to trigger severe lock contention across surviving nodes. Manual Recovery Required: Automated self-healing protocols were overwhelmed by accumulated traffic backlogs, forcing engineering teams to manually deploy a dedicated code reversion to restore gateway stability. Contractual SLA Compensation: Enterprise customers facing prolonged webmail downtime across public and private sectors are eligible to claim substantial monthly service credits under updated SLA agreements.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-11-16T21:58:32+09:00",
+      "category": "tech",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Inside-the-AWS-Local-Cloud-Emulator-Powered-by-Smithy-and-AI-Agents",
+      "title": "Inside the AWS Local Cloud Emulator Powered by Smithy and AI Agents",
+      "summary": "Automated Schema Alignment: Service endpoints are generated directly from official Smithy API models, guaranteeing structural interface parity with AWS SDKs across hundreds of cloud services…",
+      "description": "Automated Schema Alignment: Service endpoints are generated directly from official Smithy API models, guaranteeing structural interface parity with AWS SDKs across hundreds of cloud services. Autonomous Agent Development: Fleets of autonomous AI agents engineer and maintain the codebase through continuous loops that synthesize tests, detect semantic drift, and implement code fixes. Dual Execution Workflows: Teams can run the emulator as a local HTTP daemon via standard endpoint overrides or compile it directly into test binaries for isolated in-process evaluation. Transparent Fidelity Scorecards: Granular regression suites benchmark local responses against live AWS endpoints, giving teams quantified visibility into control-plane and data-plane behavioral parity. Cost-Free Local Boundaries: The emulator operates with ephemeral in-memory state and zero infrastructure fees, focusing strictly on functional API verification rather than IAM policy enforcement or load testing.",
+      "lang": "en"
     }
   ]
 }
