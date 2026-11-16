@@ -3613,6 +3613,15 @@
       "summary": "Automated Schema Alignment: Service endpoints are generated directly from official Smithy API models, guaranteeing structural interface parity with AWS SDKs across hundreds of cloud services…",
       "description": "Automated Schema Alignment: Service endpoints are generated directly from official Smithy API models, guaranteeing structural interface parity with AWS SDKs across hundreds of cloud services. Autonomous Agent Development: Fleets of autonomous AI agents engineer and maintain the codebase through continuous loops that synthesize tests, detect semantic drift, and implement code fixes. Dual Execution Workflows: Teams can run the emulator as a local HTTP daemon via standard endpoint overrides or compile it directly into test binaries for isolated in-process evaluation. Transparent Fidelity Scorecards: Granular regression suites benchmark local responses against live AWS endpoints, giving teams quantified visibility into control-plane and data-plane behavioral parity. Cost-Free Local Boundaries: The emulator operates with ephemeral in-memory state and zero infrastructure fees, focusing strictly on functional API verification rather than IAM policy enforcement or load testing.",
       "lang": "en"
+    },
+    {
+      "title": "마이크로소프트 365 장애의 전말: 7월 게이트웨이 패치 결함과 교훈",
+      "url": "https://dragon-story.com/entry/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8-365-%EC%9E%A5%EC%95%A0%EC%9D%98-%EC%A0%84%EB%A7%90-7%EC%9B%94-%EA%B2%8C%EC%9D%B4%ED%8A%B8%EC%9B%A8%EC%9D%B4-%ED%8C%A8%EC%B9%98-%EA%B2%B0%ED%95%A8%EA%B3%BC-%EA%B5%90%ED%9B%88/",
+      "description": "2026년 7월 배포된 게이트웨이 패치 결함으로 발생한 마이크로소프트 365 및 Exchange Online 글로벌 장애의 원인과 복구 과정, SLA 크레딧 청구 방법을 정리합니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-11-16T22:00:00+09:00"
     }
   ]
 }
