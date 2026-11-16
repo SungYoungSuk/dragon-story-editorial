@@ -3583,6 +3583,16 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-11-16T21:16:59+09:00"
+    },
+    {
+      "published_at": "2026-11-16T21:18:22+09:00",
+      "category": "tech",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/How-GitHub-Rebuilt-Copilots-Diff-Engine-for-Million-Line-Pull-Requests",
+      "title": "How GitHub Rebuilt Copilot's Diff Engine for Million-Line Pull Requests",
+      "summary": "Dual-Domain Layout Architecture: Decoupling predictable, fixed-height code lines from dynamic review elements enables virtualization engines to render only active viewport rows without layout…",
+      "description": "Dual-Domain Layout Architecture: Decoupling predictable, fixed-height code lines from dynamic review elements enables virtualization engines to render only active viewport rows without layout bottlenecks. Identity-Based Scroll Anchoring: Tracking blocks via semantic file, line, and side coordinates prevents jarring layout shifts and scroll jumps when inline discussions or reply fields expand. Controlled Observer Pipelines: Replacing continuous layout measurements with dirty-flagged ResizeObservers and deferred syntax highlighting prevents cascading browser reflow loops during fast scrolling. Continuous Agentic Benchmarking: Embedding automated synthetic mega-PRs and layout probes inside continuous integration workflows guarantees UI stability as agent-generated code volume surges.",
+      "lang": "en"
     }
   ]
 }
