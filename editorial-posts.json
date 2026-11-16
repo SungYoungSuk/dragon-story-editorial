@@ -3574,6 +3574,15 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-11-13T21:29:52+09:00"
+    },
+    {
+      "title": "깃허브 코파일럿 앱, 100만 줄 PR 렌더링 성능 전면 개편",
+      "url": "https://dragon-story.com/entry/%EA%B9%83%ED%97%88%EB%B8%8C-%EC%BD%94%ED%8C%8C%EC%9D%BC%EB%9F%BF-%EC%95%B1-100%EB%A7%8C-%EC%A4%84-PR-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%84%B1%EB%8A%A5-%EC%A0%84%EB%A9%B4-%EA%B0%9C%ED%8E%B8/",
+      "description": "깃허브가 코파일럿 앱의 diff 렌더링 아키텍처를 전면 개편하여 대규모 100만 줄 풀 리퀘스트에서도 브라우저 프리징 없이 쾌적한 코드 리뷰를 지원하는 기술적 개선 사항을 소개합니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-11-16T21:16:59+09:00"
     }
   ]
 }
