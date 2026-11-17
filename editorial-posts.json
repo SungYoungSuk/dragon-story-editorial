@@ -3641,6 +3641,16 @@
       "summary": "Standard Term Support Release: .NET 11 delivers a two-year STS cadence alongside the formal retirement of older releases like .NET 8 and .NET 9. Native AOT CLI Host: The SDK introduces a precompiled…",
       "description": "Standard Term Support Release: .NET 11 delivers a two-year STS cadence alongside the formal retirement of older releases like .NET 8 and .NET 9. Native AOT CLI Host: The SDK introduces a precompiled native entry point that executes routine queries out-of-process without invoking the managed runtime. CoreCLR Unification in MAUI: .NET MAUI transitions from Mono to CoreCLR as its default engine across target platforms, harmonizing client and server behavior. C# 15 Language Evolution: The compiler adds first-class discriminated union types, closed class hierarchies, and collection expression enhancements. Runtime-Managed Async: State machine handling moves deep into the execution engine to improve throughput, memory layout, and call-stack observability. Modernized Core Libraries: Native support arrives for Zstandard compression, zero-copy stream abstractions, and full outer joins directly in LINQ.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-11-17T22:37:32+09:00",
+      "category": "ai",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/How-JDK-28-Lazy-Constants-and-TornadoVM-jitLLM-3.0-Transform-Java-Performance",
+      "title": "How JDK 28 Lazy Constants and TornadoVM jitLLM 3.0 Transform Java Performance",
+      "summary": "JEP 547 advances toward JDK 28: Lazy constants enter their fourth preview round to deliver immutable, lazily initialized value holders without sacrificing critical JIT constant-folding optimizations…",
+      "description": "JEP 547 advances toward JDK 28: Lazy constants enter their fourth preview round to deliver immutable, lazily initialized value holders without sacrificing critical JIT constant-folding optimizations. JVM-native LLM inference breaks hardware barriers: Beehive Lab’s jitLLM 3.0 leverages TornadoVM to JIT-compile transformer kernels directly to GPUs, drastically cutting prefill latency and eliminating native memory copies. Spring for Apache Pulsar moves to the ASF: Project governance officially migrates to the Apache Software Foundation as an integrated subproject to accelerate native messaging alignment. Enterprise frameworks publish key milestone candidates: Coordinated preview releases across Spring AI, Spring Boot, and Hibernate ORM bring modern vector search, web routing improvements, and Jakarta Data support.",
+      "lang": "en"
     }
   ]
 }
