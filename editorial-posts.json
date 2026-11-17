@@ -3631,6 +3631,16 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-11-16T22:00:37+09:00"
+    },
+    {
+      "published_at": "2026-11-17T22:36:55+09:00",
+      "category": "tech",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/How-.NET-11-Unifies-MAUI-and-Boosts-CLI-Speed-with-Native-AOT",
+      "title": "How .NET 11 Unifies MAUI and Boosts CLI Speed with Native AOT",
+      "summary": "Standard Term Support Release: .NET 11 delivers a two-year STS cadence alongside the formal retirement of older releases like .NET 8 and .NET 9. Native AOT CLI Host: The SDK introduces a precompiled…",
+      "description": "Standard Term Support Release: .NET 11 delivers a two-year STS cadence alongside the formal retirement of older releases like .NET 8 and .NET 9. Native AOT CLI Host: The SDK introduces a precompiled native entry point that executes routine queries out-of-process without invoking the managed runtime. CoreCLR Unification in MAUI: .NET MAUI transitions from Mono to CoreCLR as its default engine across target platforms, harmonizing client and server behavior. C# 15 Language Evolution: The compiler adds first-class discriminated union types, closed class hierarchies, and collection expression enhancements. Runtime-Managed Async: State machine handling moves deep into the execution engine to improve throughput, memory layout, and call-stack observability. Modernized Core Libraries: Native support arrives for Zstandard compression, zero-copy stream abstractions, and full outer joins directly in LINQ.",
+      "lang": "en"
     }
   ]
 }
