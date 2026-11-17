@@ -3651,6 +3651,15 @@
       "summary": "JEP 547 advances toward JDK 28: Lazy constants enter their fourth preview round to deliver immutable, lazily initialized value holders without sacrificing critical JIT constant-folding optimizations…",
       "description": "JEP 547 advances toward JDK 28: Lazy constants enter their fourth preview round to deliver immutable, lazily initialized value holders without sacrificing critical JIT constant-folding optimizations. JVM-native LLM inference breaks hardware barriers: Beehive Lab’s jitLLM 3.0 leverages TornadoVM to JIT-compile transformer kernels directly to GPUs, drastically cutting prefill latency and eliminating native memory copies. Spring for Apache Pulsar moves to the ASF: Project governance officially migrates to the Apache Software Foundation as an integrated subproject to accelerate native messaging alignment. Enterprise frameworks publish key milestone candidates: Coordinated preview releases across Spring AI, Spring Boot, and Hibernate ORM bring modern vector search, web routing improvements, and Jakarta Data support.",
       "lang": "en"
+    },
+    {
+      "title": ".NET 11 및 C# 15 정식 출시: 유니언 타입과 Native AOT CLI 호스트 도입",
+      "url": "https://dragon-story.com/entry/NET-11-%EB%B0%8F-C-15-%EC%A0%95%EC%8B%9D-%EC%B6%9C%EC%8B%9C-%EC%9C%A0%EB%8B%88%EC%96%B8-%ED%83%80%EC%9E%85%EA%B3%BC-Native-AOT-CLI-%ED%98%B8%EC%8A%A4%ED%8A%B8-%EB%8F%84%EC%9E%85/",
+      "description": "마이크로소프트가 연례 개발자 콘퍼런스 .NET Conf 2026을 통해 .NET 11과 C# 15를 정식 출시했습니다. 유니언 타입, Native AOT CLI 호스트, Runtime Async 프리뷰 등 핵심 업데이트 내용을 상세히 다룹니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-11-17T22:39:00+09:00"
     }
   ]
 }
