@@ -3669,6 +3669,16 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-11-17T22:39:59+09:00"
+    },
+    {
+      "published_at": "2026-11-18T22:33:35+09:00",
+      "category": "tech",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Vercel-UI-SDK-Beta-Composing-Multi-Framework-Interfaces-from-Behaviors",
+      "title": "Vercel UI SDK Beta: Composing Multi-Framework Interfaces from Behaviors",
+      "summary": "Behavior-First Primitive Model : Vercel UI SDK shifts component engineering from monolithic structures into atomic, composable behavior primitives that manage interaction logic and accessibility…",
+      "description": "Behavior-First Primitive Model : Vercel UI SDK shifts component engineering from monolithic structures into atomic, composable behavior primitives that manage interaction logic and accessibility independently of presentation. Universal Framework Portability : Core interaction mechanics adapt seamlessly across React, Vue, Svelte, Solid, and Web Components while ensuring uniform DOM part contracts. Native AI Agent Operability : Dedicated runtime bridges empower autonomous coding agents to directly query, inspect, and trigger UI components programmatically rather than relying on computer vision screenshots. Distinct Layer in the Stack : Operating below conventional headless UI libraries, the framework complements the Vercel AI SDK by managing interface mechanics rather than model streaming and inference. Community-Driven Open Source : Released by Vercel Labs under the Apache 2.0 license, the architecture builds upon foundational insights from established headless ecosystem pioneers.",
+      "lang": "en"
     }
   ]
 }
