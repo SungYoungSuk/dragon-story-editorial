@@ -3679,6 +3679,16 @@
       "summary": "Behavior-First Primitive Model : Vercel UI SDK shifts component engineering from monolithic structures into atomic, composable behavior primitives that manage interaction logic and accessibility…",
       "description": "Behavior-First Primitive Model : Vercel UI SDK shifts component engineering from monolithic structures into atomic, composable behavior primitives that manage interaction logic and accessibility independently of presentation. Universal Framework Portability : Core interaction mechanics adapt seamlessly across React, Vue, Svelte, Solid, and Web Components while ensuring uniform DOM part contracts. Native AI Agent Operability : Dedicated runtime bridges empower autonomous coding agents to directly query, inspect, and trigger UI components programmatically rather than relying on computer vision screenshots. Distinct Layer in the Stack : Operating below conventional headless UI libraries, the framework complements the Vercel AI SDK by managing interface mechanics rather than model streaming and inference. Community-Driven Open Source : Released by Vercel Labs under the Apache 2.0 license, the architecture builds upon foundational insights from established headless ecosystem pioneers.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-11-18T22:34:40+09:00",
+      "category": "ai",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Suno-Brings-Beat-Matched-AI-Video-Generation-to-Music-Creators",
+      "title": "Suno Brings Beat-Matched AI Video Generation to Music Creators",
+      "summary": "Audio-Driven Video Synthesis: Visuals automatically converts tracks into short video clips featuring vocal lip-syncing and musical tempo synchronization. Flexible Visual Anchors: Creators can build…",
+      "description": "Audio-Driven Video Synthesis: Visuals automatically converts tracks into short video clips featuring vocal lip-syncing and musical tempo synchronization. Flexible Visual Anchors: Creators can build scenes using text prompts, custom photo uploads, or built-in character presets to establish start or end frames. Underlying Video Architecture: The feature is powered by the H3 Move AI video engine, optimized with custom safety protections. Dedicated Currency: Video and artwork creation utilizes a separate Visuals credit system billed independently from standard song generation. Rigid Copyright Guardrails: Pre-screened filters and digital watermarking block public figure likenesses, protected IP, and unauthorized visual references. Multimedia Expansion: The launch broadens Suno's ecosystem from pure audio generation into an integrated, cross-platform multimedia production suite.",
+      "lang": "en"
     }
   ]
 }
