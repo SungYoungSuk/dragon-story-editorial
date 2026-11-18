@@ -3689,6 +3689,15 @@
       "summary": "Audio-Driven Video Synthesis: Visuals automatically converts tracks into short video clips featuring vocal lip-syncing and musical tempo synchronization. Flexible Visual Anchors: Creators can build…",
       "description": "Audio-Driven Video Synthesis: Visuals automatically converts tracks into short video clips featuring vocal lip-syncing and musical tempo synchronization. Flexible Visual Anchors: Creators can build scenes using text prompts, custom photo uploads, or built-in character presets to establish start or end frames. Underlying Video Architecture: The feature is powered by the H3 Move AI video engine, optimized with custom safety protections. Dedicated Currency: Video and artwork creation utilizes a separate Visuals credit system billed independently from standard song generation. Rigid Copyright Guardrails: Pre-screened filters and digital watermarking block public figure likenesses, protected IP, and unauthorized visual references. Multimedia Expansion: The launch broadens Suno's ecosystem from pure audio generation into an integrated, cross-platform multimedia production suite.",
       "lang": "en"
+    },
+    {
+      "title": "Vercel, 프레임워크 넘나드는 UI 동작 제어 'UI SDK' 베타 공개",
+      "url": "https://dragon-story.com/entry/Vercel-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EB%84%98%EB%82%98%EB%93%9C%EB%8A%94-UI-%EB%8F%99%EC%9E%91-%EC%A0%9C%EC%96%B4-UI-SDK-%EB%B2%A0%ED%83%80-%EA%B3%B5%EA%B0%9C/",
+      "description": "Vercel Labs가 프레임워크 경계를 넘어 50개 이상의 독립적인 UI 동작(behaviors)을 재사용할 수 있는 'UI SDK' 오픈소스 베타를 공개했습니다. AI 에이전트와 직접 연동되는 런타임 제어 기능을 제공합니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-11-18T22:35:22+09:00"
     }
   ]
 }
