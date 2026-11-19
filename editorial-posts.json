@@ -3725,6 +3725,16 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-11-19T21:40:23+09:00"
+    },
+    {
+      "published_at": "2026-11-19T21:40:59+09:00",
+      "category": "ai",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/How-Google-Optimized-Gemini-for-Low-Memory-Android-Devices",
+      "title": "How Google Optimized Gemini for Low-Memory Android Devices",
+      "summary": "Targeted Client Re-Architecture: Google re-engineered the Gemini client to deliver a fluid, full-featured assistant experience on memory-constrained Android (Go edition) devices. OS-Level Resource…",
+      "description": "Targeted Client Re-Architecture: Google re-engineered the Gemini client to deliver a fluid, full-featured assistant experience on memory-constrained Android (Go edition) devices. OS-Level Resource Efficiency: Operating models via centralized system services prevents duplicate memory footprints, protecting multitasking performance from aggressive Low Memory Killer process termination. Uncompromised Multimodal Utilities: Lower-memory hardware retains flagship capabilities, including spoken natural language dialog, camera-driven document translation, and on-device image synthesis. Frictionless Distribution Channels: Accessibility is streamlined through Google Play installations, quick-launch physical power button integration, and factory preloads with partner brands like Transsion.",
+      "lang": "en"
     }
   ]
 }
