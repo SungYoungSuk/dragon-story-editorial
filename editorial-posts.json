@@ -3716,6 +3716,15 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-11-19T21:39:52+09:00"
+    },
+    {
+      "title": "구글 Gemini 4 Neon과 실시간 월드 생성기 Genie 4 공개, 엔지니어링 성능과 비용 효율 분석",
+      "url": "https://dragon-story.com/entry/%EA%B5%AC%EA%B8%80-Gemini-4-Neon%EA%B3%BC-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%9B%94%EB%93%9C-%EC%83%9D%EC%84%B1%EA%B8%B0-Genie-4-%EA%B3%B5%EA%B0%9C-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%EC%84%B1%EB%8A%A5%EA%B3%BC-%EB%B9%84%EC%9A%A9-%ED%9A%A8%EC%9C%A8-%EB%B6%84%EC%84%9D/",
+      "description": "구글이 공개한 Gemini 4 Neon은 1M 컨텍스트와 뛰어난 코딩 및 에이전트 성능을 제공하며, 실시간 720p 월드 생성 시스템 Genie 4와 함께 AI 생태계의 새로운 기준을 제시합니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-11-19T21:40:23+09:00"
     }
   ]
 }
