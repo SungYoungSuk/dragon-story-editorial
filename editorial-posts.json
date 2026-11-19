@@ -3735,6 +3735,16 @@
       "summary": "Targeted Client Re-Architecture: Google re-engineered the Gemini client to deliver a fluid, full-featured assistant experience on memory-constrained Android (Go edition) devices. OS-Level Resource…",
       "description": "Targeted Client Re-Architecture: Google re-engineered the Gemini client to deliver a fluid, full-featured assistant experience on memory-constrained Android (Go edition) devices. OS-Level Resource Efficiency: Operating models via centralized system services prevents duplicate memory footprints, protecting multitasking performance from aggressive Low Memory Killer process termination. Uncompromised Multimodal Utilities: Lower-memory hardware retains flagship capabilities, including spoken natural language dialog, camera-driven document translation, and on-device image synthesis. Frictionless Distribution Channels: Accessibility is streamlined through Google Play installations, quick-launch physical power button integration, and factory preloads with partner brands like Transsion.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-11-19T21:41:27+09:00",
+      "category": "ai",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Googles-Gemini-4-Neon-Delivers-1M-Context-and-Cheaper-AI-Reasoning",
+      "title": "Google's Gemini 4 Neon Delivers 1M Context and Cheaper AI Reasoning",
+      "summary": "Dual Frontier Milestones: Google DeepMind has launched Gemini 4 Neon for cost-efficient enterprise reasoning and Genie 4 for real-time interactive world generation. Unified Long-Horizon Context…",
+      "description": "Dual Frontier Milestones: Google DeepMind has launched Gemini 4 Neon for cost-efficient enterprise reasoning and Genie 4 for real-time interactive world generation. Unified Long-Horizon Context: Gemini 4 Neon combines a 1-million-token multimodal context window with background long-decode output streaming at a disruptive $3 per million input tokens. Dominant Domain Benchmarks: Neon secures #1 rankings across legal research, tax analysis, and complex financial modeling while drastically cutting cost-per-task against rival frontier systems. Autonomous Coding Orchestration: Leading major software engineering evaluations, Neon operates as both a standalone coding agent and an orchestrator directing parallel subagent workflows. Defensive Cybersecurity Deployment: Released to eligible defenders through the Fairwind Program, Neon automates end-to-end vulnerability scanning, exploit validation, and patch generation. Real-Time Multimodal Simulation: Genie 4 renders interactive 720p environments at 24 frames per second, pairing user-steered navigation with natively generated ambient soundscapes. Embodied AI and Spatial Foundations: Integrated within Project Genie, world modeling now connects generative creative workflows directly to simulated humanoid robotics research.",
+      "lang": "en"
     }
   ]
 }
