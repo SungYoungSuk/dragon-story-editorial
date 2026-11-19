@@ -3707,6 +3707,15 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-11-18T22:36:03+09:00"
+    },
+    {
+      "title": "구글 제미나이 앱, 저사양 안드로이드 Go 기기 전면 지원 및 아키텍처 개편",
+      "url": "https://dragon-story.com/entry/%EA%B5%AC%EA%B8%80-%EC%A0%9C%EB%AF%B8%EB%82%98%EC%9D%B4-%EC%95%B1-%EC%A0%80%EC%82%AC%EC%96%91-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-Go-%EA%B8%B0%EA%B8%B0-%EC%A0%84%EB%A9%B4-%EC%A7%80%EC%9B%90-%EB%B0%8F-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EA%B0%9C%ED%8E%B8/",
+      "description": "구글이 안드로이드 Go 에디션 저사양 기기를 위한 제미나이 앱 아키텍처를 전면 재설계했습니다. 보급형 스마트폰에서도 Gemini Live와 문서 분석, 맞춤형 이미지 생성 등 주요 AI 기능을 온전히 활용할 수 있습니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-11-19T21:39:52+09:00"
     }
   ]
 }
