@@ -3772,6 +3772,16 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-11-20T23:20:22+09:00"
+    },
+    {
+      "published_at": "2026-11-20T23:21:22+09:00",
+      "category": "ai",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Inside-NVIDIA-DAQIRI-GPU-Native-Ingestion-for-Scientific-Instruments",
+      "title": "Inside NVIDIA DAQIRI: GPU-Native Ingestion for Scientific Instruments",
+      "summary": "GPU-native data acquisition: The open-source NVIDIA DAQIRI library streams raw detector packets straight into GPU memory, completely bypassing operating system storage bottlenecks…",
+      "description": "GPU-native data acquisition: The open-source NVIDIA DAQIRI library streams raw detector packets straight into GPU memory, completely bypassing operating system storage bottlenecks. Hardware-accelerated network processing: Offloading sequence parsing and packet reordering to modern smart network interfaces cuts application latency down to single-digit microseconds while doubling per-core throughput. Revolutionary electron microscopy: Implementations at Lawrence Berkeley National Laboratory capture massive multi-hundred-gigabit streams in a single exposure, simultaneously imaging both faint and intense electron signals. Intelligent particle physics triggers: Particle accelerators such as CERN apply real-time deep learning to incoming collision streams, recovering rare events that legacy trigger architectures traditionally discard. Ecosystem convergence with test hardware: Collaborations with instrumentation leaders like NI integrate software-defined measurement hardware directly into GPU pipelines for gigahertz-scale wideband signal processing.",
+      "lang": "en"
     }
   ]
 }
