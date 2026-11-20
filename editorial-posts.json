@@ -3763,6 +3763,15 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-11-20T23:19:32+09:00"
+    },
+    {
+      "title": "구글 Gemini API 도구 검색 도입, 토큰 절감과 온디맨드 로딩 분석",
+      "url": "https://dragon-story.com/entry/%EA%B5%AC%EA%B8%80-Gemini-API-%EB%8F%84%EA%B5%AC-%EA%B2%80%EC%83%89-%EB%8F%84%EC%9E%85-%ED%86%A0%ED%81%B0-%EC%A0%88%EA%B0%90%EA%B3%BC-%EC%98%A8%EB%94%94%EB%A7%A8%EB%93%9C-%EB%A1%9C%EB%94%A9-%EB%B6%84%EC%84%9D/",
+      "description": "구글 Gemini API의 새로운 '도구 검색(Tool Retrieval)' 아키텍처를 분석합니다. 온디맨드 지연 로딩, 토큰 비용 구조, 원격 MCP 연동 및 프로덕션 적용 시 주의할 운영 규칙을 정리했습니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-11-20T23:20:22+09:00"
     }
   ]
 }
