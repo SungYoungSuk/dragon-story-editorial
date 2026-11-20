@@ -3792,6 +3792,16 @@
       "summary": "First-class union type handling: ASP.NET Core integrates C# 15 union types directly into JSON request and response pipelines across Minimal APIs and MVC. Next-generation API contracts: Built-in…",
       "description": "First-class union type handling: ASP.NET Core integrates C# 15 union types directly into JSON request and response pipelines across Minimal APIs and MVC. Next-generation API contracts: Built-in document generation now targets OpenAPI 3.2 by default, automatically projecting union variants and modern HTTP patterns into client specifications. Enhanced endpoint execution: Minimal APIs receive non-blocking asynchronous validation, built-in message localization, and explicit middleware short-circuiting. Persistent real-time connections: SignalR adds proactive authentication refresh mechanics to sustain long-lived sessions alongside client-side invocation cancellation. Hardened server infrastructure: Kestrel integrates native Zstandard compression and resilient request parsing to maximize throughput under heavy workloads.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-11-20T23:22:23+09:00",
+      "category": "ai",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Inside-Gemini-API-Tool-Retrieval-How-On-Demand-Schemas-Save-Tokens",
+      "title": "Inside Gemini API Tool Retrieval: How On-Demand Schemas Save Tokens",
+      "summary": "On-Demand Schema Loading: Tool Retrieval enables the Gemini API to compress inactive tool declarations into minimal identifiers, retrieving detailed parameter schemas only when the model needs to…",
+      "description": "On-Demand Schema Loading: Tool Retrieval enables the Gemini API to compress inactive tool declarations into minimal identifiers, retrieving detailed parameter schemas only when the model needs to invoke them. Flexible Execution Modes: Developers can choose between zero-setup server-side search handled entirely by Gemini or client-side retrieval to query custom external indices and permission-governed catalogs. Prompt Prefix Cache Preservation: Deferring parameter definitions keeps the prompt start stable from turn to turn, allowing full compatibility with prompt caching and bulk deferral for Model Context Protocol servers. Substantial Context Optimization: By drastically minimizing the footprint of idle declarations, the mechanism yields significant token economies for agent architectures managing dozens or hundreds of tools. Permanent In-Session Schema Retention: Retrieved schemas remain active in the model's context for the duration of the conversation, making strategic separation between permanent core tools and deferred utilities essential.",
+      "lang": "en"
     }
   ]
 }
