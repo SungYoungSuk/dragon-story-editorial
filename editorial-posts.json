@@ -3745,6 +3745,15 @@
       "summary": "Dual Frontier Milestones: Google DeepMind has launched Gemini 4 Neon for cost-efficient enterprise reasoning and Genie 4 for real-time interactive world generation. Unified Long-Horizon Context…",
       "description": "Dual Frontier Milestones: Google DeepMind has launched Gemini 4 Neon for cost-efficient enterprise reasoning and Genie 4 for real-time interactive world generation. Unified Long-Horizon Context: Gemini 4 Neon combines a 1-million-token multimodal context window with background long-decode output streaming at a disruptive $3 per million input tokens. Dominant Domain Benchmarks: Neon secures #1 rankings across legal research, tax analysis, and complex financial modeling while drastically cutting cost-per-task against rival frontier systems. Autonomous Coding Orchestration: Leading major software engineering evaluations, Neon operates as both a standalone coding agent and an orchestrator directing parallel subagent workflows. Defensive Cybersecurity Deployment: Released to eligible defenders through the Fairwind Program, Neon automates end-to-end vulnerability scanning, exploit validation, and patch generation. Real-Time Multimodal Simulation: Genie 4 renders interactive 720p environments at 24 frames per second, pairing user-steered navigation with natively generated ambient soundscapes. Embodied AI and Spatial Foundations: Integrated within Project Genie, world modeling now connects generative creative workflows directly to simulated humanoid robotics research.",
       "lang": "en"
+    },
+    {
+      "title": "과학 계측기 개발자를 위한 GPU 네이티브 실시간 AI 데이터 수집 아키텍처",
+      "url": "https://dragon-story.com/entry/%EA%B3%BC%ED%95%99-%EA%B3%84%EC%B8%A1%EA%B8%B0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-GPU-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-%EC%8B%A4%EC%8B%9C%EA%B0%84-AI-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%88%98%EC%A7%91-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98/",
+      "description": "커널 바이패스와 GPUDirect RDMA 기반의 GPU 네이티브 데이터 수집(DAQ) 아키텍처를 통해, 초고속 과학 계측 데이터를 지연 없이 처리하고 실시간 AI 분석 파이프라인을 구현하는 기술적 방법을 알아봅니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-11-20T23:19:08+09:00"
     }
   ]
 }
