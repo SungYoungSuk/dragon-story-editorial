@@ -3754,6 +3754,15 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-11-20T23:19:08+09:00"
+    },
+    {
+      "title": ".NET 11 정식 출시: C# 15 유니온 타입과 Blazor AI 컴포넌트 주요 변경점",
+      "url": "https://dragon-story.com/entry/NET-11-%EC%A0%95%EC%8B%9D-%EC%B6%9C%EC%8B%9C-C-15-%EC%9C%A0%EB%8B%88%EC%98%A8-%ED%83%80%EC%9E%85%EA%B3%BC-Blazor-AI-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%A3%BC%EC%9A%94-%EB%B3%80%EA%B2%BD%EC%A0%90/",
+      "description": ".NET 11 STS 버전 정식 출시와 함께 C# 15 유니온 타입, OpenAPI 3.2 기본 전환, SignalR 무중단 인증 갱신, Blazor 렌더링 최적화 및 AG-UI 기반 에이전트 인터페이스의 주요 변경 사항을 정리합니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-11-20T23:19:32+09:00"
     }
   ]
 }
