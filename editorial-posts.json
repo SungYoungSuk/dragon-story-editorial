@@ -3829,6 +3829,15 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-11-23T23:41:27+09:00"
+    },
+    {
+      "title": "파라미터 증설 없이 2조 급 지능 구현한 GLM-5.4, 루프 트랜스포머의 모든 것",
+      "url": "https://dragon-story.com/entry/%ED%8C%8C%EB%9D%BC%EB%AF%B8%ED%84%B0-%EC%A6%9D%EC%84%A4-%EC%97%86%EC%9D%B4-2%EC%A1%B0-%EA%B8%89-%EC%A7%80%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%9C-GLM-5.4-%EB%A3%A8%ED%94%84-%ED%8A%B8%EB%9E%9C%EC%8A%A4%ED%8F%AC%EB%A8%B8%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83/",
+      "description": "Z.ai에서 공개한 GLM-5.4는 루프 트랜스포머 아키텍처를 적용해 750B 파라미터로 2~3조 급 지능과 일반화 코딩 역량을 구현한 차세대 AI 코딩 모델입니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-11-23T23:42:09+09:00"
     }
   ]
 }
