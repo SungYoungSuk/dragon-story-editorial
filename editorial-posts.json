@@ -3868,6 +3868,16 @@
       "summary": "Streamlined Local Serving: Unsloth Desktop eliminates terminal-based environment management, allowing developers to deploy and share local models across a home network via an intuitive graphical…",
       "description": "Streamlined Local Serving: Unsloth Desktop eliminates terminal-based environment management, allowing developers to deploy and share local models across a home network via an intuitive graphical interface. Algorithmic Parameter Efficiency: Inkling 2 Mini introduces an innovative looped transformer architecture that reuses physical layers dynamically to achieve high-capacity reasoning within compact memory footprints. Consumer Hardware Accessibility: Advanced quantization formats enable high-performing open models to run smoothly on standard consumer GPUs without sacrificing baseline output quality. Tiered Scalability with Qwen: Modern model families offer balanced configurations that map cleanly across entry-level to enthusiast GPU tiers, maximizing throughput via mixture-of-experts designs. Extensive Ecosystem Compatibility: Immediate day-0 integration with mainstream inference runtimes ensures flexible local development across both CUDA-powered systems and unified memory platforms.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-11-23T23:47:59+09:00",
+      "category": "tech",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Inside-GLM-5.4-How-Loop-Transformers-Unlock-Generalized-Coding",
+      "title": "Inside GLM-5.4: How Loop Transformers Unlock Generalized Coding",
+      "summary": "Weight-Reusing Loop Architecture: GLM-5.4 executes existing transformer layers across multiple passes, deepening computational reasoning without inflating raw model size. Stabilized Two-Pass…",
+      "description": "Weight-Reusing Loop Architecture: GLM-5.4 executes existing transformer layers across multiple passes, deepening computational reasoning without inflating raw model size. Stabilized Two-Pass Optimization: Continuous pre-training paired with independent token gating and a hybrid cache preserves activation stability and accelerates runtime execution. Generalized Coding Paradigm: The model expands program synthesis beyond standard software development into multimodal domains such as CAD modeling, robotics, and procedural video generation. Targeted Ecosystem Deployment: The system is integrated directly into Z.ai subscriptions and developer CLI tools, with standalone API access and weight releases slated following safety hardening.",
+      "lang": "en"
     }
   ]
 }
