@@ -3848,6 +3848,16 @@
       "summary": "Hypervisor-Free Co-Kernel Model: The project compiles Apple's open-source XNU kernel into a loadable module, executing macOS processes alongside standard Linux tasks on bare-metal arm64 hardware…",
       "description": "Hypervisor-Free Co-Kernel Model: The project compiles Apple's open-source XNU kernel into a loadable module, executing macOS processes alongside standard Linux tasks on bare-metal arm64 hardware. Interactive Graphical Desktop: Custom virtualized kernel extensions route display, input, and storage subsystems to render a functional macOS desktop environment directly on a Linux host. Near-Native Execution Speed: Desktop boot speeds rival or surpass traditional virtualization environments while leveraging accelerated GPU rendering pipelines. Strict License Isolation: Linux GPL code and XNU APSL components are separated across a specialized interface boundary to maintain architectural segregation. Clean Upstream Lineage: Rooted in foundations from UniXNU and macOS-DroidVM, the implementation builds entirely against genuine Apple installation media without distributing proprietary binaries.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-11-23T23:46:26+09:00",
+      "category": "ai",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/How-Agent-Harnesses-Function-as-the-Operating-System-for-AI-Models",
+      "title": "How Agent Harnesses Function as the Operating System for AI Models",
+      "summary": "The Fundamental Agent Formula: Modern autonomous systems rely on the architectural paradigm where the model supplies cognition while the harness acts as the full operating environment. Enforced…",
+      "description": "The Fundamental Agent Formula: Modern autonomous systems rely on the architectural paradigm where the model supplies cognition while the harness acts as the full operating environment. Enforced Authority Over Raw Ability: Operating system-level boundaries enforce hard sandboxing, network isolation, and credential security rather than relying on soft prompt instructions or rubber-stamp human approvals. Tripartite Decoupled Architecture: Scaling enterprise workloads requires isolating the cognitive brain, the containerized execution hands, and the durable append-only session state. Cybernetic Feedback Regulation: Robust harnesses blend deterministic feedforward guides with post-execution verification sensors to intercept compound loop failures before tasks finalize. Harness Tuning Outweighs Model Swaps: Optimizing middleware hooks, tool schemas, and environment affordances consistently drives greater reliability improvements than migrating to larger foundation weights. Dynamic and Evolutionary Lifecycles: Effective harnesses treat scaffolding as ephemeral infrastructure, shedding rigid workarounds as newer model generations absorb native reasoning proficiencies. Convergence with Distributed Systems: Scaled agent deployments function as distributed actor frameworks, embedding non-deterministic language models inside deterministic state machines and enterprise control planes.",
+      "lang": "en"
     }
   ]
 }
