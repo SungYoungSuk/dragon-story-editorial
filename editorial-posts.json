@@ -3802,6 +3802,15 @@
       "summary": "On-Demand Schema Loading: Tool Retrieval enables the Gemini API to compress inactive tool declarations into minimal identifiers, retrieving detailed parameter schemas only when the model needs to…",
       "description": "On-Demand Schema Loading: Tool Retrieval enables the Gemini API to compress inactive tool declarations into minimal identifiers, retrieving detailed parameter schemas only when the model needs to invoke them. Flexible Execution Modes: Developers can choose between zero-setup server-side search handled entirely by Gemini or client-side retrieval to query custom external indices and permission-governed catalogs. Prompt Prefix Cache Preservation: Deferring parameter definitions keeps the prompt start stable from turn to turn, allowing full compatibility with prompt caching and bulk deferral for Model Context Protocol servers. Substantial Context Optimization: By drastically minimizing the footprint of idle declarations, the mechanism yields significant token economies for agent architectures managing dozens or hundreds of tools. Permanent In-Session Schema Retention: Retrieved schemas remain active in the model's context for the duration of the conversation, making strategic separation between permanent core tools and deferred utilities essential.",
       "lang": "en"
+    },
+    {
+      "title": "리눅스 커널 위에서 네이티브로 구동하는 macOS GUI 아키텍처 분석",
+      "url": "https://dragon-story.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%BB%A4%EB%84%90-%EC%9C%84%EC%97%90%EC%84%9C-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C%EB%A1%9C-%EA%B5%AC%EB%8F%99%ED%95%98%EB%8A%94-macOS-GUI-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EB%B6%84%EC%84%9D/",
+      "description": "하이퍼바이저 없이 수정되지 않은 리눅스 커널 위에서 XNU 커널 모듈을 로드하여 macOS GUI와 데스크톱 환경을 네이티브로 구동하는 XNU Linux 아키텍처의 기술적 구조와 성능 검증 결과를 분석합니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-11-23T23:39:44+09:00"
     }
   ]
 }
