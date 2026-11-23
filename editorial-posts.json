@@ -3858,6 +3858,16 @@
       "summary": "The Fundamental Agent Formula: Modern autonomous systems rely on the architectural paradigm where the model supplies cognition while the harness acts as the full operating environment. Enforced…",
       "description": "The Fundamental Agent Formula: Modern autonomous systems rely on the architectural paradigm where the model supplies cognition while the harness acts as the full operating environment. Enforced Authority Over Raw Ability: Operating system-level boundaries enforce hard sandboxing, network isolation, and credential security rather than relying on soft prompt instructions or rubber-stamp human approvals. Tripartite Decoupled Architecture: Scaling enterprise workloads requires isolating the cognitive brain, the containerized execution hands, and the durable append-only session state. Cybernetic Feedback Regulation: Robust harnesses blend deterministic feedforward guides with post-execution verification sensors to intercept compound loop failures before tasks finalize. Harness Tuning Outweighs Model Swaps: Optimizing middleware hooks, tool schemas, and environment affordances consistently drives greater reliability improvements than migrating to larger foundation weights. Dynamic and Evolutionary Lifecycles: Effective harnesses treat scaffolding as ephemeral infrastructure, shedding rigid workarounds as newer model generations absorb native reasoning proficiencies. Convergence with Distributed Systems: Scaled agent deployments function as distributed actor frameworks, embedding non-deterministic language models inside deterministic state machines and enterprise control planes.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-11-23T23:47:03+09:00",
+      "category": "ai",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/How-Unsloth-Desktop-and-Inkling-2-Mini-Redefine-Local-AI",
+      "title": "How Unsloth Desktop and Inkling 2 Mini Redefine Local AI",
+      "summary": "Streamlined Local Serving: Unsloth Desktop eliminates terminal-based environment management, allowing developers to deploy and share local models across a home network via an intuitive graphical…",
+      "description": "Streamlined Local Serving: Unsloth Desktop eliminates terminal-based environment management, allowing developers to deploy and share local models across a home network via an intuitive graphical interface. Algorithmic Parameter Efficiency: Inkling 2 Mini introduces an innovative looped transformer architecture that reuses physical layers dynamically to achieve high-capacity reasoning within compact memory footprints. Consumer Hardware Accessibility: Advanced quantization formats enable high-performing open models to run smoothly on standard consumer GPUs without sacrificing baseline output quality. Tiered Scalability with Qwen: Modern model families offer balanced configurations that map cleanly across entry-level to enthusiast GPU tiers, maximizing throughput via mixture-of-experts designs. Extensive Ecosystem Compatibility: Immediate day-0 integration with mainstream inference runtimes ensures flexible local development across both CUDA-powered systems and unified memory platforms.",
+      "lang": "en"
     }
   ]
 }
