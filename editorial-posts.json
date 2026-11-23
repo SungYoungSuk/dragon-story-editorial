@@ -3838,6 +3838,16 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-11-23T23:42:09+09:00"
+    },
+    {
+      "published_at": "2026-11-23T23:45:44+09:00",
+      "category": "tech",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/XNU-Linux-Brings-macOS-GUI-to-Arm64-Linux-Without-Hypervisors",
+      "title": "XNU Linux Brings macOS GUI to Arm64 Linux Without Hypervisors",
+      "summary": "Hypervisor-Free Co-Kernel Model: The project compiles Apple's open-source XNU kernel into a loadable module, executing macOS processes alongside standard Linux tasks on bare-metal arm64 hardware…",
+      "description": "Hypervisor-Free Co-Kernel Model: The project compiles Apple's open-source XNU kernel into a loadable module, executing macOS processes alongside standard Linux tasks on bare-metal arm64 hardware. Interactive Graphical Desktop: Custom virtualized kernel extensions route display, input, and storage subsystems to render a functional macOS desktop environment directly on a Linux host. Near-Native Execution Speed: Desktop boot speeds rival or surpass traditional virtualization environments while leveraging accelerated GPU rendering pipelines. Strict License Isolation: Linux GPL code and XNU APSL components are separated across a specialized interface boundary to maintain architectural segregation. Clean Upstream Lineage: Rooted in foundations from UniXNU and macOS-DroidVM, the implementation builds entirely against genuine Apple installation media without distributing proprietary binaries.",
+      "lang": "en"
     }
   ]
 }
