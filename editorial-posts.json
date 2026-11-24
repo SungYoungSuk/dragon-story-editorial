@@ -3905,6 +3905,15 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-11-24T22:39:03+09:00"
+    },
+    {
+      "title": "OpenAI Codex 0.173.0-alpha.5 알파 배포, 로컬 터미널 코딩 에이전트 구조 분석",
+      "url": "https://dragon-story.com/entry/OpenAI-Codex-0.173.0-alpha.5-%EC%95%8C%ED%8C%8C-%EB%B0%B0%ED%8F%AC-%EB%A1%9C%EC%BB%AC-%ED%84%B0%EB%AF%B8%EB%84%90-%EC%BD%94%EB%94%A9-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B5%AC%EC%A1%B0-%EB%B6%84%EC%84%9D/",
+      "description": "OpenAI Codex 0.173.0-alpha.5 알파 빌드 배포와 크로스 플랫폼 CLI 바이너리 구조, 그리고 직전 릴리스의 런타임 및 모델 인터페이스 진화 과정을 살펴봅니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-11-24T22:39:41+09:00"
     }
   ]
 }
