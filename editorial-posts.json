@@ -3878,6 +3878,15 @@
       "summary": "Weight-Reusing Loop Architecture: GLM-5.4 executes existing transformer layers across multiple passes, deepening computational reasoning without inflating raw model size. Stabilized Two-Pass…",
       "description": "Weight-Reusing Loop Architecture: GLM-5.4 executes existing transformer layers across multiple passes, deepening computational reasoning without inflating raw model size. Stabilized Two-Pass Optimization: Continuous pre-training paired with independent token gating and a hybrid cache preserves activation stability and accelerates runtime execution. Generalized Coding Paradigm: The model expands program synthesis beyond standard software development into multimodal domains such as CAD modeling, robotics, and procedural video generation. Targeted Ecosystem Deployment: The system is integrated directly into Z.ai subscriptions and developer CLI tools, with standalone API access and weight releases slated following safety hardening.",
       "lang": "en"
+    },
+    {
+      "title": "복잡한 공학 시뮬레이션을 GPU로 더 빠르게… NVIDIA ‘cuDSS 1.0’ 공개",
+      "url": "https://dragon-story.com/entry/%EB%B3%B5%EC%9E%A1%ED%95%9C-%EA%B3%B5%ED%95%99-%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%EC%9D%84-GPU%EB%A1%9C-%EB%8D%94-%EB%B9%A0%EB%A5%B4%EA%B2%8C-NVIDIA-cuDSS-1.0-%EA%B3%B5%EA%B0%9C/",
+      "description": "NVIDIA가 정식 출시한 cuDSS 1.0 라이브러리는 공학 시뮬레이션과 반도체 회로 해석에서 희소 선형계를 고속으로 처리하는 희소 직접 솔버입니다. Intel MKL 대비 압도적 연산 가속과 수치 안정성, 하이브리드 메모리 모드를 제공합니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-11-24T22:36:07+09:00"
     }
   ]
 }
