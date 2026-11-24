@@ -3914,6 +3914,16 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-11-24T22:39:41+09:00"
+    },
+    {
+      "published_at": "2026-11-24T22:40:54+09:00",
+      "category": "tech",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/NVIDIA-cuDSS-1.0-Brings-GPU-Acceleration-to-Engineering-Sparse-Solvers",
+      "title": "NVIDIA cuDSS 1.0 Brings GPU Acceleration to Engineering Sparse Solvers",
+      "summary": "Substantial Multi-Phase Acceleration: Delivers dramatic throughput gains across symbolic analysis, numerical factorization, and triangular solve phases compared to traditional CPU-based sparse…",
+      "description": "Substantial Multi-Phase Acceleration: Delivers dramatic throughput gains across symbolic analysis, numerical factorization, and triangular solve phases compared to traditional CPU-based sparse solvers. Enhanced Indefinite Stability: Integrates default Bunch-Kaufman pivoting and symmetry-preserving matching to solve ill-conditioned symmetric indefinite systems without numerical breakdown. Hybrid Memory Orchestration: Solves massive linear systems on a single GPU by intelligently offloading inactive factor data to host system DRAM. Extensible Pinned Memory Handling: Introduces user-configurable host memory handlers to eliminate memory registration latency and maximize host-to-device transfer bandwidth. Flexible Hybrid Execution: Combines optimized GPU symbolic routines with an optional host-execution mode to mitigate peak device memory consumption during the analysis phase. Refined Production API: Standardizes on native CUDA data types while introducing 64-bit row offset indexing to simplify integration within modern engineering toolchains.",
+      "lang": "en"
     }
   ]
 }
