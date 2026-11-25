@@ -3963,6 +3963,15 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-11-25T21:30:11+09:00"
+    },
+    {
+      "title": "GPT-6 범용 모델의 단백질 설계 역량: 실험실 검증과 남은 과제",
+      "url": "https://dragon-story.com/entry/GPT-6-%EB%B2%94%EC%9A%A9-%EB%AA%A8%EB%8D%B8%EC%9D%98-%EB%8B%A8%EB%B0%B1%EC%A7%88-%EC%84%A4%EA%B3%84-%EC%97%AD%EB%9F%89-%EC%8B%A4%ED%97%98%EC%8B%A4-%EA%B2%80%EC%A6%9D%EA%B3%BC-%EB%82%A8%EC%9D%80-%EA%B3%BC%EC%A0%9C/",
+      "description": "거대 언어 모델인 GPT-6가 전용 생물학 AI 호출 없이 추론과 코드만으로 단백질 형태와 서열을 독자 설계한 연구 결과와 실제 웻랩 실험 검증 성과를 조명합니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-11-25T21:30:52+09:00"
     }
   ]
 }
