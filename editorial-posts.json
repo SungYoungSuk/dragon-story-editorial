@@ -3954,6 +3954,15 @@
       "summary": "Continuous Pre-Release Velocity: OpenAI has published Codex v0.173.0-alpha.5 to the official repository, marking another step in an active sequence of iterative alpha test builds. Terminal Workflow…",
       "description": "Continuous Pre-Release Velocity: OpenAI has published Codex v0.173.0-alpha.5 to the official repository, marking another step in an active sequence of iterative alpha test builds. Terminal Workflow Streamlining: Upgrades surrounding this iteration build upon interactive terminal capabilities, including transcript thread linking and slash command argument completion. Cross-Environment Stability: Recent developments reinforce session state preservation across differing client-server environments and optimize lazy initialization for external tool protocols. Versatile Platform Distribution: The standalone CLI remains readily deployable across macOS and Linux architectures, supporting both ChatGPT plan holders and API key configurations.",
       "lang": "en"
+    },
+    {
+      "title": "엔비디아, 차세대 DLSS 5와 언리얼 엔진 5.9 AI 애니메이션 툴체인 공개",
+      "url": "https://dragon-story.com/entry/%EC%97%94%EB%B9%84%EB%94%94%EC%95%84-%EC%B0%A8%EC%84%B8%EB%8C%80-DLSS-5%EC%99%80-%EC%96%B8%EB%A6%AC%EC%96%BC-%EC%97%94%EC%A7%84-5.9-AI-%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98-%ED%88%B4%EC%B2%B4%EC%9D%B8-%EA%B3%B5%EA%B0%9C/",
+      "description": "엔비디아가 공개한 게임 개발자용 AI 애니메이션 및 RTX 툴 업데이트 소식입니다. Dagor Engine의 DLSS 5 도입, 언리얼 엔진 5.9 Kimodo AI 모션 생성, In-Game Inferencing SDK 1.8, RTXDI 3.2, BVH Viewer 1.0, 그리고 RTX Path Tracing 1.9의 주요 성능 개선 사항을 다룹니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-11-25T21:30:11+09:00"
     }
   ]
 }
