@@ -3972,6 +3972,15 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-11-25T21:30:52+09:00"
+    },
+    {
+      "title": "NVIDIA Cosmos 3 로컬 구동 가이드: 허깅페이스 디퓨저스로 12GB VRAM 활용법",
+      "url": "https://dragon-story.com/entry/NVIDIA-Cosmos-3-%EB%A1%9C%EC%BB%AC-%EA%B5%AC%EB%8F%99-%EA%B0%80%EC%9D%B4%EB%93%9C-%ED%97%88%EA%B9%85%ED%8E%98%EC%9D%B4%EC%8A%A4-%EB%94%94%ED%93%A8%EC%A0%80%EC%8A%A4%EB%A1%9C-12GB-VRAM-%ED%99%9C%EC%9A%A9%EB%B2%95/",
+      "description": "NVIDIA Cosmos 3 모델을 Hugging Face Diffusers와 연동하여 12GB VRAM 로컬 환경에서 구동하는 기술과 CPU 오프로딩, FP8 혼합 정밀도, 멀티모달 생성 파이프라인 최적화 방법을 상세히 설명합니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-11-25T21:31:40+09:00"
     }
   ]
 }
