@@ -4051,6 +4051,15 @@
       "summary": "Automated Calculation Saturation: Frontier AI models have effectively mastered well-defined theoretical physics calculations, rapidly exhausting frontier benchmarks like TheoPhysEval by solving…",
       "description": "Automated Calculation Saturation: Frontier AI models have effectively mastered well-defined theoretical physics calculations, rapidly exhausting frontier benchmarks like TheoPhysEval by solving multi-page expert problems in minutes. Widespread Elite Adoption: Leading theoretical physicists now routinely deploy autonomous multi-agent systems to audit published literature, verify complex derivations, and conduct parallel research workflows. Preprint Deluge: Accelerated manuscript generation has triggered an unprecedented surge in theoretical submissions, overwhelming traditional reading habits and forcing researchers to rely on private filtering networks. Pedagogical and Career Crisis: The automation of manual calculations disrupts standard doctoral training, leaving senior faculty questioning how future students will build physical intuition and secure stable academic paths. The Experimental Bottleneck: While machine reasoning can formally verify massive mathematical proofs, progress in fundamental domains like quantum gravity remains limited by empirical testing rather than a scarcity of theoretical ideas.",
       "lang": "en"
+    },
+    {
+      "title": "마이크로소프트 Ignite 2026 핵심 정리: 업무용 OS로 진화한 Copilot과 에이전트 거버넌스",
+      "url": "https://dragon-story.com/entry/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8-Ignite-2026-%ED%95%B5%EC%8B%AC-%EC%A0%95%EB%A6%AC-%EC%97%85%EB%AC%B4%EC%9A%A9-OS%EB%A1%9C-%EC%A7%84%ED%99%94%ED%95%9C-Copilot%EA%B3%BC-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8-%EA%B1%B0%EB%B2%84%EB%84%8C%EC%8A%A4/",
+      "description": "마이크로소프트 Ignite 2026에서 발표된 Copilot의 업무용 OS 진화, Microsoft IQ, Agent 365 기반 에이전트 거버넌스, Microsoft Perception 보안 체계 및 Foundry 모델 포트폴리오를 총정리합니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-11-26T22:32:21+09:00"
     }
   ]
 }
