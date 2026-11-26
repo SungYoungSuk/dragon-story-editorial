@@ -4011,6 +4011,16 @@
       "summary": "Accessible Local Execution: Native Diffusers CPU offloading streams transformer blocks over PCIe, enabling the 16-billion-parameter Cosmos 3 Nano model to run on consumer GPUs with as little as 12 GB…",
       "description": "Accessible Local Execution: Native Diffusers CPU offloading streams transformer blocks over PCIe, enabling the 16-billion-parameter Cosmos 3 Nano model to run on consumer GPUs with as little as 12 GB of VRAM. Hybrid FP8 Precision Scheduling: A dynamic schedule toggles between W8A16 on boundary steps and W8A8 during middle steps, cutting memory usage while preventing visual flickering in generated video. Unified Multimodal Pipeline: Official Diffusers modular pipelines orchestrate seven generative modalities—including text-to-video, synchronized stereo audio, and multi-tier robotic action conditioning—under a single API. Throughput-for-Footprint Tradeoff: Running multi-gigabyte foundation models on entry-tier GeForce RTX hardware shifts bottlenecks to host RAM capacity and PCIe bandwidth, exchanging real-time latency for complete local hardware feasibility. Built-In Safety and Automated Profiling: Automated memory profiling tunes prefetching and tiling out of the box, while integrated multimodal guardrails inspect prompts and visual outputs to maintain operational compliance.",
       "lang": "en"
+    },
+    {
+      "published_at": "2026-11-26T22:29:31+09:00",
+      "category": "tech",
+      "source_label": "tech.dragon-story",
+      "url": "https://tech.dragon-story.com/entry/Microsoft-Ignite-2026-Copilot-Work-OS-and-Agent-365-Governance",
+      "title": "Microsoft Ignite 2026: Copilot Work OS and Agent 365 Governance",
+      "summary": "Copilot evolves into the Work OS: Unified chat, coworking, coding, and autonomous agents merge native Office applications and enterprise data federation into a single daily workflow. Centralized…",
+      "description": "Copilot evolves into the Work OS: Unified chat, coworking, coding, and autonomous agents merge native Office applications and enterprise data federation into a single daily workflow. Centralized control via Agent 365: A dedicated enterprise control plane introduces comprehensive FinOps visibility, cost attribution, and tools registries to govern fleet-wide agent ecosystems. Zero-trust security and agent identity: Microsoft Entra establishes automated Agent IDs, an MCP Firewall, and open transparency standards to eliminate unverified, nested autonomous operations. Production-grade model evaluation in Foundry: Azure Foundry achieves general availability for multi-turn execution trace evaluations alongside optimized reasoning models and reflection-driven optimizers. Copilot SDK 2.0 redefines developer tooling: A native Rust runtime powers multi-language agent development, paired with automated end-to-end repository pipelines and isolated code-review sandboxes. Arm-based silicon and runtime isolation: Azure Cobalt 200 custom virtual machines reach general availability alongside AKS Agent Sandbox extensions engineered for secure, hardware-isolated code execution. Intelligent hybrid data and sovereign operations: Azure HorizonDB launches with integrated vector indexing, complemented by disconnected rehoming capabilities across full-stack Azure Local environments.",
+      "lang": "en"
     }
   ]
 }
