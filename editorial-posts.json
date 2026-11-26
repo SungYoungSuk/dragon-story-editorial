@@ -4060,6 +4060,15 @@
       "source_label": "dragon-story",
       "lang": "ko",
       "published_at": "2026-11-26T22:32:21+09:00"
+    },
+    {
+      "title": "엔비디아 Nemotron 3.5 Parse 생태계 공개: 오픈 데이터와 파인튜닝 레시피",
+      "url": "https://dragon-story.com/entry/%EC%97%94%EB%B9%84%EB%94%94%EC%95%84-Nemotron-3.5-Parse-%EC%83%9D%ED%83%9C%EA%B3%84-%EA%B3%B5%EA%B0%9C-%EC%98%A4%ED%94%88-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%99%80-%ED%8C%8C%EC%9D%B8%ED%8A%9C%EB%8B%9D-%EB%A0%88%EC%8B%9C%ED%94%BC/",
+      "description": "엔비디아의 Nemotron 3.5 Parse 모델 가중치, 1,890만 건의 합성 데이터, DFlash2 투기적 디코딩 및 NeMo 기반 도메인 맞춤 파인튜닝 레시피와 문서 인텔리전스 파이프라인 구축 방법을 다룹니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-11-26T22:33:10+09:00"
     }
   ]
 }
