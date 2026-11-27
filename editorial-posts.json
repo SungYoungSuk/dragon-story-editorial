@@ -4107,6 +4107,15 @@
       "summary": "Historic Regulatory Milestone: The FCC has granted regulatory clearance for SpaceX to operate an orbital computing constellation carrying dedicated AI processing hardware in low Earth orbit…",
       "description": "Historic Regulatory Milestone: The FCC has granted regulatory clearance for SpaceX to operate an orbital computing constellation carrying dedicated AI processing hardware in low Earth orbit. Space-Native Thermal and Power Systems: The spacecraft architecture leverages unconstrained space solar power and deployable liquid radiators to overcome the severe thermal limits of microgravity. Optical In-Orbit Networking: On-orbit processing pipelines bypass terrestrial bottlenecks by relaying processed compute directly through high-speed optical laser links integrated with Starlink. Bypassing Terrestrial Resource Caps: Shifting intensive machine learning workloads to orbit sidesteps Earthbound bottlenecks in electrical grid capacity, real estate, and industrial water cooling.",
       "lang": "en"
+    },
+    {
+      "title": "AI 에이전트와 하드웨어의 만남, 둠 포팅으로 살펴본 개발자의 놀이와 실험",
+      "url": "https://dragon-story.com/entry/AI-%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8%EC%99%80-%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4%EC%9D%98-%EB%A7%8C%EB%82%A8-%EB%91%A0-%ED%8F%AC%ED%8C%85%EC%9C%BC%EB%A1%9C-%EC%82%B4%ED%8E%B4%EB%B3%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EB%86%80%EC%9D%B4%EC%99%80-%EC%8B%A4%ED%97%98/",
+      "description": "AI 시대 개발 문화로 부상한 '놀이의 기술' 철학을 조명하고, GitHub Universe 2026 하드웨어 배지와 AI 에이전트를 활용한 머신러닝 만보기 구현 및 둠(Doom) 펌웨어 이식 사례를 통한 실증적 디버깅 인사이트를 공유합니다.",
+      "category": "IT",
+      "source_label": "dragon-story",
+      "lang": "ko",
+      "published_at": "2026-11-27T22:08:40+09:00"
     }
   ]
 }
